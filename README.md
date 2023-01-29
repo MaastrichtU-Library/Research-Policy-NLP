@@ -1,1 +1,2 @@
 # Research-Policy-NLP
+This project aims to use NLP to discover patterns between research policies of universities across the Netherlands. The project involved scrapping the data in the form of PDF or HTML code, converting the files into txt files. Data cleaning was applied on the text from the policies to ensure the results are as accurate as possible. Natural Language Processing techniques were applied on the text in an attempt of finding patterns between policies.
