@@ -1,0 +1,127 @@
+Privacy statement and disclaimer
+HKU aims to protect the privacy of everyone whose data we process against misuse and against inaccuracy of data, and to prevent personal data from being used for a purpose other than that for which it was collected.
+Privacy statement
+HKU processes personal data in accordance with the General Data Protection Regulation (GDPR).
+
+Scope
+This privacy statement applies to the processing of personal data resulting from the use of this website and functionality offered on it.
+
+Responsibility
+Within the framework of the GDPR, the Executive Board of HKU is responsible for the processing of personal data by HKU.
+
+Stichting Hogeschool voor de Kunsten Utrecht / HKU
+Nieuwekade 1
+3511RV
+Utrecht
+
+PO box:
+Postbus 1520
+3500 BM
+Utrecht
+030-2091509
+
+cbv@hku.nl
+
+Categories of data subjects
+HKU processes data of:
+
+Course applicants
+Prospective students
+Course participants
+Alumni
+Job Applicants
+Purposes
+HKU processes data for the following purposes:
+Course application & admission
+HKU receives data from Studielink provided by the applicant for the purpose of applying to a course at HKU. HKU also processes personal data provided by the applicant to HKU for the purpose of assessing suitability for admission to a course at HKU.
+
+Processed data:
+Data provided by the applicant to Studielink, name, surname, date of birth, place of birth, adress, postal code, place of residence, telephone number, e-mail address, passport photo, portfolio, motivation letter, admission assignments, admission status.
+
+Retention period:
+Data is retained for a maximum of one year.
+Recruitment & selection
+Personal data of applicants is processed for communicating with the applicant, for selecting incoming applications, for the assessment of the applicant by an application committee, and for the handling of complaints pertaining to the application process.
+
+Processed data:
+Name, surname, e-mail address, vacancy, curriculum vitae, motivation letter, references, appointment (date and time), LinkedIn account, pitch (when applicable).
+
+Retention period:
+Applicants' data is retained up to 4 weeks following the filling of a vacany, or are retained up to one year with permission of the applicant.
+
+Relationship management (prospective students)
+Personalised email marketing to prospective students based on interests and behaviour.
+
+Processed data:
+Subscription, expected year of enrollment, school of interest, applied for HKU course, registered for HKU Open Day, date and time of: email received, e-mail opened, links clicked in email.
+
+Retention Period:
+Data is deleted 6 months after the recipient has not opened HKU marketing emails, or immediately after unsubscription by the recipient. Email addresses are retained for continued compliance to opt-outs.
+
+Processor: Spotler
+
+Registration of event participation
+Processed data:
+Among other things: name, surname, event, email address, IP address, type of web browser, type of operating system and language settings.
+
+Retention period:
+We strive to remove personal data within one year after an event has ended.
+
+Processor: Momice
+
+Newsletters
+Processed data:
+Among other things: name, email address, IP-address, device information
+
+Retention period:
+Personal data is deleted after unsubscription to the newsletter by the recipient. Email addresses are retained for continued compliance to opt-outs.
+
+Research
+HKU frequently conducts research to find out how to improve the quality of it's events and procedures.
+
+When, for example, you visited an Open Day or you've participated in a selection & admission procedure, HKU might ask you to voluntarily parttake in a questionnaire. We make sure research results are not traceable to you as an individual.
+
+Some research is conducted with help from an external party, in which case HKU is still responsible for the protection of your personal data.
+Data subject rights
+Pursuant to the GDPR, you have a number of rights that you can excercise with regard to your personal data:
+The right to information about data processing
+The right to rectify inaccurate data
+The right to have personal data deleted when
+the data is no longer necessary for it's intended purpose
+the data have been collected unlawfully
+you withdraw consent for the processing of your personal data
+The right to restrict data processing. Your personal data may only be processed:
+with your permission
+for the protection of the rights of others
+for the purposes of filing, exercising or substantiating legal claims
+Requests to this end can be submitted to the email address privacy@hku.nl. You can also use this address for questions regarding the processing of personal data by HKU. When you submit a request to us to exercise your rights, we may ask you for additional identification.
+
+We are obliged to respond to your request withing 30 days. Requests are reviewed by us for reasonability and feasability. When we are not able to process a request within a period of 30 days we may extend this period to 90 days, in which case we inform you why this is necessary.
+
+If we have a significant interest to process your personal data, we may deny a request to restrict or cease the processing of personal data, or the deletion of personal data.
+Third party data processing
+In some instances we may share your personal data with third parties:
+Government in case of a legal obligation
+Third parties that process personal data in the context of supplying a service to HKU
+For the purposes of sharing data with third parties, HKU draws up data processing addenda, in which arrangements are made for the safe processing of your personal data.
+
+Cross-border transfer of data outside of the EU only takes place if the country where processing takes places offers an appropriate level of protection in accordance with European law.
+(Technical) security
+We have approporiate and up-to-date technical and organisational security measures in place to protect personal data we process against loss or any form of unlawful processing. Personnel is subject to confidentiatlity clauses in HKU's policies.
+Data Protection Officer
+HKU has a Data Protection Officer (DPO). This person advises on the application of data protection legislation and monitors HKU's compliance with this legislation.
+
+The DPO is independent and reports to the Executive Board.
+
+You can reach the DPO via fg@hku.nl.
+Data breaches
+Read more about data breaches and how to report these.
+
+Version: 22 June 2021.
+HKU reserves the right to modify this privacy statement at any time.
+Cookies on this site
+HKU values the privacy of visitors to its website. For this reason we do not use tracking, marketing and social media cookies. However, functional cookies are used that support the functioning of the site. General visitor data is tracked on the website by means of Google Analytics, but data is not shared with other (Google) services.
+Disclaimer
+HKU cannot be held liable for the content of the information on its websites or in its newsletters, or for the consequences of the use thereof. The content may be changed without notice.
+
+No rights can be derived from the information displayed on hku.nl, the student portal, the employee portal, webs, student projects and electronic newsletters. No guarantee is given for the faultless and uninterrupted functioning of the HKU websites.

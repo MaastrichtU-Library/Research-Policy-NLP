@@ -1,0 +1,407 @@
+TIAS Business School B.V. Privacy Policy
+ 
+
+When you contact TIAS Business School B.V. (hereinafter: TIAS) to search for or undertake a study program or to join the alumni network, we require your personal data in order to provide you with the information you have requested, advise you accordingly, register and enroll you, and give you access to learning platforms and networks.
+
+In all situations in which TIAS processes your data, we take great care in handling your data and we comply with privacy legislation requirements. This includes the following:
+
+We clearly state the purposes for which we process personal data, which we do via this Privacy Policy.
+We restrict our collection of personal data to the personal data required for legitimate purposes.
+We will first ask you for your explicit consent to process your personal data in cases where your consent is required.
+We take appropriate security measures to protect your personal data and require the same from third parties that process personal data on our behalf.
+We respect your right to request us to provide access to, rectify, move, erase or restrict the processing of your personal data.
+We will process your personal data only if you make any kind of request to us or enter into any kind of agreement with us (by participating in an educational activity, for instance), if we are allowed/required to do so by law, if we have a legitimate interest in doing so, or if we have your consent to do so. Your consent to the processing of personal data can be withdrawn at any time. This will not affect the lawfulness of the data processing prior to the withdrawal of your consent.
+
+This Privacy Policy provides a detailed explanation of which personal data is processed by us, what we do with it, and why we need it. If you have any questions after reading it, please do not hesitate to contact your Program Adviser, your Program Manager, or our Data Protection Officer.
+
+Our Privacy Policy may be updated in the event of any new developments. The most up-to-date Privacy Policy can always be found at this page on TIAS.edu. We recommend that you regularly check our Privacy Policy for any changes. Below you will find the last date on which this Privacy Policy was updated. You can find the Dutch version here.
+
+This Privacy Policy was last updated on May 31, 2021
+
+Content
+This Privacy Policy is divided into ten chapters.
+
+When does this Privacy Policy apply?
+What are personal data?
+Whose personal data does TIAS process and how do we obtain these data?
+Which data do we process, for what purpose does TIAS use these data and for how long do we store these data?
+Information for website visitors (including contact via other channels)
+Information for interested parties and potential customers
+Information for participants
+Information for alumni
+Information for external lecturers
+Information for applicants
+With whom do we share your data?
+Where do we store your data?
+How do we protect your data?
+What are your rights with regard to your data?
+Questions and privacy access requests
+1. When does this Privacy Policy apply?
+Our Privacy Policy applies to all personal data processed by TIAS. This includes anyone who is or has been in contact with TIAS, such as visitors, interested parties, participants, alumni, applicants, external lecturers and business contacts, in all TIAS-related domains: TIAS.edu, my.tias.edu, tiasconnect.com, our learning environments (Canvas) and all TIAS subdomains, such as info.tias.edu.
+
+2. What are personal data?
+Personal data are all data that can be traced back to you as an individual—such as your name, telephone number, or your physical or email address. They also include data such as your IP address, username or student number, as well as other data that are unique to you, such as programs in which you have expressed an interest, programs in which you are enrolled, events and mailings for which you have signed up, specific content you have downloaded (such as e-books), or your online browsing behavior. Lastly, they include the data we register when you visit one of our locations as a guest.
+
+3. Whose personal data does TIAS process and how do we obtain these data?
+We may process your personal data if you are or have been in contact with TIAS, either directly or indirectly. We receive the data directly from you when you visit our website, create an account and enter certain data in a contact form, or contact our Program Advisers and/or Program Managers. There are cases in which we receive your data from others. When someone registers you for an in-company training or event, for example, we receive your name and contact details from your employer or the event organizer. We may also receive your data from other parties, but only if you have given those parties consent to provide certain data to us.
+For a complete overview of the purposes for which we process your data, please see the chapter 'Which data do we process, for what purpose does TIAS use these data and for how long do we store these data?'
+
+4. Which data do we process, for what purpose do we use these data and for how long do we store these data?
+TIAS processes personal data only when this is necessary to achieve a previously determined purpose. These purposes depend on the groups of people whose data we process, also known as data subjects. Below you will find an overview of these purposes, the data we process for these purposes, and the storage period for the personal data we collect. This overview is largely divided into groups of stakeholders. Some of the purposes we have simply listed; for other, possibly more complex purposes, we have provided a further explanation.
+Please note: in some cases, there is overlap between the information displayed for each group of data subjects. This overlap will not be explained every time it appears in this Policy. As a result, you may find information pertaining to you as a participant under different headings: information for you as a participant can be found under 'Information for participants', while information regarding your website visit can be found under 'Information for website visitors (including contact via other channels)'.
+Information about sending (personalized) emails and other types of contact originating from online contact between TIAS and you as a data subject can be found under 'Information for website visitors (including contact via other channels)'.
+
+4. a) Information for website visitors (including contact via other channels)
+Data for processing a specific request
+
+To be able to follow up and process a specific request, we need some data from you. This might be the case when you are interested in:
+
+A specific study program or study program category (type/topic) for which you download a brochure. 
+A publication which you download (such as an e-book, white paper or a one-pager).
+An event (such as an information session or a webinar) for which you register.
+A CV assessment which you request. 
+Any other specific request which you submit, such as a contact request, a request for advice on study programs, a request for a quotation/cost overview, a scholarship, etc.
+When you submit such a request to us, we may contact you about that request via telephone and email. We will only do so based on your consent, to be able to advise you in your search for a study program, for example, or to check whether you meet the eligibility criteria for a specific event, to communicate any changes in programs, etc. We will collect the relevant data required based on the type of request you submit. These data almost always include your name, email address, career level, prior education, country, and telephone number.
+ 
+Personalization: for the best, most relevant customer approach and experience
+
+In certain situations, TIAS may choose to personalize its communications for the recipient. We want to make it easier for current or potential customers, visitors, and participants to receive the information that is relevant to them, as well as improve our (online) service. Personalizing will help you find what you are looking for faster and reduces your exposure to certain programs, knowledge articles, and publications that are unlikely to be interesting or relevant to you. We do all this based on a profile of you we have drawn up.
+
+We will only personalize our communication where we have a legal basis to do so. Below, you can read more about the situations in which we personalize our communication. 
+
+Personalized emails
+
+We want to keep you informed via email on TIAS School for Business and Society's latest insights, events, and innovations that may support your professional and personal development. These emails contain generic content, but they may also be based on your previously expressed interests and purchases from up to five years ago. This is how we aim to ensure that the content of these emails is relevant and interesting to you. We will send these emails only if you have given us consent to do so and/or if you are already a TIAS customer. If you later decide that you no longer want to receive this kind of information, you can unsubscribe from these emails using the unsubscribe link at the bottom of every email. 
+
+In our email communication, we use technology that can tell us whether you have read our messages and on which hyperlinks you click in them. We do so for analyzing purposes, for example to check whether an email is widely read or not. Given the limited invasion of your privacy, we do not require consent to place the pixels that enable these analyses. TIAS does have a legitimate interest in this. This interest, which is of a commercial nature and consists of obtaining the best possible insight into the interests of the readers of its emails, is carefully weighed against the privacy interests of the recipients of these emails. If you object to the use of this analyzing technique, you may choose not to subscribe to TIAS emails. If you have already subscribed, you can easily unsubscribe by using the opt-out option provided (you can read more about this under 'Cookies: for technology, analysis, personalization and marketing'). 
+
+Personalized ads 
+
+TIAS, our advertising networks, and our media agencies may show you advertisements on the online TIAS platforms and other websites. This is based on your previous visits to our websites and third party websites. Your browsing, searching, and purchasing behavior is collected using cookie techniques, your IP address, and the advertisement number that is linked to the device you are using to browse. We will use these data only if you have given us consent to place marketing or other cookies. Cookies have a limited storage period that varies from cookie to cookie. You can read more about the cookies we place and how to set your cookie preferences here.
+
+Non-personalized recommendations 
+
+When you visit a study program on TIAS.edu or one of our other domains, you will also be shown other programs we recommend (under the header 'Other interesting courses'). And if you are reading a specific knowledge article, we will recommend other interesting content (under the header 'Related articles'). 
+
+These recommendations are based on the study program, knowledge article, or category you are currently viewing. Based on statistics, we know that customers who bought or read the program or article in question were also interested in the other programs or articles. 
+
+These recommendations are not personal: anyone who looks at a study program or article will see the same recommendations.
+
+Profiling explained: personalization relating to contact with TIAS
+
+In order to provide you with the best possible service, we may keep a profile of you as a (potential) TIAS customer. For this profile, we draw on data resulting from your website visit, based on the cookies used or on a downloaded study program brochure, as well as on data regarding purchases you have made at TIAS or any previous interaction you have had with TIAS. We create these profiles to find out who you are and to be able to serve you and make recommendations to you in a more targeted and personal way. We make these recommendations when you contact our Program Advisers or Program Managers and/or via email, if you have given us consent to do so. 
+
+To ensure your profile remains relevant, we rely on data that are no more than five years old. 
+
+We do not use these data to show you different prices during your visit to the TIAS domains than we show our other customers. It is possible, though, that at your next visit, we may have updated the fees for certain study programs, we may be offering a temporary discount, or there may be a difference between the prices for new customers and those for alumni.
+
+To maintain a profile of you as an interested party and/or customer of TIAS, we refer to a legitimate interest. This interest, which, as described above, is of a commercial nature, consists of being able to provide you with the best possible service. To serve this interest, we process only necessary data. If you do not want TIAS to maintain your profile, you can object by contacting us (you will find our contact details at the bottom of this Privacy Policy). 
+
+You can also object to receiving personalized emails based on this profile (see Personalized emails and adjust your cookie settings. You can read more about our Cookie Policy here.) Lastly, you can revoke your consent for placing cookies at any time. Check your browser settings or change your cookie preferences in the cookie banner on our website.
+
+Cookies: for technology, analysis, personalization and marketing
+
+We currently have more than 60 study programs on offer, a number that keeps on growing. Much of our knowledge is also made accessible in the form of knowledge articles and publications. We want to help you find what you are looking for. To this end, we use cookies: they help us analyze your visit to improve your online experience, and ensure that all our online platforms work properly.
+
+Our use of cookies means that when you visit our platforms, we may collect your IP address, information about your internet browser, any language settings, and information about the operating system settings of the computer or mobile device you use to visit us. 
+
+For detailed information about how and which cookies are used by TIAS and their lifespan, please refer to our cookie policy.
+
+Data to prevent fraud
+
+Security incidents and fraud are things we want to avoid at all costs. That is why, where needed, TIAS uses personal data (including data subjects' IP addresses and their browsing, searching, and purchasing behavior) to investigate, prevent, and counter unauthorized access and fraud. Processing these personal data takes place based on TIAS's legitimate interest in combating fraud.
+
+If there has been demonstrable fraud, we will keep certain data related to that fraud for a period of two years after our discovery of said fraud.
+
+Market and customer satisfaction surveys
+
+We are constantly working to improve our services and offerings and make them even more relevant to the needs of our clients, website visitors, interested parties, (potential) participants, and alumni. That is why we may use your data (contact details, customer ID, and registration data) to invite you to participate in an obligation-free market or customer satisfaction survey. Some of these surveys are carried out by third parties. By participating in our surveys, you help TIAS improve.
+
+Participation in market and customer satisfaction surveys is voluntary. How long we store your data, linked to the results of market or customer satisfaction surveys, varies per survey. We will erase all data that can be traced back to you as soon as the survey has been fully finalized.
+
+We analyze data from market and customer satisfaction surveys and from clicking and buying behavior to gain insight into our customers and their use of our services. We do so based on our legitimate interest to further develop our brand positioning, improve our services, and improve our marketing. We may use additional data to enrich these insights. 
+
+We produce aggregated reports only of any analysis, which means that the results cannot be traced back to individuals in any way and will not be used for personalized communication.
+
+4. b) Information for interested parties and potential participants
+Data regarding your contact with our Program Advisers
+
+You can contact TIAS 24/7. You can call us (on workdays), send us an email, chat with us or send us a message via WhatsApp or social media, such as LinkedIn, Facebook, Twitter and Instagram. This way, we can respond to your query as fast as possible.
+
+We use the data we store to contact you regarding your interest, request, or complaint. Saving your data allows us to help you faster next time. 
+
+Program Advisers may also use information regarding your interest in us, as well as your registration and enrollment details, to make relevant recommendations to you after you have contacted us. Our aim is to help you find the right study program based on your interests and study needs.
+
+Telephone conversations with our Program Advisers may be recorded for training and analytical purposes (you will be notified of this prior to your conversation). We have a legitimate interest in using these interactions to improve our services. 
+
+We keep telephone conversations for one month.
+
+If you object to these recordings, we recommend that you use our contact form to ask questions or submit a contact request.
+
+Application process
+
+When you start the application process for a TIAS program, TIAS may process the following data from you:
+
+Contact details
+Country
+Career level
+Prior education
+Curriculum vitae (CV)
+Copies of your diplomas/lists of grades
+Results and notes of the intake interview
+Letter of motivation
+Test results (e.g. IELTS, SHL)
+Any other information provided by you during your interaction with TIAS
+For what purposes do we process your data?
+
+The personal data listed above may be processed by TIAS for the following reasons:
+
+To help prepare your application with TIAS. The information we need may depend on the program for which you are applying.
+To communicate with you upon your request.
+To provide information in the form of newsletters when you subscribe to these newsletters and/or consent to receiving them. You can unsubscribe at any time by using the unsubscribe option at the bottom of every TIAS news item.
+For Market and customer satisfaction surveys.
+What are our storage periods?
+
+TIAS will not store your personal data for any longer than is strictly necessary to achieve the purposes for which your data were collected. This means that:
+
+The personal data we process after you have contacted us will be kept for as long as necessary to complete the interaction in a satisfactory manner.
+Your email address will be kept for as long as you wish to remain subscribed to your preferred channel of information (see above).
+We will keep your data in case you express an interest in a TIAS study program and/or activity and decide to apply, following which we will keep your data for as long as necessary to finalize the application.
+Private messages you send to us via WhatsApp or social media will be kept by us for up to 90 days.
+Some data are kept if necessary for the purposes mentioned under Information for participants.
+
+ 
+
+4. c) Information for participants
+What personal data do we process?
+
+TIAS may process the following data from you:
+
+Contact details
+Country
+Date of birth
+Place of birth
+Admission and invoicing details
+BSN (social security number)
+Passport details
+Photos, visual and audio recordings
+Study products (papers, essays, blogs, etc.)
+Study results (grades)
+Personality test (following a coaching session)
+Dietary and visa information
+Curriculum vitae (CV)
+Copies of your diplomas/lists of grades
+For what purposes do we process your data?
+
+The personal data listed above may be processed by TIAS for the following reasons:
+
+To be able to provide education and offer educational or other activities.
+To be able to test you as a participant, as part of your TIAS study program.
+To be able to supply data to the Basic Register of Education (Basisregister Onderwijs), a legal obligation for NVAO accredited programs.
+For Market and customer satisfaction surveys.
+What are our storage periods?
+
+TIAS will not store your personal data for any longer than is strictly necessary to achieve the purposes for which your data were collected. This means that:
+
+TIAS will keep your admission file for one month if you decide not to enroll and for up to seven years after the end of your program if you do enroll.
+TIAS will keep your student file for up to seven years after the end of your program for accreditation purposes.
+TIAS will keep your invoicing details for up to seven years after the end of your program.
+Customer experiences and reviews
+
+We like to share customer experiences and reviews to help you find what you are looking for. When you contribute to recording (text/video) a customer experience or when you write a review, you will be able to choose whether your personal data (such as name, photo, position, organization) will be visible to others. You may use an alias to write reviews. You can also indicate whether we may contact you regarding your review. We will only post customer experiences and reviews with your consent. Because customer experiences remain valuable for a long time, we keep customer experiences or reviews until you ask us to erase them or until we erase them ourselves. Your consent allows us to use your customer experience or review on our website, in publications (such as a brochure), or on social media. We will use them for three years, unless otherwise agreed with you.
+
+4. d) Information for alumni
+What personal data do we process?
+
+TIAS may process the following data from you:
+
+Contact details
+Country
+Date of birth
+Program
+Year you obtained your diploma
+Degree obtained
+Copy of your diploma
+Copy of your list of grades
+For program-specific rankings (usually MBA or MScBA) we may also process the following data from you:
+
+Gender
+Nationality
+Prior education
+Work experience (prior to and upon completion of your study program)
+Salary details (upon completion of your study program and three years later)
+For what purposes do we process your data?
+
+The personal data listed above may be processed by us:
+
+To communicate with you upon your request.
+For the purpose of providing information in the form of newsletters, events, and the alumni platform. We will do so only if you have subscribed or registered for these services. You can unsubscribe from them at any time using the unsubscribe option at the bottom of every email.
+To be able to confirm to other parties that you have obtained a particular diploma. We will share this information only after having obtained your consent.
+To maintain the alumni register.
+To comply with our legal obligation to collect certain data for accredited study programs. For accredited study programs, we provide personal alumni data to the Basic Register of Education.
+For Market and customer satisfaction surveys.
+What are our storage periods?
+
+TIAS will not store your personal data for any longer than is strictly necessary to achieve the purposes for which your data were collected. This means that:
+
+Your email address will only be added to the list of alumni once you have given your consent and will be kept until you have unsubscribed.
+TIAS is legally obliged to keep your study results for 30 years for diploma and study result verification purposes.
+4. e) Information for external lecturers
+What personal data do we process?
+
+In addition to the internal team of core lecturers, TIAS uses experts in the industry to provide our participants with a broad perspective. TIAS may process the following data from external lecturers:
+Contact details
+Country
+Date of birth
+Primary position
+Photo
+Gender
+Nationality/ies
+Contract and invoicing details
+Evaluations
+For what purposes do we process your data?
+
+TIAS processes the personal data above to enable you to perform your work according to our agreement. For accredited study programs, we may also have a legal obligation to collect certain data.
+
+What are our storage periods?
+
+TIAS will not store your personal data for any longer than is strictly necessary to achieve the purposes for which your data were collected. TIAS is legally obliged to keep your name, address, contract, and invoicing details for up to seven years, for the Dutch tax authorities as well as for accreditation purposes.
+
+4. f) Information for applicants
+What personal data do we process?
+
+Under the header 'Working at TIAS' on TIAS.edu, you can apply for one of our vacancies or submit an expression of interest. As part of your application, we ask you to provide certain information, such as your contact details, motivation letter, and your CV.
+
+For what purposes do we process your data?
+
+The personal data listed above are processed by TIAS to manage your application and—if you start working for us—to allow us to execute the employment contract. In other words, we process the above data in preparation for and in execution of the employment contract we enter into with you.
+
+What are our storage periods?
+
+We will not store your personal data for any longer than is necessary to achieve the above purposes. In the event you do not start working for TIAS after the application procedure, we will keep your data for no longer than six weeks after the procedure has been finalized. This allows us to approach you if a previous candidate turns out not to be suitable after all. If you have given us consent to keep your data for longer, we will keep your data for a maximum of 12 months after the application procedure has ended.
+
+5. With whom do we share your data?
+Partners
+
+When you register via TIAS for a program or event that we organize together with a partner, this partner will receive your name, email address, telephone number, the name of the program (or part of the program) for which you have applied and any other relevant information provided by you, such as your education and career level. The partner needs this information to be able to execute the agreement that you have entered into with them. 
+
+Other third-party service providers
+
+In order to provide you with the best possible service, we use third-party service providers. We use various third-party platforms, relationship management systems, the website, brochures, publications, program or event registrations, the online learning environment, distance learning, and the alumni platform. In addition, we make extensive use of Tilburg University's automation. 
+
+These third-party systems may also be used to process your personal data. We only share those data needed by the third-party service provider to carry out the work they do for us. We do not sell your data to these service providers or other third parties. And we conclude processing agreements with all our third-party service providers that list the purposes for which they can use the data.
+
+The type of work our third-party service providers perform for us generally consists of the following:
+
+Catering
+Providing digital services such as hosting, maintaining, and supporting our websites and applications
+Running our advertising and marketing campaigns
+Conducting market research and obtaining ratings and reviews
+Personalizing messages and providing users with the best possible access to our online platforms
+Providing financial services, such as payment services, collection agencies, and credit rating agencies
+Conducting research and analysis to improve our services.
+Distribution and logistics partners
+
+We work with distribution and logistics partners in order to provide teaching materials, such as books. To be able to process your package correctly, these third parties receive your customer number, order number, name, email address, and delivery address.
+
+Distribution and logistics partners also receive your telephone number if you agreed to this when placing your order. They need this information to deliver your package to your selected address, to keep you informed of the delivery time, and to enable you to use any additional services offered by these logistics partners (such as changing the delivery address).
+
+Government
+
+There are times when we have to share personal data with the government. Certain government bodies, such as the tax authorities, may require these data for the performance of their duties. The police or judicial authorities may also require certain data in the event of fraud or abuse. And lastly, supervisory authorities may gain access to personal data in the context of an investigation.
+
+Only upon your request: sharing your data with other companies
+
+We may share your personal data with other companies, if you are happy for us to do so. This may be the case when one of our commercial partners has an offer for TIAS customers, for example, but we will only share your data with your explicit consent.
+
+6. Where do we store your data?
+We store your data within the European Economic Area ("EEA"). In some cases, however, certain data that we collect may be shared with or stored at a destination outside the EEA, for example when one of our customers is located there, or because we are unable to store the data within the EEA. Plagiarism detection, for example, requires a global database.
+
+When this is the case, we ensure that the data are handled in a safe and lawful manner. TIAS will take appropriate measures to ensure the best possible protection of your data, such as concluding standard data protection clauses set out by the European Commission with the data recipients. For any questions about this, please contact our Data Protection Officer at privacy@tias.edu.
+
+7. How do we protect your data?
+TIAS employs organizational and technical measures to protect and secure your personal data. By implementing a strict access control system we ensure that your personal data is only accessible to employees for whom this is strictly necessary. In addition, we regularly have our security tested by external experts.
+
+SOC/SIEM services
+To ensure the security of your data, we use a Security Operations Center (SOC) and a Security Incident and Event Management (SIEM) service. We purchase these services from SURF in collaboration with Tilburg University (TiU). The SURF SOC supports educational institutions in strengthening their cyber resilience by actively monitoring for threats and vulnerabilities within IT systems. An important part of this service is the SIEM service. The SIEM service is offered by a third party via SURF and consists of a software solution that can be used to intelligently monitor suspicious behaviour within an IT network. By reading and analyzing log files, attacks and other abnormal situations can quickly be identified. Based on this information, action can be taken to minimize the risk of a cyber threat. 
+
+What personal data is processed through the SOC/SIEM service?
+The information communicated to the SIEM service consists of the personal data of anyone who communicates in any way with TIAS. This includes personal data stored in logs of IT services used by TIAS. These logs are forwarded to the SIEM service. This information is supplemented in part by data from network monitoring software and is only accessed when an incident occurs that warrants the examination of the logged data. This data is kept in the SIEM system for up to 183 days. 
+
+Which third parties have access to this data?
+The log files are shared with a number of processing parties, with whom a processing agreement has been concluded. The sharing takes place in order to ensure a consistent quality of service, with regard to our IT-security and availability. 
+
+We collaborate with TiU, for (a large part of) the IT services we purchase. In this way TIAS can use a robust IT infrastructure in which (personal) data is properly secured. Because of this collaboration, we can also offer a reliable service by proactively fighting cyber threats, through the above-described SOC/SIEM, which TIAS and TiU purchase together from SURF. 
+
+TIAS and/or TiU partner with the following parties for the purpose of the SOC/SIEM service: 
+
+SURF: SURF as processor provides SIEM functionality to TIAS and TiU. 
+SURF as provider of SURFcert: SURFcert supports TIAS and TiU with high priority notifications and provides support in the analysis of relevant log files. SURFcert thus gains access to the data used within the SIEM service and to the reports from the system. 
+Fox-IT: Fox-IT delivers the SIEM functionality as a sub-processor.
+UMBRIO: UMBRIO is the sub-processor that manages the Splunk database used for the SIEM system. 
+How do others secure my data?
+Data is stored and transmitted in encrypted form by all parties. Additionally, Multi-Factor Authentication and access logging are used to combat misuse and unauthorized access. Employees and external teachers and coaches hired by TIAS are bound by a confidentiality clause and/or NDA.
+
+If you have any questions or comments about the above, please let us know by contacting us at privacy@tias.edu.
+
+8. What are your rights with regard to your data?
+Right to information
+
+You have the right to an understandable and transparent explanation of the way we handle your personal data and your rights in that regard. That is why this Privacy Policy explains in detail which data we collect from you and how we handle your data.
+
+Right of access
+
+You have the right to request access to the data we have from you at any time. To do so, please contact our Data Protection Officer at privacy@tias.edu. 
+
+Right to rectification
+
+You have the right to have any incorrect or outdated personal data rectified and/or to have any incomplete data completed. You can submit any corrections to your Program Adviser, Program Manager, Alumni Officer, Faculty Office or to our Data Protection Officer at privacy@tias.edu.
+
+Right to object
+
+You have the right to object to the processing of your data if you do not agree with our way of processing. This includes the data we use for marketing. Please contact your Program Adviser, Program Manager, Alumni Officer, Faculty Office or our Data Protection Officer at privacy@tias.edu to let us know that you no longer wish to receive our communications. You can also ask us to no longer use your data for (personalized) mailings. In practically all cases, you can manage this yourself using the unsubscribe link at the bottom of our emails. This right also applies to any other data that we use from you based on our legitimate interest.
+
+Right to data portability
+
+You have the right to receive data that you have provided to us or that we otherwise store. This right enables you to store the data yourself or provide it to another education provider, for example.
+
+The data will be provided to you in a common format and in a structured manner, so that you may use these data elsewhere. For more details, please refer to Article 6.5 of the Teaching and Examination Regulations.
+
+Please note: this refers only to data that we process from you based on the execution of an agreement, such as an education or employment agreement, or because you have given us your consent for it.
+
+Right to restriction
+
+You have the right to request us to restrict the processing of your data. This means that we may keep your data, but not use them. If you wish to exercise this right, please contact our Data Protection Officer at privacy@tias.edu. 
+
+Right to be forgotten/request to erase your account
+
+You have the right to request that we erase all data we have of you. When you submit a request to erase all your data, we will delete all data that can be traced back to you, except for the data that we are obliged or allowed to keep by law.
+
+We are unable to fulfill this request if you have any outstanding applications, enrollments, participations or invoices. We are also unable to fulfill this request if we are allowed to keep your personal data by law despite a request for erasure, for example in the event of account fraud. After you have been an inactive customer or interested party of TIAS for seven years, we will erase all your data, except for the data in our diploma/alumni register, which we must keep by law. 
+
+Right to lodge a complaint
+
+You have the right to lodge a complaint about the way in which we handle your data. 
+
+We want to make sure you are happy about the way we handle your data, and we prefer to handle complaints ourselves where possible. If you have a complaint, please contact your Program Adviser, Program Manager, Alumni Officer, Faculty Office or our Data Protection Officer at privacy@tias.edu.
+
+Under the Privacy Act, you also have the right to lodge a complaint about the way we process your data with the Dutch Data Protection Authority. If you wish to do so, you can contact the Dutch Data Protection Authority directly.
+
+You can find more information about exercising your data rights on the website of the Dutch Data Protection Authority.
+
+9. Questions and privacy access requests
+If you have any further questions about the way TIAS handles personal data or if you wish to submit a request under the privacy legislation described above, please contact our Data Protection Officer, who will be happy to assist you. 
+
+We will be able answer most of your questions quickly, but please allow up to 30 days for the processing of any requests relating to your rights under the GDPR. In the event of highly complicated requests, we may need some more time. We will let you know in advance if this is the case.
+
+You can reach us at:
+
+TIAS Business School B.V.
+Warandelaan 2 Gebouw T
+5037 AB Tilburg
+
+privacy@tias.edu
++31 13 466 86 00
+
+Jorden Bailey
+Data Protection Officer

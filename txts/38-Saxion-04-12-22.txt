@@ -1,0 +1,336 @@
+ 
+ 
+ 
+Saxion Guidelines for Research 
+Datamanagement  
+ 
+January 2018  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Saxion Research Services  
+   
+A. Introduction  
+ 
+1. The preparation and retention of appropriate research data is an essential component of all 
+research.  
+ 
+2. Saxion  and its researchers ha ve a shared responsibility to en sure that research data are 
+appropriately recorded, archived for the required length of time, and made available for 
+review under  appropriate and legal conditions.  
+ 
+3. At a minimum, research data mus t be stored:  
+ 
+a) to address possible questions regarding integrity that can arise with respect to the 
+propriety of research conduct.  
+b) to ensure the poss ibility of reproducing research  thereby validating it . 
+ 
+4. Furthermore,  
+ 
+a) research data are of themselves of great value and valuabl e assets for reuse,   
+b) funders and publishers may demand storing and sharing of research data , 
+c) research data can be required for the protection of intellectual property rights.  
+ 
+5. The execution of these Guidelines is the  responsibility of the Saxion researchers, and will be  
+audited by Data Steward (s). 
+ 
+B. Legal Issues  
+ 
+1. Ownership.  
+ 
+a) Clarification of ownership and rights associated with research data should be 
+determined early in the research project planning.  
+ 
+b) Documentation of  these details should be stored with the research data t o ensure 
+appropriate management and access to the research data associated with the project.  
+ 
+c) In particular , it is preferable that,  where research is undertaken in accordance with a 
+contractual agreement or under  (commercial) sponsorship the ownership of the 
+research data and responsibilities be  determined prior to commencement of the 
+research contract. It should be specified in the r esearch contract.  
+ 
+ 
+  2. Copyright  
+ 
+a) Under the current law and the hbo Collective Agreement (cao hbo) for any work created 
+by employees of Saxion  University of Applied Sciences  the intellectual property rights 
+are owned by Saxion. Work includes  (non -exhaustive  list) datasets, article s, book s, 
+musical composition s, publication s or any  digital or electronic version of these works 
+that contains material created  by any member of staff .  
+ 
+b) The ownership of intellectual property rights of works created by freelance researchers  
+is governed by law. Any changes in ownership must be stipulated in a written contract.  
+ 
+c) The ownership of intellectual property rights of works created by students is governed 
+by law. Any changes in ownership must be stipulated in a written cont ract.  
+ 
+d) For further information concerning Intellectual property please see the Saxion IP rules 
+and regulation s.  
+ 
+ 
+3. Privacy  
+ 
+a) Researchers who are collecting information from or about individuals for th eir research 
+should be aware of the requirements and implications of privacy legislation . They must 
+also be aware of any privacy policy of any other relevant organi zation. T his may affect 
+the data collection, storage, use and disclosure of the information they wish to  collect . 
+Please see the Saxion privacy officer for more information.  
+ 
+b) Researchers are required to implement the Code of Conduct Applied Research for 
+Higher Professional Education (VH)  for all research projects.  
+ 
+ 
+4. Researchers should:  
+ 
+a) Include clear documentation within the research (data management ) dossier about:  
+ 
+- the nature of any private, sensitive or con fidential information collected  
+ 
+- non-disclosure agreements and any restrictions on use of the data;  
+ 
+- consequences/penalties for breaches of confidentiality, and,  
+ 
+- steps taken to safeguard privacy and confidentiality.  
+ 
+b) Ensure that participants have a full description of the project in language they can 
+understand, of the nature of their participation and of the implications in terms of risks 
+and benefits of participating in the res earch. This includes information about what will happen to their information, how it will be used, stored and when it will be disposed of.  
+A standard consent form is available  following discussion with Saxion’s legal team  . 
+ 
+c) Ensure that participants are du ally informed prior to consent and that consent is freely 
+given.  
+ 
+d) Ensure that the  signed consent form s and the information sheet are correctly filed 
+together in the research repository of Saxion  as proof of the process of informed 
+consent and  as evidence that the consent to participate was freely given before the 
+participants participation in the research.  
+ 
+e) Ensure i dentifiable personal data is stored in a  separate  file apart  from the  
+corresponding  research data . The personal data and research data should be  linked  by 
+an identifier . 
+ 
+f) Ensure the contents of the personal data are destroyed when they  are no longer 
+required to reach the aims of the project.  
+ 
+ 
+5. Confidentiality  
+ 
+a) Research data generated or compiled in research projects may be confidential. Please 
+see the Saxion privacy officer for more information. Examples of  confidential material 
+include, but are not limited to:  
+ 
+- Research data which  link individual human particip ants to the research  and may be 
+held for a period of time for a follow up study. F or example signed consent  forms or  
+master lists of names and addresses . Personal information is protected  under 
+Privacy legislation.  
+ 
+- Research data which  are sensitive . For example, highly personal data,  data which 
+may be  incriminating either to the provider of the data or to a third party , data that 
+although  not directly related to an individual  is in such a form that identification  the 
+subject  can still be made (for example  photographs, videotape, audiotape).  
+ 
+- Research data that may cause harm to a third party should it be released.  
+ 
+- Research data protected by a contract of secrecy or non -disclosure. The research 
+may be  considered ‘commercially valuable’ or ‘trade sec ret’. 
+ 
+b) Research material of a sensitive or confidential nature, which has possible patent, 
+trademarks or  Intellectual Property implications is considered confidential for 
+commercial purposes. Information about  relevant documents and contracts relating to 
+these agreements should be stored with the data.  c) Confidential research data should be stored securely, with controlled access . The signed 
+consent forms for a particular project should be store d separately from the collected 
+research data for that project.  
+ 
+d) Breach of confidentiality agreements and requirements must be reported to the Saxion 
+privacy officer as soon as the knowledge of the breach occurs. A breach is c onsidered to 
+have occurred when : 
+ 
+- Disclosure of research information with imposed confident iality restrictions has 
+happened . 
+ 
+- A formal confidentiality or non -disclosure agreement has been broken . 
+ 
+- Confidential data has entered the public domain . 
+ 
+When in doubt over whether or not a breach has occurred please contact that Saxion 
+Privacy officer.  
+ 
+ 
+6. Patents  (Please see IP rules and regulations ) 
+ 
+a) Where a patent has been granted all research data must be retained for the life of the 
+patent.  
+ 
+b) In the cases of commercially exploitable research, and research data that con cern a 
+patent application filed by the University, it is necessary for original research data to be 
+retained at the University.  
+ 
+c) All correspo ndence, deeds and contracts associated with the commercial exp loitation of 
+the patent must be retained within the repository of the University.  
+ 
+d) Researchers are required to disclose inventions to the University. This will p rovide a 
+means of assessing the potential value of the intellectual property.  
+ 
+ 
+7. Sponsored research  
+ 
+a) Funding bodies may have specific requirements for retention of research da ta. 
+Researchers should be aware of the conditions of any awarded funding  or contracts 
+supporting their research.  
+ 
+ 
+8. Discipline specific practices or codes  
+ a) Researchers should be aware of, and adopt, the relevant practices or codes w ithin their 
+research discipline that establish norms or best practice for the retention of resear ch 
+data and records researchers in discussion with the Saxion Data Librarian . 
+ 
+ 
+C. Document ing, Storing and Archiving Research Data  
+ 
+1. Data Documentation  
+ 
+a) Research data need to be documented with metadata when archiving  research data. 
+Metadata is a subset of core standardized and structured d ata documentation that 
+explains and enables the requirements of A. 3 and 4 to be  met.  
+ 
+b) Researchers are expected to provide provenance and contextual information  for the 
+data so that it can be understood in the future. This information  includes metadata on  
+both file and data level  
+ 
+Metadata on f ile level:  
+ 
+- The context of data collection: project history, aim, objectives and hypotheses  
+ 
+- Data collection methods: sampling, data collection process, instruments used, 
+hardware and  software used, scale and resolution, temporal and geographic 
+coverage and secondary data sources  used  
+ 
+- Dataset structure of data files, study cases, relationships between files  
+ 
+- Data validation, checking, proofing, cleaning and quality assurance procedures 
+carried out  
+ 
+- Changes mad e to data over time since their original creation and identification of 
+different versions  of data files  
+ 
+- The legal implications of the research  including privacy  
+ 
+- Information on access and  (re) use conditions or data confidentiality  
+ 
+- The retention (perio ds) and disposal of (parts of) the dataset  
+ 
+ 
+  Metadata on Data-level:  
+ 
+- Names, labels and descriptions for variables, records and their values  
+ 
+- Explanation or definition of codes and classification schemes used  
+ 
+- Definitions of acronyms used  
+ 
+- Codes of, and reasons for, missing values  
+ 
+- Derived data created after collection, with code, algorithm or command file  
+ 
+c) Data level descriptions are preferably embedded within a data file itself. Should this not 
+be possible a separate file with the required information s hould be linked to the data 
+file. Many data analysis software packages  have facilities for data annotation and 
+description, as variable attributes (labels, codes, data type, missing  values), data type 
+definitions, table relationships, etc.  
+ 
+d) Researchers are expected to use the Saxion metadata set. This is based on existing 
+international metadata standards or schemes.  
+ 
+e) Some  disciplines develop and adopt their own metadata standards and/or practices for 
+the management of  their research data . Researchers may use the metadata standards 
+that are prevalent within their  discipline.  This in discussion with the Saxion Data 
+Librarian.  
+ 
+ 
+2. Data storage  during the research process  
+ 
+a) During the res earch process, researchers are responsible for : 
+ 
+- compiling, analyzing and reworki ng their research data in a secure way  
+ 
+- storing  their research data  in a secure way  
+ 
+- storing the corresponding metadata and data documentation  as described under C.1  
+ 
+- the use of a secure data transfer between data storage and data processing devices  
+if no use is being made of the official Saxion ICT infrastructure.  
+ 
+- making backups of the research data . If use is being made of official Saxion storage 
+facilities backups are made automatically  
+ 
+b) Research data may only be stored on Saxion certified and authorized hard - and software 
+infrastructures   
+c) Researchers can make use of secure storage facilities  offered by Saxion  
+ 
+ 
+3. Data Archiving  after completion of the research  
+ 
+a) Upon completion of the research, researchers are expected to:  
+ 
+- Archive  the final version of their research data (with their corresponding metadata) 
+used for creating their scholarly output.  
+ 
+- Archive  the measured or collected raw research data (with their corre sponding 
+metadata).  
+ 
+- Decide which other research data to archive and for how long. Archive  these data 
+(with their corresponding metadata).  
+ 
+- All research data archiving  should be in accordance with the Saxion overview of 
+preferred and acceptable formats  unless otherwise discussed with the Saxion Data 
+Librarian.   
+ 
+- Uniquely identify files using a systematic naming and categorization convention  
+ 
+b) Researchers are expected to use the Saxion  repository for long -term preservation of 
+research data or the  repository that is used as commodity for long -term preservation 
+within their specific discipline. Data deposited in other repositories are required to 
+register the deposit in the Saxion index of research data sets.  
+ 
+c) The library is responsible  for the management of the long -term preservation of research 
+data.  
+ 
+ 
+D. Data Management Plan  
+ 
+a) Researchers are  obliged to hand in a Data Management Plan together with their project 
+proposal.  
+ 
+b) Funding bodies , like NWO and  the EU,  have specific requirements and data 
+management plan s. Researchers should be aware of the conditions of any awarded 
+funding or contracts supporting their research.  
+ 
+c) If a funding body does not request a specific Data Management Plan, the Saxion Data 
+Management Plan  must be used . 
+ 

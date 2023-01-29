@@ -1,0 +1,40 @@
+Privacy statement
+The purpose of the General Data Protection Regulation (GDPR) that goes into effect on 25 May 2018 is to protect the personal data of natural persons. In this connection, the GDPR imposes a number of requirements when processing personal data. Hotelschool The Hague processes personal data of (incoming) students, alumni, employees and applicants, as well as guests who make reservations for the restaurants/hotel rooms, in order to comply with its legal obligations and to ensure proper business operations. Personal data refers to all data associated with an identified or identifiable person. Hotelschool The Hague follows the principles of the GDPR when processing personal data. Data is processed in a lawful, fair and transparent manner. Personal data is only collected and processed for specified, explicit and legitimate purposes. The aim is minimal data processing, whereby the data must be adequate and relevant to the purpose for which it is being collected. Hotelschool The Hague ensures that personal data is protected against unauthorised and unlawful processing and against intentional loss, destruction and damage. Hotelschool The Hague does not retain personal details for any longer than is necessary for the purposes for which they are being processed (Article 5, section 1c of the General Data Protection Regulation).
+
+Hotelschool The Hague processes the following data:
+name, address, city, post code, sex, date of birth, nationality, telephone number, email address, citizen service number, bank account number and student number.
+international students: the data specified under (a) and passport / ID information for submitting residence permit applications to the Immigration & Naturalisation Service (IND).
+study programme documents: copies of diplomas, transcripts, exam committee decisions and admissions decisions.
+data that is necessary from a health or welfare perspective (programme counselling: documents that form a part of the meeting notes prepared by counsellors, deans and psychologists, and for the provision of additional services during exams).
+study programme outcomes: scores, diploma, transcripts and diploma supplement, ending the enrolment, (with or without obtaining a) programme recommendation
+data associated with educational organisation (including quality assessment and promotion) and data that is necessary for issuing or providing access to learning materials.
+data that is relevant for calculating, recording and collecting enrolment fees, tuition and exam fees along with contributions or allowances for learning materials and after-school activities.
+interaction data (e.g cookie or information received when contact is made).
+The personal data is processed in order to:
+provide access to equipment managed by Hotelschool The Hague via the Local Area Network (LAN), which can be used to gain authorised access to the (services of the) network of Hotelschool The Hague.
+provide student administrative services, gain and maintain insight into students’ progress, and organise the educational service.
+distribute school information to the participants of the education service, such as information about participating students and instructors.
+store and process data for communication and administrative services.
+maintain a record of contact with the student, nature of problems, agreement outcomes, and information for other programmes (study progress coordinator, tutor) by student counsellors.
+maintain a record of contact and agreement outcomes with the student by the tutor and study programme coordinator.
+protect people’s safety and health, monitor goods and security access to the buildings using camera surveillance. The camera surveillance policy forms a part of the Student Charter.
+settle disputes and complaints.
+conduct accountancy audits.
+provide financial support.
+recruiting and selecting new students and new employees.
+relationship management and marketing (alumni and web content management).
+determine salary entitlements, perform the employment contract and take care of business medical care.
+manage purchasing systems and payment systems.
+access and management systems.
+library system.
+Personal data can only be accessed by the person the data refers to and the employees of the Hotelschool The Hague, who must be able to access that data in connection with their job. Personal and medical data that are necessary for business medical care and for the activities of the student counsellor, the exam committee or for applying for a contribution from the student financial support fund or the Tuinema fund, may only be stored in the corresponding file upon explicit consent. Medical and personal data may also be provided as part of the RDP procedure.
+
+Hotelschool The Hague provides personal data to third parties, such as the department of education (Dienst Uitvoering Onderwijs –DUO), the municipality of The Hague/Amsterdam, the Immigration and Naturalisation Service, companies and organisations with internship programmes, and other third parties, as long as that data is being provided for data processing purposes, is required by law, or is necessary as part of an agreement the party is a participant in.
+
+Hotelschool The Hague collects (personal) data directly from you, but in some cases Hotelschool The Hague also receives (personal) data via third parties, insofar as this is in accordance with the law.
+
+After students have provided their explicit approval, the data will be distributed to study programme and student associations.
+
+Data that cannot be traced back to individuals is provided to the Statistics Netherlands (CBS), the Netherlands Association of Universities of Applied Sciences and other institutions for scientific and statistical purposes.
+
+If you have any questions, please contact Servicedesk@hotelschool.nl, stating the subject.

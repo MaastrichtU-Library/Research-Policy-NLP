@@ -1,0 +1,277 @@
+Legal
+About privacy, cookies and copyright
+At the Rotterdam University of Applied Sciences we work hard to keep the information on this website up-to-date and complete. For this reason we use cookies and at times we need personal data. In addition we use photography and other copyrighted material.
+Rotterdam University of Applied Sciences attaches great value to the protection of personal data and is responsible for the lawful, careful, and proper processing of your personal data. This Privacy Statement sets out which personal data we collect and how we process it.
+
+In this statement, you can also learn which rights you have and how you can enforce these. We must comply with the applicable laws and regulations, including the General Data Protection Regulation. When processing personal data, it is our policy to be transparent about why and how we process personal data.
+
+If you want to know more about our specific processing activities, please read the relevant sections of this Privacy Statement. This statement applies to all processing of personal data by Rotterdam University of Applied Sciences.
+
+In this Privacy Statement, the terms 'personal data', 'processing' and 'data subject(s)' appear frequently. We will briefly explain these concepts. According to the GDPR, personal data is any information relating to an identified or identifiable natural person. This means that information is either directly about someone or can be traced back to that person. Examples are a name, residential address, IP address but also a student number. Data about organisations is not personal data according to the GDPR.
+
+Processing of personal data involves all actions that an organisation can perform with personal data, from collection to destruction. Data subjects are those whose personal data is being processed. For the Rotterdam University of Applied Sciences these are mostly students, but also employees, alumni, and professional relations.
+
+Security
+To secure data, we take appropriate physical, technical and organisational measures. We have policies, procedures and training on data protection, confidentiality, and security. We also regularly evaluate the measures we have taken to secure the data we store.
+
+Working in secure systems is one of our key principles to ensure the safety of all personal data. If we use third parties to process personal data, we check whether these parties have an adequate level of security.
+
+Despite all the measures taken, incidents may occur in which the safe processing of personal data is temporarily not guaranteed. Such an incident may result in a data breach. A data breach is an incident involving personal data, in which there is access to or the destruction, modification or release of personal data at an organisation, without the intention of this organisation.
+
+Examples of possible data breaches are a stolen work phone or laptop, an incorrectly addressed e-mail, but also the incorrect authorisation of employees in systems can result in a data breach.
+
+We report data breaches that lead to a risk of the rights and freedoms of those involved to the Dutch Data Protection Authority. DPA is the independent Dutch data protection authority that supervises the processing of personal data.
+
+Rotterdam University of Applied Sciences has a permanent group of experts ready to assist you if a data breach has been reported: the Data Breach Response Team. Should you suspect a data breach at Rotterdam University of Applied Sciences, please contact us directly via: datalek@hr.nl.
+
+Why do we process personal data?
+Personal data can be processed for various purposes. One of our main purposes is to provide education, for which we need to process personal data of students and employees.
+
+There are also situations in which we process personal data due to legal obligations. Examples of this are providing data to the Education Executive Agency (DUO in Dutch) for enrolment, termination of enrolment and diploma data of students, and providing salary data of employees to the Tax Authorities as well. 
+
+In the section 'who's and what personal data do we process' you can find more information about the personal data that we process of the individuals concerned. In addition, the purpose of processing personal data is explained.
+
+On what grounds do we process personal data?
+Rotterdam University of Applied Sciences may only process personal data for a 'reason' that is included in the GDPR. Such a reason is called a legal basis. Article 6 of the GDPR provides us with six possible grounds to base processing on.
+
+1. Permission
+The first basis of the GDPR is consent. Consent can be given by a free, specific, informed, and unambiguous expression of will. This can include ticking a check box or submitting a web form. The consent must be explicit and focused on the processing purpose of Rotterdam University of Applied Sciences. Tacit consent is not sufficient. We must therefore inform you properly about what your permission entails, but also which rights you have and how you can exercise these, such as withdrawing permission. After all, consent can also be withdrawn, and this should be just as easy as giving it. Examples of processing that we base on the legal basis of consent are:
+
+Sending information about Rotterdam University of Applied Sciences to interested parties,
+Publishing an interview on one of our communication channels.
+2. Necessary for the execution of a contract
+In certain cases, we need to process personal data for the execution of a contract. The processing of personal data is necessary in order to give effect to the terms of the contract. Examples of this are:
+
+To execute the employment contract between Rotterdam University of Applied Sciences and our employees, for example to pay salaries,
+In the context of the education agreement between Rotterdam University of Applied Sciences and students, for example for the authorisation of the collection of tuition fees.
+3. Legal obligation
+There are legal obligations that require us to process personal data. These obligations may derive from several laws, and you will find some examples below:
+
+Salary data of employees are kept for seven years in accordance with the General Tax Act, 
+Maintaining a student administration, such as keeping track of successfully passed examinations per student. This obligation is based on the Higher Education and Research Act (WHW in Dutch).
+4. Vital interests
+In very exceptional cases, we may process your personal data when this is necessary to protect vital interests. A vital interest applies when it concerns an interest that is essential to someone's life or health, and you cannot ask that person for permission to process his or her data. An example:
+
+A student becomes unconscious during a lesson and the teacher immediately calls 112. He knows the student's name and can immediately pass this on to the emergency services, but the situation does not allow him to ask the student's permission. To protect the student's vital interests, namely his health, the teacher provides the student's personal details to the emergency services.
+5. Public interest
+Rotterdam University of Applied Sciences has only a few tasks of general interest or public authority and will not easily be able to rely on this legal basis. This basis may therefore only be used for the performance of the task of the educational institution as laid down by law. An example of this is
+
+Provision of diploma data to Education Executive Agency (DUO).
+6. Legitimate interest
+Finally, Rotterdam University of Applied Sciences can use the legal basis of legitimate interest to process personal data. The legitimate interest is primarily a balancing of interests. The processing must be necessary for the legitimate interests of Rotterdam University of Applied Sciences and outweigh the privacy interests of the data subject. When evaluating the interest, the first thing to consider is the proportionality of processing. This means whether the purpose of the processing is in proportion to the infringement of the privacy of the data subjects. In addition, we must also check whether the purpose cannot be achieved in a different way that is less intrusive for data subjects. In the GDPR, this is called 'subsidiarity'. Examples of processing based on legitimate interest are:
+
+Approaching alumni;
+Camera surveillance with the aim of protecting the safety and health of staff and students.
+What and whose personal data do we process?
+Rotterdam University of Applied Sciences processes personal data of several categories of data subjects. We undertake to ask only for personal data that is strictly necessary for the purpose in question. Below is a non-exhaustive list of the categories involved, the personal data we process from them and the purposes. These are only examples, so it is possible that we process more personal data of the categories concerned than listed here.
+
+(Prospective) Students
+Alumni
+Employees
+External relations
+Research subjects
+Website visitors
+Visitors at Rotterdam University of Applied Sciences locations
+Below, you can see for each category what personal data is processed and for what purposes.
+
+Category
+
+Examples
+
+Identification details
+
+Name, date of birth, place of birth, student number
+
+Contact details
+
+E-mail address, residential address, telephone number
+
+Visual material
+
+Photos, videos
+
+Financial data
+
+Bank account number, payments
+
+Data of studies
+
+The study programme, diplomas, marksheets, Exam Board letters
+
+Research data
+
+Questionnaires, datasets
+
+Employment data
+
+Curricula vitae, cover letters, employment contracts, citizen service numbers
+
+Digital data
+
+Cookies, IP addresses, account logs
+
+1. Students
+By far the largest group of data subjects from whom we process personal data are (prospective) students. In order to be able to provide education, we will necessarily need to process students' personal data. This happens, among other things, on the legal basis of the execution of an agreement, such as the education contract that the student enters into with the Rotterdam University of Applied Sciences, but in some cases also on the basis of a legitimate interest.
+
+Personal data
+
+Identification details
+Contact details
+Financial data
+Education data
+Research data
+Digital data
+Purposes (inter alia)
+
+Providing education
+Recruitment and selection
+Personal assistance
+Research
+Student administration
+2. Alumni
+With their knowledge, experience and commitment, alumni play a role in the quality of education and can make a positive contribution to the transfer of knowledge to (prospective) students. Rotterdam University of Applied Sciences therefore actively maintains a network of alumni and regularly organises events where alumni are invited.
+
+Personal data
+
+Identification details
+Contact details
+Study programme data
+Digital data
+Purposes (inter alia)
+
+Alumni relations management
+Study information
+Promotional purposes
+3. Employees
+Rotterdam University of Applied Sciences employs more than 4000 people. Within the framework of the employment contract, but in certain cases also because of our statutory obligations, we process personal data of our employees, job applicants and also self-employed persons whom we hire for assignments. The purposes for which this data is processed can vary.
+
+Personal data
+
+Identification details
+Contact details
+Image material
+Financial data
+Study data
+Research data
+Employment data
+Digital data
+Purposes (inter alia)
+
+Execution of employment contract
+Financial administration
+Access to systems and buildings
+Rehabilitation processes
+4. External relations
+It does occur that we process personal data of external parties. This may be the case when entering into agreements with external parties, such as when purchasing software. However, also when entering into internship contracts, personal data of external parties is often processed, such as the name of the internship supervisor and a director’s name signing the internship contract on behalf of a company.
+
+Personal data
+
+Identification details
+Contact details
+Image material
+Financial data
+Digital data
+Purposes (inter alia)
+
+Execution of agreement
+Financial administration
+5. Research subjects
+Rotterdam University of Applied Sciences may process personal data as part of practical and statistical research. Our researchers comply with the Netherlands Code of Conduct for Research Integrity. If necessary, research is reviewed by the (Research) Ethics Committee prior to conducting the study.
+
+Personal data
+
+Research data. Depending on the research, all categories of personal data can be processed
+Purposes (inter alia)
+
+Conducting and publishing practical or statistical research
+Internal and external information provision
+6. Website visitors
+Rotterdam University of Applied Sciences has both a public website and an intranet. We use cookies for statistical purposes. For example, to be able to find out how often a website is visited, which website(s) visitors used to link to our website, and which pages they visited. Based on this information, we continuously improve our website. Cookies are simple small text files that are stored on the hard disk or in the memory of your computer. Cookies cannot damage the computer or the files on your computer. You can read more about this in our Cookie Statement.
+
+Personal data
+
+Digital data
+Purposes (inter alia)
+
+Optimisation of information supply
+Statistical purposes
+7. Visitors at Rotterdam University of Applied Sciences locations
+We find it important to protect the safety and health of employees, students, and visitors to our buildings. That is why Rotterdam University of Applied Sciences uses camera surveillance. Camera surveillance is announced by means of signs, stickers and/or screens at the entrances and exits of the grounds, buildings, and at specific locations in the buildings with camera surveillance. You can read more about this in our Camera Regulations.
+
+Personal data
+
+Visual material
+Purposes (inter alia)
+
+Protecting the health and safety of visitors
+Surveillance of things in the buildings or on the premises and protection of property
+Who do we share personal data with?
+Rotterdam University of Applied Sciences takes great care when providing personal data to third parties. Your personal data will not be made available or sold to other parties. However, there are situations in which we may have to share your personal data with third parties. One such situation could be the improvement of our primary service, the provision of good education.
+
+At Rotterdam University of Applied Sciences, we make use of several software packages from external companies, such as our Learning Management System. This requires us to exchange student data with the external party.
+
+We take data minimisation into account. Data minimisation means that, when collecting and processing personal data, no more data may be used than is necessary to achieve the purpose for which it is to be used.
+
+In certain cases, we also exchange personal data with other educational institutions, such as in the case of an exchange programme. However, it does happen that we have to share your data with authorities due to legal obligations.
+
+Examples are the exchange of student data with the Education Executive Agency, but it is also possible to receive a request for the provision of personal data from law enforcement agencies or a supervisory authority. In such cases, we always check first whether we are legally obliged to comply with the request.
+
+Rotterdam University of Applied Sciences has written agreements with third parties regarding the processing and security of personal data. We conclude processing agreements and data exchange agreements with external parties so that we can maintain control over the processing of personal data.
+
+We try to have data processed within the European Economic Area whenever possible. If an exception must be made, we take measures to guarantee an adequate level of protection for the transfer of personal data.
+
+You can find more information about the transfer of personal data to countries outside the European Economic Area on this website of the Dutch Data Protection Authority.
+
+How long do we keep personal data?
+We will not retain your personal data any longer than is strictly necessary for the purposes for which we have collected the personal data. We base our retention on the Selection List for Universities of Applied Sciences. This list contains a summary and explanation of the most important processes of a university of applied sciences. For these processes, the most important information objects are listed and provided with a substantiated retention period. This can be, for example, a legal retention obligation.
+
+What rights can you exercise?
+According to the GDPR data subjects have various rights to control their personal data. When someone makes use of these rights, we speak of a request from a data subject. For privacy-related questions, requests, or complaints, please contact the privacy team at privacy@hr.nl.
+
+It is also possible to contact our Data Protection Officer directly by email: functionarisgegevensbescherming@hr.nl. The Data Protection Officer supervises compliance with the privacy legislation and advises the Rotterdam University of Applied Sciences about the privacy legislation. The Data Protection Officer has an independent role and reports directly to the Executive Board.
+
+If, in your opinion, your request or complaint has not been dealt with appropriately, you have the option of submitting a complaint to the Dutch Data Protection Authority. Exercising the rights is free of charge, except in the case of abuse. It must be clear from the request which right or rights you are invoking. There are no further formal requirements for the request.
+
+We are obliged to respond to your request by letter or e-mail within one month. Is the request complicated? Or have you sent several requests? In which case, it may take two months longer to properly handle the request.
+
+However, we will inform you within one month that it will take longer and why. We may also ask you for identification, so that we can be sure that the request indeed comes from the person concerned. This prevents personal data being provided to the wrong person or personal data being wrongly changed. This could result in a data breach.
+
+You can find more information in the Regulation on exercising personal data rights. Below you will find the various rights
+
+1. Right to access
+Data subjects have the right to know whether Rotterdam University of Applied Sciences processes their personal data and, if so, what data. An example of this are the notes on students in Osiris Notes. This is personal data and may therefore be requested.
+
+2. Right to be forgotten
+In certain cases, you can request Rotterdam University of Applied Sciences to delete your personal data without unreasonable delay. This right is not absolute but is subject to conditions. If one of the situations below should arise, you can appeal to this right:
+
+Personal data is no longer needed for the purposes for which it was originally collected or processed,
+You have withdrawn your consent and there is no other legal basis for the processing,
+The personal data have been unlawfully processed,
+You object to the processing and there are no compelling reasons to continue the processing, It is therefore not always possible to have your personal data deleted. In certain cases, we also have a legal obligation to process your data. In such cases, a deletion request cannot be granted. For example, we are obliged to keep study results of students and financial data of employees for a number of years.
+3. Right to rectification and additions
+You have the right to amend or rectify inaccurate personal data processed by us that concern you. For example, we may process your name incorrectly, which we must change without unreasonable delay following your request. You can also have incomplete data completed.
+
+4. Right to data portability
+As a data subject, you have the right to receive your personal data from a data controller, in a structured form, readable by a computer and in a common format (e.g., csv, xml, json). This right makes it possible to transfer personal data, for example, to a new employer or to another educational institution.
+
+5. Right to object to data processing
+You may lodge an objection to the processing of personal data in view of your specific situation. This is possible if Rotterdam University of Applied Sciences processes personal data on the basis of legitimate interests or a task of general interest. In this case we will weigh up these interests against those of the rights and freedoms of the data subject. If a data subject objects to the processing of their personal data, we must stop processing the data. Processing can only continue if we provide compelling legitimate grounds for doing so. These legitimate grounds must outweigh the interests, rights and freedoms of the data subject or must concern a legal claim.
+
+6. Right to restriction of processing
+Under certain circumstances you can invoke your right to restrict the use of personal data. There are four ways to do this:
+
+You dispute the accuracy of the personal data,
+The processing is unlawful,
+Your data is no longer needed for the purpose for which it was collected,
+You have objected to the processing.
+7. Right to withdraw prior consent
+If any processing by Rotterdam University of Applied Sciences is based on the principle of consent, you have the right at any time to withdraw your consent to the processing of your data. The processing of your personal data prior to the withdrawal of consent will remain lawful.
+
+Contact
+Rotterdam University of Applied Sciences is located at Museumpark 40, 3015 CX in Rotterdam. Should you have any questions, please do not hesitate to contact us via privacy@hr.nl. Would you like to exercise one of your rights as included in this statement? You may also address your request directly to our Data Protection Officer at functionarisgegevensbescherming@hr.nl.
+
+To report a data breach, please contact the Data Breach Response Team at: datalek@hr.nl.
+
+Privacy Statement Amendments 
+
+We recognise that transparency in relation to the processing of your personal data is an ongoing responsibility. We will therefore periodically review this Privacy Statement. Rotterdam University of Applied Sciences reserves the right to make changes to this Privacy Statement. This Privacy Statement was last updated and adopted by the Executive Board on 20 June 2022.

@@ -1,0 +1,955 @@
+UG Research Data Policy
+2021
+1.Introduction
+The multitude of data being generated and collected
+worldwide offers researchers enormous potential
+for new inventions, perspectives and innovative solutions.
+The condition is that this data is findable,
+accessible and useable. Responsible data management
+contributes to the transparency and reliability of
+scientific conclusions, has a positive influence on
+public confidence in science and increases the social
+impact of research. The University of Groningen wants
+to contribute to science and society and
+therefore endorses the principles of Open Science
+and FAIR data.
+This memorandum sets out the UG-wide starting points
+for dealing with research data and data
+management. This concerns a general framework setting
+out basic principles and responsibilities for
+dealing with data that is useable for research that
+can be published or exploited. Firstly, the UG
+Research Data Management Policy includes the standards
+and principles for good data management,
+for the purpose of verification and to encourage reuse
+(FAIR data), and for the software and scripts that
+are developed for the collection, analysing or representation
+of data.
+There is joint responsibility for research data management
+within the UG and the general framework
+permits tailor-made arrangements within institutes
+and faculties. Secondly, therefore, the UG
+Research Data Management Policy therefore formulates
+the responsibilities and duties of individual
+researchers, graduate schools, research institutes
+and faculties, as well as the Board of the University.
+The faculties and research institutes must update
+their data policies and data management plans in
+line with this policy.
+Given the developments regarding research data and
+data management, there will be a continuous
+need to update the principles and responsibilities
+at different levels within the UG. Policies will
+therefore need to be evaluated and adjusted regularly
+in the coming years
+2.Backgr ound and c ontext upda te
+The first version of the UG’s data management policy
+was published in 2015, as one of the results of the
+three-tier approach started by the Board of the University
+in 2013. This focus on data management was
+prompted by a 2012 advisory report from the Royal
+Netherlands Academy of Arts and Sciences’ Schuyt
+Committee, entitled
+Zorgvuldig en integer omgaan met
+wetenschappelijke onderzoeksgegevens
+.
+The
+approach consisted of:
+1.
+adjustment of the UG’s protocol for quality assurance
+related to research data and data
+management and, if necessary, of UG-wide regulations
+for dealing with research data;
+2.
+the setting up of a research data office for the provision
+of support services of the University
+Library and Center for Information Technology (CIT);
+3.
+proactive focus on the legal aspects of research data.
+The faculty boards and the directors of the SEP institutes
+were requested to develop a data
+management plan for the research institute, aligned
+to the best practices in the curriculum area
+concerned.
+On the basis of the audit conducted in 2018 and 2019
+of research data policy in faculties and research
+institutes, it can be stated that, with some exceptions,
+the three-tier approach of 2013 has been broadly
+translated into concrete progress. The audit made
+clear that an update of the research data policy
+should address a number of topics explicitly. As a
+result, the following four points of attention are
+now
+an integral part of the updated policy:
+1.
+the monitoring of data management plans;
+2.
+the training of researchers and those providing support
+to the research;
+3.
+research data in education;
+4.
+sharing good practices.
+In addition, updating the research data policy is
+necessary against the background of UG, national and
+international developments (cf. Appendix 1). Furthermore,
+this update reflects the UG-policy of the
+implementation of the principles of Open Science.
+In the Strategic Plan (2021-2026) the UG commits to
+stimulating and facilitating transparency in research
+and teaching by implementing and complying with
+the principles of Open Science. This results for research
+data policy in elaborating on and applying
+FAIR-(
+Findable, Accessible, Interoperable. Reproducible
+)
+principes
+1
+for research data: open where
+possible and protected where necessary.
+3.Principles of da ta manag emen t
+Research data are codified and recorded facts and
+observations ensuing from scientific research. There
+is a
+large variety of research data. The data can be of
+a numerical, descriptive, or audio-visual nature.
+Research
+processes generate useable raw data, processed and
+analysed data of a dynamic nature, and lastly data
+of a
+statistical nature, to be archived and curated. Artefacts,
+objects or collections that cannot be digitalised
+fall
+outside the scope of these frameworks.
+In principle, the processing of research data should
+be in accordance with the relevant legislation, the
+requirements of ethically
+2
+responsible research
+3
+,
+the arrangements set out in cooperation agreements,
+and
+the research conditions of funders.
+The Netherlands
+Code of Conduct for Research Integrity includes –
+in
+keeping with all stages of the research process –
+standards and principles for good data management,
+for
+the purpose of verification and to encourage reuse
+(FAIR data). Also, the software and scripts that
+are
+developed for the collection, analysing or representation
+of data are relevant in this context.
+The UG permits tailor-made data storage and management,
+within the general frameworks. Thus, research
+institutes are granted a certain degree of latitude
+when formulating their data management plans, provided
+that these plans enhance the value and impact of their
+data and specify the principles involved. The
+institute’s guidelines  must suit the organisation
+as well as the discipline and have to be in accordance
+with
+the principles below.
+3.1 FAIR data
+Below, the requirements that the data (and software
+and scripts) must meet at the UG are integrated into
+the presently accepted terminology of the FAIR principles.
+The data are:
+Findable:
+●
+Data is sustainably stored and curated;
+●
+Data is provided with metadata, including affiliation
+and, if possible, with a persistent identifier;
+●
+Data is registered on the basis of metadata in the
+research database of the university.
+3
+Cf:
+https://www.vsnu.nl/wetenschappelijke_integriteit.html[accessed March 18, 2021].
+2
+Taken from
+http://www.rug.nl/about-us/where-do-we-stand/quality-works/research-ethics
+[accessed March 18, 
+2021].
+1
+FAIR data: Findable, Accessible, Interoperable, Reusable:
+https://www.go-fair.org/fair-principles/
+[accessed
+March 
+18, 2021].
+Accessible:
+●
+Data is accurate, complete, reliable, authentic and
+provided with metadata and, if possible, with a
+persistent identifier;
+●
+Data is available for checking and further research
+after completion of the research and/or the
+departure of the researcher;
+●
+Data is openly available, unless valid reasons
+4
+prevent
+this.
+Interoperable:
+●
+Data is stored in sustainable file formats;
+●
+The discipline specific standards for the enrichment
+of data are applied;
+●
+Data (and metadata) is provided with references to
+other relevant material.
+Reusable:
+●
+The origin of the data and the affiliation of the
+researcher involved is clear (Provenance);
+●
+The discipline specific standards for data management
+are applied;
+●
+The conditions for reuse are clearly described.
+3.2 Retention periods
+For the retention period regarding research, distinction
+is made between research data (and software) and
+the documentation of the process that is being carried
+out. If the project plan does not specify a retention
+period for data, software and processes, this period
+should be determined retroactively, in consultation
+with all parties involved.
+In general, raw data and the processed version at
+the UG must be saved for at least 10 years. In the
+event of
+research (or secondary research) data with personal
+data, the principle of data minimisation (conform
+GDPR regulation) must be applied as soon as possible.
+The Netherlands Code of Conduct for Research
+Integrity offers options to deviate from the retention
+period of 10 years. However, in that case the raw
+data
+and the processed version must be saved for a period
+suitable for the discipline and the methodology.
+The
+following could be taken into consideration when deciding
+on the retention period:
+●
+the nature (and especially the privacy sensitivity)
+of the data;
+●
+the need for source material to substantiate the results;
+●
+the applied scientific value of the research results;
+●
+the effort to make the data available for re-use;
+●
+the efforts of long term preservation;
+●
+the usefulness of source material for follow-up research.
+The retention period of data management plans and
+data management protocols of projects, faculties and
+research institutes is at least 10 years, but not
+shorter than the retention period of the dataset.
+5
+These
+documents primarily relate to policy making, execution
+and financing of research, and quality assessment.
+Also included here are the (legal) advices of ethical
+committees and agreements, evaluations and further
+agreements with research partners.
+3.3 Funding
+5
+https://www.nationaalarchief.nl/archiveren/kennisbank/selectielijst-universiteiten-en-universitair-medische-centra-
+2020
+[accessed March 18, 2021].
+4
+Valid reasons, including confidentiality, can be
+found in: European Council, conclusions of the Council:
+The 
+transition towards an Open Science system, paragraph
+14 (Brussel, 27/05/2016, 9526/16, via: 
+data.consilium.europa.eu/doc/document/ST-9526-2016-INIT/en/pdf
+)
+[accessed March 18, 2021]. The considerations 
+for this are detailed in the section regarding Retention
+period.
+The Board of the University and the faculties fund
+the general facilities for the purpose of research
+data management. For specific facilities, the costs
+are charged to the faculty.
+The funding of data management costs, including archiving,
+are included in each initial research
+proposal chargeable to the research funder. When determining
+a suitable budget, the costs of data
+management throughout the entire lifecycle and any
+additional costs for the necessary protective
+measures if processing sensitive research data must
+be taken into consideration.
+4. Responsibilities
+Responsible data management requires collaboration
+between research and support services. There is
+joint responsibility for research data management
+within the UG. The guiding principle here is the Higher
+Education and Research Act and the elaboration thereof
+in the Administration and Management
+Regulations UG which allocates the responsibility
+at different levels.
+The central departments, as well as the various faculties
+and institutes, are responsible for providing
+service for the purpose of research data management.
+Although, the Administration and Management
+Regulations UG do not make specific mention of central
+services being tasked with research support, in
+recent years, however, the exchange of knowledge by
+means of short lines between faculties, and the
+provision of services have clearly borne fruit. Adequate
+support for – and the central coordination of –
+training courses will ensure that tailor-made solutions
+can be more widely used by the faculties.
+Furthermore, the Netherlands Code of Conduct for Research
+Integrity imposes a duty of care on the
+institute in terms of education in research integrity,
+research culture and data management, as well as
+the
+exchange of knowledge between ethics boards when assessing
+whether data can be made openly available.
+These lines converge in the Groningen Digital Competence
+Center (GDCC).
+4.1 Researchers
+The researcher is responsible for drawing and implementing
+a data management plan (or having it
+implemented) for all her or his ongoing research during
+which research data is processed. If a plan is
+drawn up for each individual project, then each participating
+researcher will endorse this plan and will
+add any supplementary details that apply specifically
+to her or him. The research institute or faculty,
+as
+the case may be, will provide the frameworks for the
+data management plan. The following is requested
+from the researcher:
+1.
+To act in accordance with the General Data Protection
+Regulation, the General Policy for the
+protection of personal data of the UG and other statutory
+and ethical rules;
+2.
+To record the arrangements made regarding data management
+during a (joint) research project or
+research contract in accordance with the Research
+Data Policy of the institute and the Netherlands
+Code of Conduct for Research Integrity. Appendix 2
+indicates in which cases the researcher must
+record agreements in writing and which points have
+the attention of the General Administrative
+and Legal Affairs Service (ABJZ);
+3.
+To safeguard the integrity and security of the data
+in accordance with the security baseline
+developed by the CIT;
+4.
+To submit proposals for the destruction of research
+data, in advance, to the Research Director
+and/or the ethics boards;
+5.
+To
+assure
+the
+access,
+reuse
+and
+storing
+of
+research
+data
+after
+the
+end
+of
+the
+research
+project,
+in
+accordance with the research institute’s data management
+plan;
+6.
+To assure the storing and access to data management
+plans and data management protocols
+(incl. agreements with research partners);
+7.
+To estimate the costs of – and investment of time
+in – data management during the research
+project and thereafter;
+8.
+To familiarise oneself with new developments in the
+field of data management in the relevant
+discipline;
+9.
+The co-development and documentation of the procedures
+and processes (suitable for the
+research) used for the collection, storage, processing,
+use and access of the research data;
+10.
+To provide students and young researchers with guidance
+concerning good data management.
+4.2 Graduate Schools
+The Graduate Schools will embed the topic of data
+management in the early stages of researcher’s careers,
+as an integrated part of scientific practice.
+1.
+The Graduate Schools will provide mandatory courses
+for Research Master’s students and PhD
+students and can make use of central services to this
+end;
+2.
+The Graduate Schools will ensure that arrangements
+are made with PhD students regarding data
+management and the recording of such arrangements
+in these students’ training and supervision
+plans.
+3.
+The Graduate Schools will ensure that PhD thesis supervisors
+and the daily supervisors of the PhD
+students make arrangements, together with the PhD
+student, for the PhD student’s research data
+to be made available for further research after the
+PhD programme has concluded (Regulations of
+the conferral of a doctorate (PhD regulations) Art.
+4.1.5.).
+4.
+The Graduate Schools will ensure – with support from
+the GDCC – that best practices in the field
+of data management education are shared.
+4.3 Faculties and research institutes
+The faculty boards and research directors are responsible
+for setting up and maintaining responsible data
+management policy in accordance with the UG Research
+Data Policy. The faculty and institute policy need
+to contain the following elements:
+1.
+The research institute will maintain the Institute's
+Research Data Management plan in
+accordance with the principles formulated in the Science
+Europe guidance
+6
+and will make
+this data management plan available to its researchers.
+The plan contains the following
+elements:
+●
+Data description and collection or re-use of existing
+data;
+●
+Documentation and data quality;
+●
+Storage and backup during the research process;
+●
+Legal and ethical requirements, codes of conduct;
+●
+Data sharing and long-term preservation;
+●
+Data management responsibilities and resources;
+2.
+The Faculty Board will adopt the Institute’s Research
+Data Management Plans, after testing
+these against the stipulated frameworks. The plans
+will be published on the website of the
+GDCC;
+3.
+In the event of an externally funded research project,
+the institute will verify, in a timely
+manner, whether that research project’s data management
+plan is in keeping with the research
+institute’s data management plan.
+4.
+At faculty level, the Faculty Board will maintain
+oversight and will supervise the enforcement
+6
+https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-mana
+gement/?fromprevious=15395
+[accessed March 18, 2021].
+of the rules related to data storage and management within the individual disciplines and/or
+the institutes;
+5.
+The Faculty Board will be responsible for ensuring
+that the data files, data management plans and
+research protocols can be verified, on the instructions of the Board of the University, if there is
+cause to do so (in the event of an alleged breach
+of integrity, for example);
+6.
+Decision-making regarding the destruction of research
+data will be in the hands of the research
+institute, based on the protocols and/or the data
+management plan, where necessary in
+consultation with the ethics boards;
+7.
+Both will cooperate with the periodical internal audits
+carried out to verify actual and ongoing
+compliance with the relevant rules and procedures;
+8.
+The Faculty Board will, in consultation with the research
+institute, determine which preconditions
+apply to the research institute’s data management
+during research in which third parties have
+control (or joint control) over the data;
+9.
+The Faculty Board will make further arrangements regarding
+oversight over the research data
+after completion of the research, and regarding oversight
+over research data ensuing from the
+research by researchers who have left the University
+of Groningen;
+10.
+The Faculty Board will ensure that data management,
+in conjunction with a focus on research
+integrity and on dealing with personal data responsibly,
+is enshrined in the curriculum;
+11.
+The Faculty Board will draw up a policy and procedures
+for research data that is generated and
+used in the context of teaching. These guidelines
+are expressed in the Teaching and
+Examination Regulation Models. The learning outcomes
+expressly stipulate that, during
+research assignments, students must adhere to the
+applicable (discipline-specific) standards,
+not only at the publication stage, but throughout
+the entire research process. This, therefore,
+also concerns standards related to ethics, research
+integrity when dealing with data, and data
+management. ABJZ provides an optional additional provision
+in the Teaching and Examination
+Regulation Models;
+12.
+The Faculty Board acknowledges the contribution made
+by ethics boards, in terms of advice
+regarding responsible data management and open data;
+it also encourages the exchange of
+knowledge between ethics boards;
+13.
+The Faculty Board and research director encourage
+the exchange of knowledge and good
+practices among researchers;
+14.
+The Faculty Board decides, in consultation with its
+research institutes and its Graduate School, by
+mutual agreement, which central data management services
+it wishes to use, and which aspects it
+will provide itself.
+4.4 Board of the University
+The Board of the University supervises compliance
+with the legislation, the Netherlands Code of
+Conduct for Research Integrity and the Strategic Evaluation
+Protocol (SEP 2021-2027). The
+supervision and testing of faculty/institute plans
+and the arrangements made, as well as the
+implementation thereof, fall under the responsibility
+of the Board of the University. The Board of
+the University takes the position that, on the departure
+of employees, data must remain available
+for verification and further research.
+1.
+The Board of the University will arrange for audits
+to be conducted on a regular and planned
+basis, and will be responsible for ensuring that this
+is funded.
+2.
+The Board of the University will facilitate the required
+infrastructures, as well as arrangements
+with third parties concerning the associated infrastructural
+provisions. It will also be
+responsible for ensuring the development of the required
+expertise in the field of research data
+management.
+3.
+The Board of the University contributes to the development
+of policies, at national and
+international level, which encourages researchers
+to contribute to open data and re-use of data
+by the scientific community.
+4.
+The Board of the University is responsible for ensuring
+access to the legal advice needed
+to regulate control over the research data and legal
+preconditions that play a part in the
+encouragement of open data and/or the reuse of data,
+while at the same time taking
+account of the importance of knowledge valorisation
+in public-private cooperation and of
+safeguarding research integrity. Appendix 2 indicates
+in which cases agreements
+regarding research integrity must be recorded and
+which points have the attention of
+ABJZ;
+5.
+The Board of the University is responsible for drafting
+regulations and guidelines and for
+mandating responsibilities related to data management.
+4.5 Central Support Service: Groningen Digital CompetenceCenter
+In the three-tier approach adopted by the Board of
+the University a start was made in connecting and
+further developing facilitating bodies and their expertise
+for the  support of research data management.
+This has resulted in the creation of the Groningen
+Digital Competence Center, a fusion of the Research
+Data Office and the Data Federation Hub and several
+new services of the Center for information
+Technology.
+The GDCC brings together relevant expertise on FAIR
+research data management within the UG in one
+place. Researchers, lecturers and research support
+staff can make use of the expertise on research data,
+research software and computing and pose their questions.
+The GDCC offers consultancy services on
+data management plans, data protection, storage and
+archiving.  It provides training courses and
+(digital) meetings. It manages an informative website,
+a web tool for research data management plans
+and platforms for archiving data in accordance with
+the FAIR data principles. It maintains national and
+international relationships concerning research data
+management and stays informed of any relevant
+developments, while sharing knowledge and insights
+with faculties, institutes and researchers and
+adopting its services accordingly.
+Appendix 1: Ov erview of de velopmen t influencing R esear chData Manag emen t Policy
+This updated research data policy takes the following
+developments into account:
+1.
+In 2018 the General Data Protection Regulation (GDPR)
+came into effect in Europe. This is
+detailed at institute level in the General policy
+on protection of personal data UG. Researchers and
+institutes must meet the principles of the GDPR during
+research with personal data. In research
+cooperation (both at national and international level)
+the principles of accountability and
+transparency result in increased pressure to record
+arrangements regarding responsibility for the
+data in a transparent manner.
+2.
+The Netherlands Code of Conduct for Research Integrity
+(2018) includes – in keeping with all
+stages of the research process – standards as well
+as principles for good data management and the
+encouragement of reuse (FAIR data), as well as the
+duty of care on the part of the institute to
+facilitate good data management.
+3.
+The 2015-2021 Standard Evaluation Protocol (SEP) prescribes
+that the SEP institute must report,
+on the basis of the protocol, regarding its handling
+of processed data. In addition, the next edition
+(SEP 2021-2027) will expressly request a focus on
+Open Science (including sharing data) and
+Research Culture (including integrity).
+4.
+The doctoral degree regulation of the UG (2018) stipulates
+that data with an accompanying
+explanation must, in any event, be filed for verification
+of the research, for further scientific
+research in accordance with the guidelines of the
+Data Policy of the University of Groningen and
+the Data Policy of the research institute.
+5.
+The interaction between education and research, and
+therefore responsible data management as
+well, is expressed in the Education and Examination
+Regulation Models. In education research
+data has growing importance. This increase requires
+further regulation of responsible data
+management in the curriculum. This update of the Teaching
+and Examination Regulation Models
+requires an updated research data policy.
+6.
+In the new Horizon Europe (2021-2027) framework programme,
+the emphasis on Open Science
+and data management is strengthened by a focus on
+FAIR data, open access, research integrity and
+citizen science.
+7
+7.
+Science Europe (the European umbrella organisation
+of research funders) has made data
+management one of its spearheads.
+8
+In 2018, Science
+Europe made a guidance document available
+with a framework for discipline-specific data management
+9
+and, in 2019, a guide for the
+international coordination of data management.
+10
+8.
+Commencing in the year 2020, the Dutch Research Council
+(NWO) tightened up the requirements
+regarding responsible data management for all its
+funding lines
+11
+, thereby aligning with Science
+11
+https://www.nwo.nl/en/news/nwo-update-its-data-management-protocol-january-2020
+[accessed March 18, 
+2021].
+10
+https://www.scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-mana
+gement/
+[accessed March 18, 2021].
+9
+https://www.scienceeurope.org/our-resources/guidance-document-presenting-a-framework-for-discipline-specific-re
+search-data-management/
+[accessed March 18, 2021].
+8
+https://www.scienceeurope.org/our-priorities/research-data/
+[accessed March 18, 2021].
+7
+https://www.europa-nu.nl/id/vkp27tq405yk/commission_staff_working_document_impact
+[accessed March 18, 
+2021];
+https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon
+-euratom_en.pdf
+[accessed March 18, 2021].
+Europe.
+9.
+The European Research Infrastructure Consortia (ERICs)
+facilitates self-organising networks
+related to data infrastructure for an increasing number
+of disciplines. The tally has already reached
+20. BBMRI and CLARIN are well-known examples.
+12
+The
+encouragement of these infrastructure
+networks of member states symbolises the growing role
+of Europe in policy related to data,
+research and innovation.
+10.
+The discussion paper
+Ruimte voor ieders talent; naar
+een nieuwe balans in het erkennen en
+waarderen van wetenschappers
+13
+explicitly mentions
+sharing research data as one of the Open
+Science activities that ‘can have a large impact on
+society and science’.
+11.
+Since 2018, a discipline-specific ethical code of
+conduct for research involving human subjects
+applies to social scientific research; this code specifically
+includes responsibility for dealing
+carefully with personal data, in line with the applicable
+regulations.
+12.
+The new selection list
+14
+, which is mandatory on the
+basis of the Public Records Act, has been
+extended for the research and valorisation policy
+fields.
+14
+Tool for the selection (for destruction or permanent
+storage, as the case may be) of the administrative
+output of the 
+processes of public and special universities, as well
+as those of university medical centres, from 2019,
+via: 
+https://www.nationaalarchief.nl/archiveren/kennisbank/vastgestelde-selectielijsten
+[accessed March 18, 2021].
+13
+https://www.vsnu.nl/nl_NL/nieuwsbericht/nieuwsbericht/543-kennissector-zet-grote-stap-vooruit-in-nieuwe-manie
+r-erkennen-waarderen.html
+[accessed March 18, 2021].
+12
+https://ec.europa.eu/info/research-and-innovation/strategy/european-research-infrastructures/eric/eric-landscape_
+en
+[accessed March 18, 2021].
+Appendix 2: Checklis t for resear cher s when c ollabor atingexternally – Gener al Adminis trative and Leg al Aff airs(ABJZ),June 2020
+The University of Groningen has signed up to the Netherlands
+Code of Conduct for Research Integrity
+(2018) (‘WI’ Code of Conduct). Joint research should
+also be conducted in accordance with this Code
+of Conduct. The Netherlands Code of Conduct for Research
+Integrity (3.9) expects researchers to make
+clear agreements about matters relating to research
+integrity and matters that may affect this, such
+as
+intellectual property rights, when conducting research
+with external partners, and to record these
+agreements in writing.
+This checklist indicates the aspects for which a researcher
+must record agreements in writing and
+which points should be brought to the attention of
+the General Administrative and Legal Affairs
+Service (Dutch abbreviation ‘ABJZ’). Examples and
+model provisions have been provided where
+possible. This checklist is intended to be used independently
+by researchers at an early stage. The
+checklist contains a general assessment framework
+for collaboration agreements and a section
+specifically on agreements for the processing of personal
+data.
+General assessment framework for collaboration agreements
+Commitment to the Code of Conduct for Research Integrity
+The University of Groningen will also encourage (private)
+partners to commit to the WI Code of
+Conduct (1.7). Collaboration with institutions that
+have not signed the WI Code of Conduct or a
+comparable code will only be agreed to if there is
+sufficient confidence that your own part of the
+research can be conducted in compliance with this
+Code and the joint research results meet
+generally accepted principles of integrity in research
+(1.8).
+Collaboration agreements also contain provisions on
+asset valuation, based on the principles laid down
+in the valuation policy. These agreements are tailor-made.
+When considering whether a code is comparable and
+the generally accepted principles of research
+integrity in collaboration contracts, the ABJZ will
+take into account:
+a.
+other codes of conduct.
+b.
+The declaration on Scientific Independence of the
+Royal Netherlands Academy of Arts and
+Sciences (2005).
+15
+c.
+The Association of Universities in the Netherlands principles for public-private partnership
+2010.
+16
+It will also be ensured that research can be conducted
+in accordance with the WI Code of Conduct as
+regards proper and ethical scientific practice, with
+respect to influence from other parties (e.g.
+funding providers, journals, social partners).
+Agreements on making data and research material public
+and accessible
+The WI Code of Conduct provides a duty of care for
+institutions (4.16) to ensure that contracts with
+commissioning parties and funding bodies include fair
+agreements about access to and the publication
+of data and research material. The institution (4.13)
+must work with researchers (3.24) to ensure that
+all
+data, source code and research materials, published
+and unpublished, are managed and stored securely
+for a period appropriate to the discipline(s) and
+methodology. Researchers must also determine an
+appropriate retention period when collaborating. The
+Code of Conduct expects researchers (3.8) to be
+open about the role of external stakeholders and potential
+conflicts of interest.
+17
+How the collected
+research data is ordered and categorized should also
+be described where necessary, so that it can be
+checked and reused (3.10). Data management plans are
+appropriate tools for this purpose. Researchers
+should, as far as possible, make research findings
+and research data public subsequent to completion
+of
+the research (3.11). If research data and/or information
+cannot be made publicly available, researchers
+should establish valid reasons for this.
+18
+Agreements on the processing of personal information
+It is possible that the University of Groningen will
+obtain a dataset containing personal data, but
+will not be responsible for processing this data itself,
+and must instead adhere to the instructions
+18
+Valid reasons, including confidentiality, can be
+found in: European Council, conclusions of the Council:
+The 
+transition towards an Open Science system, paragraph
+14 (Brussel, 27/05/2016, 9526/16, via: 
+data.consilium.europa.eu/doc/document/ST-9526-2016-INIT/en/pdf
+)
+[accessed March 18, 2021].
+17
+For example, using a Declaration of Scientific Independence
+as recommended in the “Science on order” report of
+the 
+Royal Netherlands Academy of Arts and Sciences (2005),
+Wetenschap op bestelling. Over de omgang tussen 
+wetenschappelijke onderzoekers en hun opdrachtgevers
+(Amsterdam), p. 46. Cf: 
+https://www.knaw.nl/nl/actueel/publicaties/wetenschap-op-bestelling/@@download/pdf_file/20051083.pdf
+[accessed March 18, 2021].
+16
+https://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/Valorisatie/Principes%20v
+oor%20Publiek-Private%20Samenwerking%20NL.pdf
+[accessed
+March 18, 2021].
+15
+https://www.knaw.nl/shared/resources/actueel/bestanden/wetenschappelijke_onafhankelij
+kheid.pdf
+[accessed March 18, 2021].
+of the data controller. In such cases, a data processor agreement must be concluded. A UG model
+agreement is available for this purpose. A checklist
+is also available from the ABJZ to assess the
+suitability of other models.
+Collaborating research institutions will usually be
+jointly responsible. Article 26 GDPR requires
+the parties to determine their respective responsibilities
+for compliance with the obligations under
+the Regulation in a transparent manner. The arrangement
+shall duly reflect the respective roles
+and relationships of the joint controllers vis-à-vis
+the data subjects. The essence of the
+arrangement shall be made available to the data subject.
+How such an arrangement should be
+documented is not specified and can be arranged in
+a collaboration agreement. ‘SURF’ provides a
+model joint controller agreement.
+19
+For low risk processing, the relevant arrangement
+can be set out in the data management plan
+attached to the collaboration agreement. In addition,
+when data subjects are informed, it must be
+ensured that the information about the arrangement
+is included in the consent form. For the
+processing of data with a high risk of impacting the
+rights of data subjects (see the data protection
+impact assessment (‘DPIA’) guidance on the Research
+Data Office (‘RDO’) website), research
+funders (ERC, Horizon 2020) require a DPIA to be carried
+out after a collaboration agreement has
+been signed, but before data collection.
+Parties are advised to set out the plan for these
+arrangements and the party responsible for the
+arrangement in the collaboration agreement. The ethics
+boards must also be informed of this
+arrangement because the committee can require the
+reassessment of the information provided to
+the data subjects.
+Collaboration outside the European Economic Area (‘EEA’)
+When cooperating outside the EEA, you must check whether
+the country where the partner institution is
+located benefits from an ‘adequacy decision’ from
+the EU.
+20
+If not, then certain standard contractual
+clauses are necessary.
+21
+In exceptional circumstances, Article 49 GDPR can
+be relied on for research purposes. In these cases,
+the
+participants in the research have to be asked for
+their explicit permission for the transfer of data
+to and
+from the Netherlands.
+21
+op.cit.
+20
+h
+ttps://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-pr
+otection/adequacy-decisions_en
+[accessed March 18,
+2021].
+19
+https://www.surf.nl/files/2019-01/model-gezamenlijk-verantwoordelijkenovk-1.0.pdf
+[accessed March 18, 2021].

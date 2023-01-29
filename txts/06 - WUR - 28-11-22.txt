@@ -1,0 +1,11 @@
+Data policy at WUR
+WUR has a policy in place on how to handle research data throughout the research cycle. The research data policy has a focus on keeping research data safe and accessible, both during and after research. The WUR data policy applies to employees with a WUR contract, but does not apply to students unless specific agreements have been made between students and their supervisors.
+
+WUR data policy
+The policy is based on leading principles in the area of research data stewardship, such as the FAIR principles, and on national frameworks such as the Netherlands Code of Conduct for Research Integrity. Research data are highly valuable output of our research. We need to treat our data carefully. It is only then that our research can be shared, verified and reused. As such, the WUR data policy requires the following:
+
+Chair groups are required to have a data management protocol.
+PhD candidates are required to have data management plan.
+Data should be stored on secure and shareable environments.
+Data underlying (a) publication(s) are required to be archived for at least 10 years.
+These data need to be registered in Pure.

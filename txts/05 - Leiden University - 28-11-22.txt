@@ -1,0 +1,793 @@
+1 DATA MANAGEMENT POLICY Department Cultural Anthrop ology Development Sociology (CA DS) 
+Leiden, April 2019  
+  
+Introduction:  
+The department of CA DS adheres to the Leiden University Research Data Management Regulations and to 
+the international principles for FAIR data (Findable, Accessible, Interoperable, Reusable), to the extent that 
+these apply to processed  data only (see below under ‘What are data?’) and to the extent that the processed 
+data can be rendered interpretable to others.  
+These principles translat e into 7 elements for a data management policy:  
+1. Research data are considered public goods, created using public money and should therefore be 
+open access available as much as possible.   
+2. Data should be stored safely and sustainably to enable the protectio n of privacy, verification and 
+reuse.  
+3. Privacy should be guaranteed with utmost care to ensure the safety of research participants and 
+because the maintenance of relationships of trust with research participants is fundamental to our 
+research.   
+4. Transparen cy about the use and storage of data will be given through a Data Management Plan 
+(DMP).  
+5. Data will also be used and stored according to the GDPR rules and guidelines as interpreted by 
+Leiden University and by (relevant) financing organizations (like NWO).  
+6. Interpretability: anthropological data are not stored in excel sheets or databases, but in the form of 
+lengthy written texts that span multiple hand -written notebooks or digital files (e.g. word docs, 
+photos, film, audio -recordings). These data require co ntextualization to be intelligible to other 
+researchers because: a. they reflect a human relationship between researcher and research 
+participants that shapes the context in which the data was gathered; b. each notebook, or text, 
+cannot be easily understoo d without triangulation across multiple notebooks/devices/personal 
+archives, which cannot all be made available due to the risk of breach of privacy (lack of 
+anonymity), and c. without deep knowledge of the research context, of the broader social 
+situation /conversation/physical location in which the notes were gathered, and of the specific 
+research participants the data cannot be  
+accurately interpreted.  
+7. Limitations to the FAIR principles or policy will be transparently explained in the DMP .  
+ 
+Commonly accepted anthropological procedures:  
+In view of the specific relationship of recorders/researchers of anthropological/ethnographic data and the 
+recorded/research participants, many anthropological research projects involve a certain degree of co -
+ownership of data by the research participants. In the case of co -ownership:   
+ 
+• the data gathered in an anthropological/ethnographic setting are held in trust by the researcher to 
+protect the interests of people studied or be returned to them (if possible), unless othe rwise 
+stipulated. When research is being done among multiple parties in conflict with each other (or 
+where it would violate individual's privacy to return data to a collective/group), the data will be 
+held in trust by the researcher;  
+• the data being held i n trust will be safely stored and preserved by individual researchers until their 
+retirement from actual research reporting, when they will be returned to people studied, 
+destroyed or placed in an appropriate archive (see below), unless otherwise stipulate d;         2 • third parties cannot have access to unprocessed ethnographic research data except in the strictest 
+confidentiality, and only when this access does not compromise the safety of the research 
+participants, unless otherwise stipulated;  
+• Where co -own ership is applicable, researchers shall properly and transparently record the 
+intended procedures in the DMP (and amend the DMP to reflect this should the need arise during 
+or after fieldwork).  
+  
+ 
+ 
+Who:   
+The data management policy of CA DS applies to all researchers working on projects that are initiated by the 
+department and/or conducted under the aegis of the department. This includes retired colleagues, fellows, 
+and scholars who bring their own projects into the department.   
+  
+What are anthropological data:  
+CADS follows the definition of data used by all universities, the KNAW and NWO at the Science Europe Data 
+Glossary ( http://sedataglossary.shoutwiki.com/wiki/Research_data ).  
+By that definition research data include: laboratory notebooks; field note books; primary research data 
+(including research data in hardcopy or in computer readable form); questionnaires; audiotapes; video files; 
+models; photographs; films; test responses. Research collections may include slides; artefacts; specimens; 
+samples. Pr ovenance information about the data might also be included: the how, when and where it was 
+collected, and with what means (for example, with which instrument or measuring device). The software 
+code used to generate, annotate or analyse the data might also be included, where applicable. For the 
+purposes of ethnographic research, however, it is essential to distinguish between “raw” data and data 
+processed for audience consumption: the first category (which includes primary data such as field 
+notebooks) conta ins personalized data and cultural properties that are never anonomysed and can 
+therefore not be openly accessed. Providing access to personalized, and possibly sensitive, "raw" data could 
+harm the people studied (see American Anthropological Association C ode of Ethics 
+http://www.aaanet.org/profdev/ethics) ). The distinction between “raw” and “processed” data differs, 
+depending on whether the audience in question is interested in mere verification, public ation or reuse. The 
+making of that distinction, and therefore the providing access to the data concerned, is the ethical 
+responsibility of the researcher.  
+ 
+In the process of anthropological/ethnographic research specifically, social relationships with res earch 
+participants are usually dynamic, qualitative and personal and require constant revision of the standards of 
+research participants’ privacy and cultural property. Researchers are responsible for protecting the research 
+participants’ interests, by kee ping the data in a well -documented secluded setting unless they have been 
+processed for third party consumption.  
+ 
+Ethnographic data is usually gathered in note form based on a close and personal interaction between 
+researcher and research participant. The  data is not stored in the form of words or numbers in a database. 
+Ethnographic notes are stored in hand -written notebooks and/or digital text files. Because ethnographic 
+data contains a great deal of information about people's lives, even if the notes are  technically 
+anonymized, anonymity could potentially be breached if whole sets of notes were viewed together and 
+triangulated with each other. The researcher therefore must carefully select which data can be made 
+public. The impossibility of making all  the raw data available, means that the available data might not be 
+transferable or useful/decipherable to other researchers except through direct conversation with the 3 researcher.  Additionally, three types of research notes may be kept in one place: observation of research 
+participants, interview notes, analytical thoughts of the researcher, and personal experiences and feelings 
+of the researcher. In anthropological research, the thought process and position of the researcher is 
+considered relevant informatio n for the accurate contextualization and interpretation of research 
+materials, and as such, this information is often written down or typed together with observational field 
+notes and only some of this highly private information is acceptable for public ci rculation. The 
+inextricability of anthropological field notes in which all of the conversations (private and public) as well as 
+the reflexive analytical thoughts of the researcher and research participants are maintained in one set of 
+notebooks or files, m eans that one of the most important data management tasks is determining which 
+data  can be publicly shared (=made into processed data for dissemination) and which cannot. The process 
+of choosing what data can be shared and what cannot be, requires knowled ge of the field, of the research 
+participants, and of the specific moment, context and human relationship between researcher and 
+research participant that brought the data into being. Only the researcher has this knowledge.  
+ 
+Data storage during research:   
+During ethnographic fieldwork, extra measures may be necessary to protect data using encryption software 
+and extra passwords on laptops and external hard discs. During research, researchers make sure that all the 
+digital data they collect are systematically backed up. Non- digital data (notebooks, sensitive paper files) 
+should be stored behind lock and key when not in use and should not be left unattended when in use. If 
+these precautions are not possible during fieldwork, the DMP should explain. Research participants may 
+sometimes rightfully claim both raw and processed data as their own as long as this does not breach the 
+privacy or safety of the research participants. Decisions about protection and sharing differ depending on 
+the particular professional and ethical standards upheld at that moment in the evolving relationship 
+between researcher, research participants, and audience. How to deal with data during fieldwork is project 
+specific and is described and argued in the DMP in so far as this can be pre dicted before the completion of 
+research.  
+  
+Depositing data after research:    
+For reasons of verification, publication and possible reuse, researchers can process data by anonymization 
+and/or making a selection of data that can be stored or made public af ter completion of the research. The 
+DMP anticipates on the reasons for specific forms of storage in so far as that is possible before completing 
+the research. Anthropological research is often hard to divide into clearly delineated projects with a start 
+date and an end date. Instead, anthropologists tend to build their knowledge of a subject or a group of 
+people continuously over decades or over a whole career. As such data are usually stored and maintained 
+long- term. The DMP should specify what kind of dat a will be stored, for how long it will be stored, where it 
+will be stored, and for what purposes (e.g. continued research reporting, re -use in future research). The 
+researcher should ensure that these storage intentions are known to the research participan ts. Both the 
+storage and the sharing of data should comply with the GDPR regulations (= no sharing of personal 
+information without consent, the researcher has weighed the relative right to privacy of the research 
+participants carefully against the public interest served by the research and has ensured that raw and 
+processed data are stored in safe, or the safest possible, locations).   
+ 
+Anthropological research is often of great archival value and researchers should consider whether their data 
+can be safely  archived after the end of a research project, upon retirement or after the researcher's death. 
+Not all data will be safe for public archiving, but the public interest potentially served by making 
+ethnographic archives (partially) available at the end of a  research project or researcher's career should be 4 considered prior to the destruction of research data. Where such archival plans differ from those originally 
+included in the DMP , an amended DMP should be submitted.  
+ 
+Data storage where and how?   
+Digital data have to be stored sustainably and safely either on encrypted or password protected hard -drive 
+and devices and/or in a Trusted Digital Repository with a DSA (Data Seal of Approval). Data Networking and 
+Archiving Services (DANS) is considered a trusted p arty for Data Storage as are Leiden University virtual 
+research networks and storage facilities. Non- digital data (notebooks, paper files) are stored behind lock 
+and key when not in use. Researchers will take care not to leave devices or notebooks unattend ed when in 
+use. 
+  
+Data Management Plan (DMP):    
+For the DMP CA DS uses an amended version of the LU -format (in appendix).  
+  
+Who is responsible:   
+Every researcher is primarily responsible for the Data Management of his/her own research project and for 
+the implementation of the activities described in the DMP . A DMP should be part of the research design 
+and the researcher should evaluate and adjust it on a regular basis (how does the backup protocol work? 
+Has the amount of data changed? Are new formats being  used? Are new precautions necessary given the 
+nature of the data being gathered?). The DMP should be viewed as a living document and the researcher 
+should feel free to amend it and re -submit it at any time as the research progresses. If the researcher's d ata 
+management practices change during research, as they usually do in anthropology, the researcher can 
+simply amend the DMP and re -submit.  
+In projects, the project coordinator is responsible and may appoint one of the researchers or eventually a 
+member o f the supporting staff as data manager for the project.   
+A university or faculty data steward can help with advice and support by the implementation of data 
+management at the institutional level.  
+ 
+Cloud services:   
+CADS researchers shall be careful in using cloud services for data storage. Generally only services that are 
+approved by the university for this purpose should be used.  
+ 
+The department of Cultural Anthropology and Development Sociology states that: 
+ 
+Respecting in principle  
+ 
+  The general regula tions of Leiden University on Research Data Management (RDM), version 
+April 19, 2016  
+ 
+Considering the following basic principles of the profession 
+  
+• The recording of anthropological/ethnographic data, whether in written, oral or visual form, is 
+a dynamic p rocess of collaboration to which research participants have given and continue to 
+give their consent during fieldwork (this does not imply their agreement with findings), 
+including conditions pertaining to analysis and publication  
+ 
+• The changing relationshi ps of confidentiality and mutual trust established during this research 
+process are of utmost importance in providing, collecting and processing research data  5  
+• Researchers should continue to treat data as collaborative for as long as they work with this 
+material, acknowledging that these data –  in variable gradations – may be co -owned by 
+researchers and the researched  
+ 
+• Individual researchers have the duty to subordinate the sharing of data with third parties 
+(including other scientists, also in cases of in vestigating fraud) to the recognition of the 
+collaborative nature of data  
+ 
+In line with  
+ 
+8. the internationally accepted and leading statement of the American Anthropological 
+Association on Ethics http://www .aaanet.org/profdev/ethics  
+ 
+9. articles 2, 16 and 17 of the Research Data Management Regulations of Leiden University  
+ 
+ 
+With the consent of the Faculty Board of Social Sciences, has decided to adjust the Regulations by  
+10. establishing a circumscribed approach in making research data findable, accessible, 
+comprehensible, reusable and stored  
+ 
+11. adding the following clauses to Data management plans ’s of research proposals:  
+a. following the Harvard policy on intellectual property1, this supplement "protects the 
+traditi onal rights of scholars with respect to the products of their intellectual 
+endeavors". In particular the data gathered in an anthropological/ethnographic setting 
+(footage, audio -recordings, photographs, drawings, fieldnotes, etc.) are the 
+intellectual prop erty of individual researchers as they are the outcome of the 
+intellectual work of the researcher.  
+b. the data gathered are held in trust by individual researchers to protect the interests of 
+people studied or be returned to them, unless otherwise stipulated;   
+c. the data are stored and preserved by individual researchers until they stop reporting 
+on this particular research, at which point the data should be returned to people 
+studied or destroyed, unless otherwise stipulated;         
+d. third parties do not have t he right to demand access to unprocessed ethnographic 
+research data except in the strictest confidentiality, unless otherwise stipulated.  
+                                                             
+1  http: //otd.harvard.edu/faculty -inventors/resources/policies -and-procedures/statement -of-policy -in-
+regard -to-intellectual -property/  6 Format Leiden University Data Management Plani 
+The Research Data Management Regulations Leiden University requires researchers to write a data 
+management plan at the start of a long- term research projectii. Please contact the Centre for Digital 
+Scholarship at the University Libraries Leiden if you need help:  datamanagement@library.leidenuniv.nl   
+ 
+ 
+Name and contact details  
+  
+Name of project and group  
+ Insert project name if there is one, otherwise write “none”.  
+Description of your research  This can be short and focussed on content, elaborate below on 
+methods and t ypes of data etc.  
+Project duration  Select dates that make sense for your project (this can be long -term if 
+that is the case in your research)  
+Names of people and their 
+responsibilities for data 
+management  Your name here – generally the one who collects the data is the main 
+person responsible. If you work on a project with a PI who shares 
+responsibility say so here and elaborate below.  
+ 
+Funding body(ies)  
+ Insert if applicable, otherwise write “none”  
+Grant number  
+ Insert if applicable  
+Partner organisati ons 
+ Insert if applicable, otherwise write “none”. This refers to formal 
+collaborations with organizations, If there are specific individuals with 
+whom you share your data, this can be described below.  
+ 
+ 
+About this Data Management Plan  
+Date written  
+ - 
+Date last update  
+ - 
+Version  This will be version 1 for most of you  
+ 
+Changes in this version of the Data Management Plan  
+Only applicable if this is an amended DMP . If this is your first DMP , leave this section blank  
+ 
+Component  Progress / Execution  
+Please describe briefly what progress you have made, any questions or 
+issues you have encountered and want to discuss, etc.  
+1. Data collection  ………  
+2. Data storage and back -up 
+ ………  
+3. Data documentation  ………  7  
+4. Data access, sharing and 
+reuse  
+ ………  
+5. Data prese rvation and 
+archiving  
+ ………  
+ 8 1. Data collection  
+Describing the data you will be creating/collecting     
+1.1 Will the project use existing or third party data ?  
+   No 
+  Own / group previous research  
+  Academic collaborators  
+  Commercial collaborators  
+  Publicly available database / archive  
+  Specialist commercial data provider  
+  Other (please specify)  
+Describe briefly provenance, type and format of this data. Are there any restrictions or requirements 
+for use of third party data such as licensing conditions?   
+ Name the s pecific datasets and who collected the data here. Choose one of the options above. Think 
+of government databases, or the datasets (not summary reports) of large scale scholarly, corporate 
+or government surveys.  
+1.2 What type()s of data will you collect o r create, in what file format(s)?iii 
+Note that not all formats are long- lived. For sustainable access you best use the formats 
+recommended by data archives, see for examples: 
+http://researchdata.4tu.nl/fileadmin/editor_upload/File_formats/Digital_Preservation_Support_leve
+ls.pdf  or http://www.dans.knaw.nl/en/deposit/information- about -depositing-
+data/DANSpreferredformatsUK.pdf   
+ This is essentially two questions in one. Possible answers:  
+1. Documents (e.g. word, odt, rtf, pdf)  
+2. field notebooks/diaries/observations (paper and/or wo rd/odt/rtf, also possibly jpeg or pdf)  
+3. Interview guides (word/odt/rtf/pdf)  
+4. transcripts (word/odt/rtf/pdf)  
+5. Excel files (xls)  
+6. audio -recordings (mp3 is best)  
+7. photographs (jpeg, or whichever format you use)  
+8. video -recordings of public events ( Pro Res, or whichever format you use)  
+9. Collections of objects, flyers, paperwork, etc.  
+10. field notebooks, diaries,  
+11. other types of database files.  
+1.3 How will you collect and/or create your data?  
+Please describe briefly. Name any relevant protoc ols and/or standard in your area of expertise.  
+Possible answers:  
+The main methods, and the standard in anthropology, are participant -observation (hand written and 
+typed notes) and interviews (informal, formal, audio -recorded?) in ongoing conversation w ith, and 
+observation of, the research subjects during naturally occurring behaviour.  
+Surveys  
+Digital data from online platforms that are public (no password required to access) or  
+Digital data from platforms are private (e.g WhatsApp, messenger, private FB accounts, etc).  
+Public records (e.g. court records, archival materials, etc).  
+Photographs 
+Videorecordings  
+Collecting documents/objects  9 etc. 
+1.4 What tools, instruments, equipment, hardware or software will you use to capture, produce, 
+collect or cre ate the data?  
+ Please give the names of the tools and state if they are already available. If not, state how you 
+intend to acquire them. If applicable, describe whether you use a paper or electronic labjournal.  
+Possible answers:  
+Data recording: noteboo ks, pens, pencils, paper, tablets, laptops, smart phones, (video)cameras, 
+audio -recorders, desktop computers, questionnaires, etc.  
+Data storage: for paper documents need to be kept behind lock and key when not in use; electronic 
+files can be stored on encr ypted external hard drives (also kept behind lock and key when not in use), 
+password protected devices, or university approved virtual research network or storage system such 
+as DANS, Virtual Research Environment, J -schijf, P -schijf.  
+Data Analysis: IBM SPS S, Nuivo, AtlasTI, etc.  
+1.5 What is the estimated size of the data?  
+Please describe briefly. Stages to be adopted if relevant.  
+This section is mainly of importance to Visual materials which are large (or for the storage of large 
+data sets if you have t hese). You can either just say that the size of all your data is negligible or insert 
+estimated sizes for each type of data below. The point of this section is just to ensure that you have 
+enough storage available for the data you intend to gather. This wi ll not be so important for many of 
+you.  
+Data stage  Specification of type of 
+research data Software choice 
+and file format  Data 
+size 
+now  Data size when 
+project is finished  
+Raw data      
+Processed 
+data     
+Results      
+Other…      
+ 
+ 
+ 
+ 
+ 
+2. Data storage and security  
+Ensuring that all research data are stored securely 
+and backed up or copied regularly during your 
+research     
+2.1 Where will you store your data?  
+Please describe how safe storage is guaranteed. Specify your method if your data is collected and / 
+or transported in different locations / countries.  
+ ☐  On university departmental network storage (J:)  
+☐  On university personal network storage (P:)  
+☐  In a Virtual Research Environment (Sharepoint)  
+☐  Physical storage (e.g. USB, external hard drive)  
+☐  Cloud service (e.g. SURFdrive)  
+☐ Other, namely: laptop, e xternal hard drive and audio recorder for digital data. ‘Hard copy data’ 
+sits in a closet in my office.  10  Select any of the above options. This list is quite exhaustive. There are few other options still 
+permissible for data storage under GDPR. Hard drive s and laptops/devices should be encrypted 
+and/or password protected and kept behind lock and key when not in use. Paper files should be 
+stored “behind lock and key” when not in use.  
+Options from transport between countries can be: in person through luggag e, sending encrypted 
+hard drives (possibly as backup) by post to your office.  
+2.2 Will your data be backed up?  
+Please specify briefly for each storage device frequency, location of backups and who is responsible.  
+Describe how you can restore your data in the event of data loss and who is responsible.  
+ Usually you, the researcher, are responsible for back ups. If you are working on a larger project it is 
+possible that the PI or project assistant is responsible. The J and P schijf are backed up 
+automaticall y by the university (ISSC) every night. If you store your data on devices or external 
+drives, then describe here how often and in what way you will make a back up: for example, you 
+may get a second hard- drive which is used only as back up and which you sync every week. While 
+you are in the field you may send such a hard drive to the office from time to time to ensure safe 
+keeping. If you make use of virtual research networks or university approved digital storage services 
+you can sync your data regularly fr om the field. Paper files may be photocopied and stored in two 
+separate locations. Maybe paper files are digitalized (pictures taken or scanned) and stored on an 
+encrypted drive. There are lots of possibilities here.  
+2.3 Are there any commercialisation, ethical or confidentiality restrictions about handling your 
+data?  
+Please specify briefly.   
+☐  Contractual obligations  
+X Requirements by law : protection of personal data (e.g. privacy law) : specify in 4.1  
+☐  Requirements by law : copyright, intellectual property : specify in 4.1  
+X  Ethical restrictions (e.g. ethical review) : specify in 4.1  
+☐  Comm ercial considerations (e.g. patentability)  
+☐  Formal security standards  
+☐  No requirements  
+☐  Other, namely: ………  
+The answer for everyone here is (at least) “Requirement by law: protection of personal data” and 
+“Ethical restrictions” (I've already filled it  out for you). You may have more restrictions in your case. 
+Brief specification can be “This research is subject to GDPR privacy legislation” and adheres to 
+current anthropological codes of ethics.” You can expand below under 4.1. The applicable laws will 
+be both local laws in the country of field work and European and Dutch laws.  
+2.4 How will access to the data be managed during the project?  
+Please specify for each storage device, from different locations / countries.  
+Our default policy is the following : For the duration of project only the researcher (or research 
+team) will have direct access to the raw data. If the research team plans to share data this should 
+be clearly communicated to the research participants. Anyone outside of the research team 
+(including assistants) who is granted access to the raw data will be asked to sign a non -disclosure 
+agreement. Only the researcher who gathered the data will be empowered to decide who can be 
+granted access to which research materials, and in which formats, and will do so in accordance 
+with the current legislation valid at the time of the research and/or research reporting.  
+2.5 What are the main risks to data security?  
+Please list risks, e.g. accidental deletion, falling into the wrong hands.  11 Please describe  what would happen if the data get lost or become unusable.  
+The main risks are, as above, 1. accidental deletion and 2. data falling into the wrong hands. You 
+can add other risks if relevant.  
+1. Under accidental deletion it is perhaps worth explaining that ethnographic research is not based 
+on the logic of complete data sets (all data is a piece of a story and we never have all the pieces). 
+Some minor data loss, while very unfortunate, therefore, poses no risk to the completion or success 
+of the overall study.  
+2. Data falling into the wrong hands is a concern. Explain briefly how this is the case for your 
+research specifically, how serious the consequences of such a breach would be (these may be quite 
+limited for research that is not highly sensitive) and then how you will try to prevent this. E.g. 
+Researchers will use the utmost care to ensure that the raw data remains inaccessible (encrypted 
+on external hard drives stored behind lock and key). The computers to which the hard drives will be 
+connected whe n data is being accessed by the researchers will be supplied with the latest operating 
+systems and software (patching) as well as anti -virus software so that they are less vulnerable to 
+malware. Expand below under the next point.  
+2.6  What measures do you  take to comply with the security requirements and to mitigate the risks?  
+Describe how you can restore your data in the event of data loss and who is responsible.  
+If applicable, please describe procedures to ensure personal data are handled confidentially and 
+who is responsible.  
+X Access restrictions  
+☐  Encryptions  
+☐  Data processing 
+☐  De-identification / Anonymisation  
+☐  Regular back -ups 
+☐  Master copy stored on university network storage  
+☐  Master copy stored elsewhere  
+☐  Other, namely: …  
+For all of us, there will be some form of access restriction (I'v e already chosen that option for you), 
+select additional measures you will take above and describe here briefly. The researcher is always 
+the main person responsible ensuring that data is handled confidentially. If there are others (e.g. 
+research team memb ers), include them here. Describe here (again) how you make and store your 
+back -ups and state again that paper files will be kept behind lock and key. If you anonymise your 
+data, state so here and describe briefly how you do this. If you plan to make use o f DANS, state 
+which access level you will be using, e.g. “restricted access: request permission” which means that 
+no one can access the data without the permission of the researcher.  
+2.7 How do you differentiate between raw and processed data?  
+Please expl ain briefly why you (do not) differentiate.  
+☐  I will not differentiate  
+☐  I will create a new file for processed data  
+☐  I will create a new file for processed data and I will lock raw data  
+☐  Other, namely: ‘raw’ data is typically not digitalized, so it exists in the form of field notes in a 
+hard copy  notebook.  
+ 
+The distinction between raw and processed data is of utmost importance in 
+anthropological/ethnographic research. The DATA MANAGEMENT POLICY Department Cultural 12 Anthropology Development Sociology (CA DS) explains how this distinction will be m ade: “ For the 
+purposes of ethnographic research, however, it is essential to distinguish between “raw” data and 
+data processed for audience consumption: the first category (which includes primary data such as 
+field notebooks) contains personalized data and cultural properties that are never anonomysed  
+and can therefore not be openly accessed. Providing access to personalized, and possibly sensitive, 
+"raw" data could harm the people studied (see American Anthropological Association Code of 
+Ethics http://www.aaanet.org/profdev/ethics ). The distinction between “raw” and “processed” 
+data differs, depending on whether the audience in question is interested in mere verification, 
+publication or reuse. The making of that distinction, and therefore the providing access to the data 
+concerned, is the ethical responsibility of the researcher."  
+Several of the above options can be selected at once (for example either option 2 or 3 AND option 
+4). 
+Add, as applicable: Dat a will be transferred to a new file (or made into an electronic file if 
+previously hand written) for the benefit of data analysis and/or publication.  
+2.8 Is there any non -digital data or outputs that the project will generate? Where will these outputs 
+be stored?   
+Please specify briefly  and describe who is responsible for storage of these outputs .  
+Yes (for all of us I assume). Possibilities: hand -written notes, hard -copies of documents gathered 
+(e.g. flyers, posters, newsletters, newspapers articles), m aterial objects, etc. Any of these 
+documents that contain sensitive data or personal data and which are not made for public 
+circulation must be stored “behind lock and key”. If you know where, you can specify, e.g. first, at 
+the field site (during fieldwor k) and later in the researcher's office or the researcher's home. The 
+researchers who gathered the data is responsible for safeguarding the data.  
+2.9 Do you expect to have any supplementary costs for storage not covered by the project budget?  
+Please speci fy 
+ Most of us will not have “project budgets”, but luckily also not very expensive storage needs. 
+However, this depends on whether you will be using network storage, for how long you will use it, 
+and how much space you need. For example, in both DANS and on the J/P -schijf each researcher 
+gets 50GB of free storage (as of last check), but more space costs money. Discuss this with Ilse 
+beforehand if you plan to store large amounts of data in DANS or on the J/P -schijven.  
+ 
+3. Data documentation  
+Documenting yo ur data to help future users to 
+understand and reuse it     
+3.1 How will files be named?  
+Please describe briefly.  
+This can be done however you see fit.  
+3.2 How will folders be named and structured?  
+You are invited to draw a folder structure and descri be it briefly. 
+This can be done however you see fit.  
+3.3 How do you handle version control to maintain all changes that are made to the data?  
+Please explain your choice briefly. Remember to also document any deletion of data, if applicable.  13 ☐  No version control (e.g. original files are overwritten)  
+☐  Version control software, namely: …  
+☐  Data/version number in filename/folder  
+☐  ‘Track changes’ feature in software  
+☐  By saving the script with which I process my data  
+☐ Other, namely: the first v ersion of research material I have produced myself (e.g. field note) is 
+usually hard copy (notebook) or audio file. The second version is then a digital document (MS 
+Word). Further analysis is done by hand (hard copy, print -outs) and by using computer assi sted 
+qualitative data analysis (Atlas.TI), which does not change the original data.  
+I suspect this will be N/A for most of us, but of course, if you have a system for version control 
+describe it here. Again, this can be done however you see fit.  
+3.4 What metadata standard will be used, if any?iv 
+Please explain why you use this standard (most used in my discipline, required by the data archive 
+where I will deposit my data). Please outline how the metadata will be created (read me file, 
+spreadsheet, in the  data). If no standard exist, please specify which metadata is needed to 
+understand the data.  
+☐  No metadata standard is used  
+☐  Generic metadata standard (e.g. Dublin Core)  
+☐  Standard automatic Windows metadata (e.g. from Word, Excel)  
+☐  Specialised metadata standard, namely: …  
+☐  Other metadata standard, namely: …  
+This is also possibly N/A, but of co urse, if you are applying a metadata standard, describe it here. 
+Any standard is fine since anthropology as a discipline has no standard. For video or for file sharing, 
+having such a system might be very useful.  
+Some of you use Generic metadata standard, r eadme files.  
+3.5 What supporting information / documentation will you create to enhance understanding of the 
+data ?  
+Please describe briefly how peers should be able to understand the data. Examples are a readme.txt, 
+lab journals, a codebook, survey quest ions etc. Is there a standard for documentation in your field? 
+Describe at what moment in your research process you will add the documentation necessary to 
+make sure the data is understandable for peers.  
+Mention here that there are no codebooks for de -anonymization or survey questions (except of 
+course if you are working with code books and gathering survey data).  
+Site the DMP again here” As the DATA MANAGEMENT POLICY Department Cultural Anthropology 
+Development Sociology (CA DS) explains, “ Interpretabil ity: anthropological data are not stored in 
+excel sheets or databases, but in the form of lengthy written texts that span multiple notebooks or 
+digital files (e.g. word docs, photos, film, audio -recordings). These data require contextualization to 
+be intel ligible to other researchers because: a. they reflect a human relationship between researcher 
+and research participants that shapes the context in which the data was gathered; b. each 
+notebook, or text, cannot be easily understood without triangulation acr oss multiple 
+notebooks/devices/personal archives which cannot all be made available due to the risk of breach of 
+privacy (lack of anonymity), and c. without deep knowledge of the research context and the specific 
+research participants the data cannot be ac curately assessed. ”  
+ 
+If you plan to create a type of “contextualizing document” that can accompany processed, sharable, 
+data to make this data available and understandable to others, or to process the data in such a way 14 that it is easily decipherable desc ribe this here.  
+ 
+ 
+4. Data access, sharing and reuse  
+Managing access and security, sharing your data     
+4.1 Are there any restrictions placed on sharing / reuse of some / all of your data?  
+Please account for not sharing your data. Reasons may be ethical , commercial, security -related, 
+protection of personal data rules, intellectual property, copyright,  
+Yes, there are considerable ethical concerns. Although processed data will be widely shared, raw 
+data will be handled carefully. As described in the DAT A MANAGEMENT POLICY Department 
+Cultural Anthropology Development Sociology (CA DS), “the data gathered in an 
+anthropological/ethnographic setting are held in trust by the researcher to protect the interests of 
+people studied or be returned to them (if possible), unless otherwise stipulated” and “In the process 
+of anthropological/ethnographic research specifically, social relationships with research participants 
+are usually dynamic, qualitative and personal and require constant revision of the standards of 
+research participants’ privacy and cultural property. Researchers are responsible for protecting the 
+research participants’ interests, by keeping the data in a well -documented secluded setting unless 
+they have been processed for third party consumption” and “During ethnographic fieldwork, extra 
+measures to protect data may be necessary to protect data using encryption software and extra 
+passwords on laptops and external hard discs.“  
+You can also mention co -ownership if it applies.  
+Also mention any topic sp ecific reasons (gathering of information on religious or political beliefs, 
+sexuality, criminal behaviour, conflicts, etc).  
+Further reasons for keeping raw data private might be conflicts of interest among the research 
+participants themselves which could be harmed through sharing of raw data.  
+4.2 With whom will you share your data at which stage in your research? You can use the table 
+below.  
+Please state any sharing requirements, e.g. funder data sharing policy. Please describe briefly how 
+you will share  your data: on request, pro -actively, etc.. Please specify how your data can be 
+accessed.  
+Fill in as you see fit. Most likely for the first two rows (raw data) you will not share the data with 
+anyone (or only with collaborators) and once the data is proc essed (rows 3 -6) you will share a 
+selection of the data with a larger audience. No need to promise to share all the data with 
+everyone. In any case make it clear that when referring to sharing, you are referring only to 
+“processed data” as described above,  unless of course you plan to share all of your raw data – in 
+which case an ethical justification should be made above and below.  
+ Would 
+not 
+share 
+with 
+anyon
+e Would 
+share with 
+my 
+immediate 
+collaborators  Would 
+share with 
+others in 
+my 
+research 
+centre or at 
+my 
+institution  Would 
+share 
+with 
+scientists 
+in my 
+field  Would 
+share 
+with 
+scientists 
+outside of 
+my field  Would 
+share with 
+anyone  
+Immediately 
+after the data 
+has been       15 generated  
+After the data 
+has been 
+normalized 
+and/or 
+corrected for 
+errors        
+After the  
+data has 
+been 
+processed for 
+analysis        
+After the data 
+has been 
+analysed        
+Immediately 
+before 
+publication        
+Immediately 
+after the 
+findings  
+derived from 
+this data have 
+been 
+published        
+Based on: Interview worksheet, Jake Carlson, Pu rdue University Libraries / Distributed Data 
+Curation Center  
+…………  
+4.3 If intending to share any part of the data, do your participant consent procedures include 
+information about intentions for sharing, retention of data and steps taken to protect 
+parti cipants privacy and confidentiality?  
+☐ Not applicable.  
+X Yes. Please specify the relevant formula in the consent procedures.  
+While some anthropological research can and does use written informed consent, most often verbal 
+forms of consent are used. Par ticipants who have demonstrated continued consent (verbally and 
+non- verbally) to participate in the research will be informed of the data storage and sharing plans. 
+Remember also to get informed consent from your research participants for the possibility o f future 
+archiving of your data if you think the data has historical significance and if you do not plan to 
+destroy your data after you are done working with it.  See Appendix I: Approved Informed Consent 
+Procedures in Anthropology.  
+4.4 Who has authority t o grant (additional) access to your data?  
+Please describe briefly.  16 ☐  Only you  
+☐  A colleague from the project, namely: …  
+☐  Supervisor  
+☐  Funder  
+☐  Collaborator / research partner organisation  
+☐  Other, namely: …  
+I suggest choosing only you, unless there is a specific reason to select otherwise (e.g. team projects). 
+If you are working on a team project, devise an “Access Control List”. For example:  
+Access to data will be determined by the following access control list:  
+Data work package 1: PI  
+Data work p ackage 2: PhD 1 / partner organization 1 (name person and affiliation)  
+Data work package 3: PhD 2 / partner organization 2 (name person and affiliation)  
+Data work package 4: PhD 3 / partner organization 3 (name person and affiliation)  
+Data work package 5: Postdoc 1 / partner organization 4 (name person and affiliation)  
+And so on...  
+In the case where data is gathered together with someone else and fully shared, state whether both 
+researchers need to consent for the further sharing of the data or wether one or the other has final 
+say or, if decision -making power is divided, describe over which portions of the data each person 
+has final say. It may also be the case that the PI on a project determines this for all work packages, 
+or at least needs to be consulte d, prior to sharing. I would suggest keeping the control as much as 
+possible in your own hands.  
+4.5 How will you manage copyright and Intellectual Property Rights issues?  
+Who owns the data? How will the data be licensed for reuse?  Please describe briefly your choices 
+and their consequences.  
+This will depend on your specific circumstances. You can claim sole ownership (this is what the 
+default claim is for our institute, see introduction above), co -ownership with (some of) the research 
+participants (also included in our introduction above as an important factor), or leave ownership to 
+Leiden University, or to the research funder – however you have previously arranged this.  
+4.6 What is the audience for reuse?  
+Please list possible audiences and purposes. Co nsider who might use it now and who might use it 
+later.  
+Potential audiences for the re -use of data that the researcher has carefully selected and processed 
+for sharing are other scholars working in your field, relevant groups in the local context, non -profits, 
+NGOs, specific government bodies, etc (as relevant to your research).  
+ 
+5. Data preservation and archiving  
+Preserving your data     
+5.
+1 Which criteria will you use to decide which data has to be archived?  
+Please briefly describe your choices.  
+☐  Type of data (raw, processed) and how easy it is to reproduce it  
+☐  Relevance of content for others  
+☐  Usability of format for others  
+☐  Data underlying publications  
+☐  Verification of research  
+☐  Available time  
+☐  Available money  17 ☐Other, namely: ethical requirements  
+Selection of data for sharing and archiving should be made on the basis of 1. ethical commitments 
+to research participants and 2. interpretability/usability of the data by outsiders.  
+1. This can include the question of whether or not the data can be anony mized and whether 
+consent has been given for the re -use of non- anonymized or anonymized data. It can include the risk 
+to participants based on the type of data gathered (controversial opinions, private information, 
+criminal activity, information that could  lead to discrimination, job loss, insecurity, etc.) as well as 
+the societal benefits and opportunities that data sharing might bring to the research participants.  
+2. The usability of the data by anyone other than the researcher who gathered it is not always 
+self-evident in anthropological research. While some of our data maybe sharable other portions of 
+the data will not be understandable to others without explanation by the researcher who gathered 
+the data as described in the DATA MANAGEMENT POLICY Departmen t Cultural Anthropology 
+Development Sociology (CA DS). 
+5.
+2 How long should your data be preserved? Are there any requirements regarding the disposal of 
+data? State obligations you have by law, funder, university, etc. if any.  
+Describe how you will dispos e of the data, e.g. how you will get approval, what people and/or tools 
+you need, etc.  
+Leiden University Regulation for Data Management requires that research data be kept for a 
+minimum of ten years after the end of a research project. However, it is no t uncommon in 
+anthropological research for various research projects to build upon each other and the materials 
+gathered may be incorporated into a future project. Additionally, ethnographic archives can be 
+important historical records that should be safeguarded.  
+You can therefore choose to keep the data beyond this ten year window. However , the research 
+participants must consent to this (see Appendix I on consent procedures) and, wherever possible, 
+the data must be “anonymized” (in the legal sense). If yo u want to store non- anonymized data (e.g. 
+video or non -modulated audio -recordings) beyond the end of the research “project” then you have 
+to explain how the data is relevant for a future research project or how the data is of historical 
+relevance and descr ibe your plan for archival in the public interest.  
+You can do this when you submit your DMP for the next research project (assuming you are working 
+in the frame of “projects”). In that case state here now, “audio or video recordings that are not 
+anonymise d will be deleted at the end of the research period, unless there is a follow -up research 
+project foreseen for which these audio -recordings might prove relevant or unless it is determined 
+that the resulting ethnographic archive is of historical significanc e, in which case a suitable archive 
+will be sought.” In the case of data retention beyond the life of the research project, a new DMP 
+should be submitted to describe the archiving plans/new research project.  
+Add, of course, any further obligations you may have from funders, partner organizations etc.  
+When disposing of data, state that you will get a professional to clear hard drives, etc (I hope the 
+university will soon have someone for this).  
+The DATA MANAGEMENT POLICY Department Cultural Anthropology Dev elopment Sociology 
+(CADS) suggests that data may be destroyed, handed back to the research participants or archived 18 appropriately upon the retirement of the researcher from rese arch reporting, but allows for each 
+researcher to determine this for themselves and to outline this in the DMP for the research project. 
+State whether you will be destroying, archiving, or handing over the data to others upon retirement 
+and if so how/where  you will archive the materials or how you will ensure the safety/privacy of the 
+research participants if/when the data is handed over. Or if you do not yet know, state so, and say 
+that you will submit an amendment to the DMP once this is decided.  
+5.
+3 Which data repository is appropriate for archiving your data?  
+Please describe briefly. Does this archive have a ‘data seal of approval’ or another form of 
+certification?   
+☐  Discipline specific (international) repository, namely ...  
+☐  4TU.Centre for Resear ch Data  
+☐  SurfSara 
+☐DANS Easy  
+☐  Other (international) repository, namely :  
+☐ Other, namely: …  
+Unless you already have a clear idea of this for your research, state that the question of data 
+archiving will be determined once the exact nature of the dat a gathered is clear and the researcher 
+has determined which portions of the data can be shared which not.  
+5.
+4 Does the archive have specific requirements concerning file formats, metadata etc.  
+Provide relevant urls to the documentation on these requireme nts. Describe how you intend to meet 
+those requirements, e.g. converting the file formats, providing supplementary documentation.  
+Will there be extra costs to prepare your data for archiving?  Please specify. See http://www.data -
+archive.ac.uk/media/ 247429/costingtool.pdf  
+N/A, unless you have already chosen an archiving system/repository – then describe here the file 
+formats.  
+5.
+5 What costs (if any) will your selected repository c harge? Who pays?  
+Please state the costs in euro’s and the institution that pays for it.  
+N/A, unless you have already chosen an archiving system/repository – then describe the costs here.  
+5.
+6 Who is responsible for the data after the project ends?  
+Pleas e state a position and the current person in that position.  
+Probably, you are. I think in most cases the answer here is that you are responsible, though this 
+responsibility may be shared with others in group project. This shared responsibility may mirror  your 
+Access Control List above, unless the specific agreement has been made that one researcher in the 
+project (the PI or the main host institution) has this responsibility. If you are claiming ownership 
+above (point 4.5), consider what will happen to your data after you die (especially how to ensure 
+that data that may be of public interest is shared/archived or that highly sensitive data is kept safe). 
+This last point is not a legal requirement for a DMP , but seems important to consider.  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                             
+i  This  template is based on the 3TU data management plan, the University of Bath data mana gement plan and the 
+Data Management Checklist of the University of Western Sydney.  
+ii  http://regulations.leiden.edu/research/research- data -management -regulations -leiden -university.html  19                                                                                                                                                                                                 
+iii  Data types can be : documents (text, MS Word), spreadsheets, field notebooks, diaries, questionnaires, transcripts, 
+surveys, codebooks, audiotapes, videotapes, photographs, (transcribed) test responses, models, algorithms, measurements, 
+simulations, observations, software source code, computational model output, etc. Think of the different stages (for instance 
+: video recording, transcript, annotation, lists of typological features ....).  
+iv  See http://www.dcc.ac.uk/resources/metadata -standards  or  http://en.wikipedia.org/wiki/Metadata_standards   or 
+the relevant repository.  

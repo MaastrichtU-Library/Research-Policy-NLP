@@ -1,0 +1,18 @@
+Privacy for Researchers
+Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC, otherwise commonly known as the General Data Protection Regulation or the GDPR, came into effect on May 25, 2018.
+
+GDPR standardizes data protection law across all 28 EU countries, imposing new, strict rules on controlling and processing of personal information.
+
+Why GDPR is Important for Researchers
+Research data is any information that has been collected, observed, generated or created to validate original research findings, including non-digital formats. Robust research governance, ethics system and research data management (RDM) constitute effective and responsible ways of handling information in the course of research. Conducting research using these standards allows RDM to be a fundamental part of research practices. Effective data management is carried out throughout the entire life cycle of the data.
+
+Awareness Training
+Personal Data Access, Rectification and Erasure Request Form
+Report an Incident
+Data Protection Impact Assessment
+Vendor Risk Assessment
+Privacy for Researchers
+Page Title
+GDPR determines circumstances for collecting, using, disclosing, retaining and processing personal data. Furthermore, it establishes the rights of the individuals and the requirements for implementing appropriate technical and organizational measures (TOMs), ensuring a level of data security corresponding to the risk of the data.
+
+In case of a data breach, data protection authorities and affected individuals need to be informed within 72 hours following the discovery of a personal data breach resulting in the accidental or unlawful destruction, loss, alternation, unauthorized disclosure of, or access to, personal data transmitted, stored, or otherwise processed.

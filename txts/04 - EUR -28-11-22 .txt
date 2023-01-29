@@ -1,0 +1,190 @@
+   1  
+Research Data Management (RDM)  policy of Erasmus University Rotterdam (EUR)  
+Versi on: 1.0 
+Date:  14th of August  2020  
+ 
+1. PREAMBLE  
+The Erasmus University Rotterdam (EUR) recognizes the fundamental importance of research data and the 
+management of related administrative records in maintaining quality research and scientific integrity . 
+In addition , the EUR  committed to the FAIR data principles (2016) and is pursuing the highest standards.  
+The EUR  acknowledges that : 
+Correct and easily r etrievable research data are the foundation of and integral to every research project. 
+Research data  are necessary for the verification and defence of research processes and results.  
+RDM policies are highly valuable to current and future researchers.  
+Research data have a long -term value for research and academia, with the potential for widespread use in 
+society.  
+ 
+2. DEFINITIONS  
+Research  is any creative and systematically performed work with the goal of furthering knowledge, 
+including discoveries regarding people, culture and society, in addition to the use of such knowledge for 
+new applications.  
+Researchers  refers to all research -active  members of an institution including employees  and doctoral 
+candidates. Persons not directly affiliated with an institution, but who, for purposes of research, make use 
+of or are physically present at the institution, are also included in the term. Visitin g researchers or 
+collaborators  (including hired staff)  may also be expected to comply with this policy.  
+Research data  refers to all information (independent of form or presentation) needed to support or 
+validate the development, results, observations or f indings of a research project, including contextual 
+information  and secondary data (produced by someone other than the researcher) . Research data include 
+all materials which are created in the course of academic work, including digitisation, records, source 
+research, experiments, measurements, surveys and interviews. This includes software and code.  
+Research data can take on several  forms with varying levels of access, including open data, restricted data 
+and closed data.  
+During the lifespan of a research project, research data can exist as:  
+• Raw data,  
+o primary data: information from measurements or observations, recorded as images, 
+video footage, paper surveys, computer files, etc.  for the purpose of research projects in 
+which EUR researchers participate.  
+o external  data: research data made available to EUR staff  and having received, for this use, 
+licensed access to use as a source - but the rights are kept fully outside EUR (such as 
+statistical, financial or survey data).  
+o secondary data can be re -used primary data or external data.  
+• Processed data: results (including negative and inconclusive results) after data processing 
+(recoded, visu alised, categorised, aggregated, etc.).  
+• Published data: information distributed to people beyond those involved in the research project 
+(shared data, published data and archived data).  
+ 
+    August 20, 2020  
+  2 3. JURISDICTION/PREMISES AND PRINCIPLES  
+This policy for the manageme nt of research data applies to all researchers and other staff active at the EUR. 
+This policy was approved by the EUR Executive Board  on 25th of August 2020 . And takes into effect on 
+January 1st 2021.  
+Legislation or, in cases when research is funded by a third party, any agreements made with parties 
+concerning intellectual property rights, access rights and the storage of research data take precedence over 
+this policy.  
+ 
+This policy framework elaborates on existing frameworks, which include (but  is not limited to):  
+ 
+Legislation  
+• Databankenwet  
+• Auteurswet  
+• Wet op het hoger onderwijs en wetenschappelijk onderzoek (WHW)  
+• Uitvoeringswet Algemene verordening gegevensbescherming (UAVG)  
+• Wet medisch -wetenschappelijk onderzoek met mensen (WMO Incl. Directives)  
+ 
+VSNU agreements  
+• CAO VSNU  
+• Netherlands Code of Conduct for Scientific Integrity  
+  
+This policy is additional to:  
+• EUR Reglement Gebruik Internet en ICT-faciliteiten  
+• EUR CISO Data Classification Model  
+• EUR operationeel informatiebeveiligingsbeleid  
+• EUR richtlijn bewaartermijn  
+• Baseline protocol RDM for EUR research  
+• EUR Faculty policies and guidelines  
+• Good Clinical Practice (GCP) guidelines  
+• Any agreements made with third parties (project or consortium partners, data suppliers, data 
+processors, publishers/journals, etc.)  
+ 
+4. INTELLECTUAL PROPERTY RIGHTS  
+Intellectual property rights (IPR) are defined in the work contract between a researcher and his or her 
+employer. IPRs might also be defined through further agreements (e.g. grant or consortia agreements). In 
+cases where the IPR belong to the institution that employs the researcher, the institution has the right to 
+choose how to publish and share the data.  
+    August 20, 2020  
+  3 5. HANDLING RESEARCH DATA  
+It is important to preserve the integrity of research data. Research data must be stored in a correct, 
+complete, unadulterated and reliable manner. Furthermore, they must be identifiable, accessible, 
+traceable, interoperable, and whenever possible, availa ble for subsequent use.  
+Data should be provided using appropriate (discipline) standards following FAIR principles  (as much as 
+possible) . 
+Research data should be stored and made available for use in a trusted  repository or archiving system, 
+preferably a trusted digital repository with certification, such as Core Trust Seal.  
+5.1 STORAGE AND RETENTION  
+Research data and records are to be stored and made available according to intellectual property laws or the 
+requirements of third -party funders, within the parameters of applicable legal or contractual requirements, e.g. EU 
+restrictions on where identifia ble personal data may be stored.  
+Research data of future historical interest and the administrative records accompanying research projects should 
+also be preser ved. 
+The minimum archive duration for research data and records is 10 years after either the as signment of a persistent 
+identifier or publication of a related work following project completion, whichever is later.  
+5.2 IDENTIFICATION AND DOCUMENTATION  
+Data that will be retained should be provided with persistent identifiers.  
+Sufficient metadata shoul d be provided to enable finding, validating and repurposing the data.  
+Metad ata should be provided using appropriate (discipline) standards following FAIR principles  (as much as 
+possible) . 
+At least the following aspects should be documented:  
+• The research question or hypothesis  
+• The research method(s) chosen  
+• The list of known people for whom the data is accessible  and under which conditions  
+• Documentation of the actions taken with the data and the software used  
+ 
+5.3 LICENSE AND USE  
+In compliance with  intellectual property rights, and if no third -party rights, legal requirements or property 
+laws prohibit it, research data should be assigned a licence for open use.  
+Adherence to citation norms and requirements regarding publication and future research should be 
+assured, sources of subsequently used data explicitly traceable, and original sources can be acknowledged.  
+5.4 DESTRUCTION  
+In the event that research data and  records are to be deleted or destroyed, either after expiration of the required 
+archive duration or for legal or ethical reasons, such action will be carried out only after considering all legal and 
+ethical perspectives. The interests and contractual stip ulations of third -party funders and other stakeholders, 
+employees and partner participants in particular, as well as the aspects of confidentiality and security, must be 
+taken into consideration when decisions about retention and destruction are made. Any action taken must be 
+documented and be accessible for possible future audit. If persistent identifiers where assigned the metadata 
+should not be deleted or destroyed but updated with the date and rationale for deletion or destruction of the 
+research data.  
+    August 20, 2020  
+  4 6. ROLES, RESPONSIBILITIES AND MANDATES  
+The responsibility for research data management during and after a research project lies with Erasmus 
+University Rotterdam and its researchers and should be compliant with codes for the responsible conduct 
+of resea rch. 
+ 
+6.1 EUR EXECUTIVE BOARD IS ACCOUNTA BLE FOR:  
+The Executive Board bears final responsibility for the duties of care as stated in the Netherlands Code 
+of Conduct for Research Integrity. By means of this policy and other related EUR guidelines, 
+empowering organisational units, providing appropriate means and resources for research support 
+operations, the upkeep of services, infrastructures, employee education and monitoring practices it 
+will facilitate and stimulate good research data management at EUR.  
+ 
+6.1.1 ACADEMIC AFFAIRS  (AA)  IS RESPONSIBLE FOR:  
+Managing risks and revisions of this RDM policy.  
+Align ing this RDM policy  with other EUR policies . 
+ 
+6.1.2 ERASMUS RESEARCH SERVICES (ERS) IS ACCOUNTABLE FOR:  
+Managing the EUR Digital Competence Center that will provide the 1st line of RDM support and 
+function as a central hub to connect all RDM services and expertise at EUR and other DCC’s.  
+Coordinating the 2nd line of RDM support provided by CIO, IT, Library and other EUR staff.  
+ 
+6.1.3 CIO, ERS, IT and LIBRARY AR E RESPONSIBLE FOR:  
+Facilitating good data management by providing a suitable research infrastructure.  
+Providing 2nd line of support.  
+Ensuring that all data, software codes and research materials, published or unpublished, can be 
+securely stored for the per iod indicated by the depositor.  
+Ensuring that, as far as possible, data, software codes, protocols, research materials and 
+corresponding metadata can be stored permanently.  
+Ensuring that it is clear how data, software codes and research material can be acc essed.  
+ 
+6.2 RESEARCH DIRECTORS ARE ACCOUNTA BLE FOR:  
+Faculty policies and guidelines  in case these exist . 
+Research infrastructure being  used according to good practices.   
+Ensuring that, in accordance with the FAIR principles, data is open and accessible to the extent possible 
+and data remains confidential to the extent necessary.  
+Ensuring that all data, software codes and research materials, published or unpublished , are managed 
+and securely stored for the period appropriate to the discipline(s ) and methodology concerned with a 
+minimum of 10 years.  
+ 
+6.3 RESEARCH LEADERS ARE RESPONSIBLE FOR  
+Group Data Management protocols or strategies to be reviewed by a faculty or university data 
+steward . 
+ 
+6.4 RESEARCHERS ARE RESPONSIBLE FOR:  
+Collectin g, storing, documentin g, archiving,  providing  access to , or proper destruction of , research data 
+and research -related records. This includes the definition of protocols and responsibilities within a joint 
+research project. Such information should be included in a Data Management Plan (DMP), or in 
+protocols that explicitly define the collection, administration, integrity, confidentiality, storage, use and 
+publication of data that will be employed.  
+Planning to enable, wherever possible, the continued use of data  even after project completion. This 
+includes defining post -project usage rights, with the assignation of appropriate licences, as well as the 
+clarification of data storage and archiving in the case of discontinued involvement at the EUR. 
+Project Data Management Plans to be reviewed by a n EUR  data steward . 
+Registration of research projects at the proposal stage . 
+ 
+    August 20, 2020  
+  5 6.5 FACULTY RESEARCH S UPPORT  IS RESPONSIBLE FOR:  
+Develop ing and maintain ing custom (discipline) protocols in line with AVG and Code of Conduct.  
+Provid ing 1st line of support (hands -on & advice).  
+Provid ing input and feedback for EUR principles & guideline s. 
+ 
+7. VALIDITY  
+This policy will be reviewed and updated as required by the E xecutive Board of the Erasmus University 
+Rotterdam.  First evaluation is planned in the first half  of 202 2. 

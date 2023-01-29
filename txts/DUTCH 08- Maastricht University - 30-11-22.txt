@@ -1,0 +1,169 @@
+Gedragscode Datamanagement UM 
+GEDRAGSCODE ONDERZOEKSDATAMANAGEMENT UNIVERSITEIT MAASTRICHT 
+Onderzoekdata 
+Onderzoekdata is waardevol voor de Universiteit Maastricht (verder UM). Ze spelen een steeds 
+belangrijkere rol in het wetenschappelijk proces en dienen zorgvuldig en integer beheerd te worden 
+teneinde hergebruik en verificatie van onderzoeksresultaten mogelijk te maken. Datamanagement is 
+hierbij onontbeerlijk en omvat alle handelingen die ertoe leiden dat digitale onderzoeksgegevens 
+vindbaar, toegankelijk en begrijpelijk blijven op de lange termijn: organisatie, documentatie, opslag, 
+delen en archivering van onderzoeksgegevens. Hierbij spelen naast classificatie op beschikbaarheid, 
+integriteit en vertrouwelijkheid (BIV), inherente beveiligingsmaatregelen1 en privacywetgeving2 een 
+belangrijke rol. Datamanagement werkt verreweg het beste als het in het begin van het 
+onderzoeksproces wordt ingepland. Datamanagementplannen, of Data Sharing Plannen, zijn hiervoor 
+een uitstekend hulpmiddel. 
+In het kader van datamanagement verstaan we onder onderzoekdata alle gegevens die worden 
+verzameld tijdens wetenschappelijk onderzoek. Er Is een grote variatie In soorten onderzoekdata: het 
+kan bijvoorbeeld gaan om tekst, beeld, geluid, spreadsheets, databases, statistische gegevens, 
+geografische data, et cetera. Afhankelijk van de onderzoeksmethode kunnen sommige gegevens 
+eenvoudig gereproduceerd worden en worden andere bepaald door tijd en plaats. Deze eigenschappen 
+bepalen mede de noodzaak om data te archiveren. 
+1. Doel 
+Doel van onderzoeksdatamanagement is het borgen van de toegankelijkheid en de bescherming van 
+onderzoekdata tegen diefstal, misbruik, beschadiging of verlies. De onderzoeker dient daartoe zeker te 
+stellen dat zijn/haar onderzoekdata adequaat worden vastgelegd, gearchiveerd, ontsluitbaar en 
+toegankelijk gemaakt voor onderzoekers van de UM en onderzoekers van andere instellingen en/of 
+bedrijven middels (infrastructurele) voorzieningen voor een voldoende tijdsperiode. Dit dient ter 
+onderbouwing van het onderzoek waaraan de data ten grondslag liggen (authenticatie, validering), 
+voor het doen van nieuw en innovatief onderzoek gebaseerd op bestaande informatie en voor het 
+vastleggen van enig intellectueel eigendom dat met genoemd onderzoek is ontwikkeld. 
+2. Opslag 
+Onderzoekdata dienen uiterlijk aan het einde van het onderzoeksproject, of zoveel eerder als 
+toepasselijke facultaire richtlijnen dan wel andere van toepassing zijnde regels, voorschrijven, te 
+worden opgeslagen en gearchiveerd in daartoe door of via de UM beschikbaar gestelde of aangewezen 
+(infrastructurele) voorzieningen. In geval onderzoekdata deel uitmaken van een elders beheerde 
+collectie, dan dient de UM-onderzoeker hier adequaat naar te verwijzen en tevens te vermelden 
+(indien van toepassing) op welk(e) tijdstip(pen) deze data in de elders beheerde collectie voor welke 
+(groepen van) derden toegankelijk zullen worden. 
+3. Bewaartermijnen 
+Voor zover geen langere termijn wordt voorgeschreven door enige toepasselijke wettelijke-, 
+contractuele- of subsidieregel of facultaire richtlijnen, dienen de opgeslagen onderzoekdata bewaard 
+Verwezen wordt naar de links classificatierichtlijn en maatregelendatabase op de website van de Universiteit 
+Maastricht (www.maastrichtuniversitv.nl/informatiebeveiliqing) 
+2 De onderzoeker stelt een privacy impact analyse (PIA) op waarin aangegeven wordt welke risico's onderkend 
+worden in het kader van de Wet Bescherming Persoonsgegevens en welke maatregelen worden voorzien om deze 
+risico's te mitigeren. De PIA behandelt het gehele onderzoeksproces (data acquisitie, analyse, opslag, ontsluiting, 
+archivering en vernietiging. Zie ook www.maastrichtuniversity.nl/web/mainl/sitewide/sitewidelO/privacy.htm en 
+de Gedragscode Gebruik Persoonsgegevens Wetenschappelijk Onderzoek te blijven voor een periode van ten minste 10 jaar na het moment van laatste publicatie gebaseerd op 
+de betreffende data. 
+4. Eigendom 
+Onderzoekdata die in het kader van een dienstverband, stage, detachering bij, of in opdracht van, UM 
+door de onderzoeker zijn gegenereerd, zijn in beginsel eigendom dan wel geheime informatie van de 
+UM tenzij de UM in een separaat contract met een derde partij(en) hierover afwijkende afspraken 
+heeft gemaakt. De onderzoeker dient ervoor zorg te dragen dat de data, gedurende de geldende 
+bewaartermijn, te allen tijde beschikbaar zijn voor inzage en gebruik door de UM. 
+5. Ontsluiting 
+Onderzoekdata dienen door de onderzoeker van adequate metadatering te zijn voorzien. In geval van 
+versleutelde data dient de onderzoeker de betreffende sleutel(s) separaat van de data te beheren en 
+uiterlijk aan het einde van het onderzoeksproject, of zoveel eerder als toepasselijke facultaire 
+richtlijnen, dan wel andere van toepassing zijnde regels, voorschrijven, op te slaan en te archiveren in 
+daartoe door of via de UM of derden beschikbaar gestelde of aangewezen voorzieningen. 
+6. Openbaar maken 
+Voor het op enige wijze openbaar maken van onderzoekdata door de onderzoeker, anders dan middels 
+wetenschappelijke publicatie (zoals artikelen, presentaties, boeken, etc), dan wel zoals gesteld in 
+artikel 7, is toestemming van de decaan van de betreffende faculteit van de UM (of diens 
+(onder)gemandateerde) vereist, welke toestemming niet op onredelijke gronden zal worden 
+onthouden. Als overgegaan wordt tot publicatie van onderzoekdata, dient de onderzoeker zich te 
+vergewissen dat de intellectuele eigendomsrechten van de UM en/of van derden worden gewaarborgd. 
+Aan de toestemming kunnen door de decaan (of diens (onder)gemandateerde) voorwaarden worden 
+verbonden. 
+7. Gebruik van onderzoekdata door andere onderzoekers 
+Indien een onderzoeker van de UM of van een andere instelling en/of bedrijf een verzoek indient tot 
+gebruik van onderzoekdata van een bepaalde UM-onderzoeker, is deze UM-onderzoeker zelf (of diens 
+plaatsvervanger) bevoegd om hier toestemming voor te verlenen. Aan de toestemming kunnen door 
+de UM-onderzoeker (of diens plaatsvervanger) voorwaarden worden verbonden. 
+8. Inzage door een niet tot het reguliere wetenschapsproces behorende externe partij 
+Indien een niet tot het reguliere wetenschapsproces behorende externe partij een verzoek indient tot 
+inzage van onderzoekdata, is de voorzitter van het College van Bestuur bevoegd om hier toestemming 
+voor te verlenen. De voorzitter van het College van Bestuur zal, voor zover mogelijk, vooraf overleg 
+plegen met de onderzoeker en decaan van de betreffende faculteit en bij het al dan niet verlenen van 
+de toestemming zoveel als mogelijk rekening houden met eventuele belangen van de onderzoeker. 
+Aan de toestemming kunnen door de voorzitter van het College van Bestuur voorwaarden worden 
+verbonden. 9. Privacy en geheimhouding 
+Onverminderd het bepaalde in punt 5 van deze Gedragscode mogen onderzoekdata enkel worden 
+gepubliceerd, dan wel aan derden beschikbaar gesteld, voor zover dit geen strijdigheid oplevert met 
+enige toepasselijke wettelijke bepaling (zoals de Wet Bescherming Persoonsgegevens) of enige andere 
+(geheimhoudings-)verplichting die op de betreffende onderzoekdata rust (bijvoorbeeld jegens de 
+medisch ethische toetsingscommissie of opdrachtgevers of partners op basis van contracten of 
+subsidieregels) dan wel sprake is van strijdigheid met de Gedragscode voor het gebruik van 
+persoonsgegevens in wetenschappelijk onderzoek. 
+10. Nadere facultaire richtlijnen 
+Het vaststellen van nadere, facultaire richtlijnen ten behoeve van onderzoeksdatamanagement is 
+voorbehouden aan de decaan van de betreffende faculteit. 
+11. Naleving en toezicht 
+Naleving van onderhavige Gedragscode en eventuele, aanvullende facultaire richtlijnen is primair de 
+verantwoordelijkheid van de onderzoeker. De decaan van de faculteit waarborgt een adequaat toezicht 
+op de naleving binnen de faculteit. 
+College van Bestuur, Maart 2014 Research Data Management Code of Conduct 
+Research data 
+Research data is valuable to Maastricht University (hereinafter: UM). It plays an increasingly important role in 
+the scientific process and must be managed with care and integrity to ensure the reuse and verification of 
+research data. Data management is indispensable to this process and includes all operations that make digital 
+research data searchable, accessible and understandable in the long term. These operations include 
+organisation, documentation, storage, sharing and archiving. Inherent security measures1 and privacy 
+legislation2 play an important role, in addition to confidentiality, integrity and availability (the CIA triad). Data 
+management works best when it is planned in the early stages of the research process. Data management 
+plans, or data sharing plans, are excellent tools. In the context of data management, research data refers to 
+all information that is collected during the scientific research process. There is a large variation in the type of 
+research data. This can include text, images, sounds, spreadsheets, databases, statistical data, geographical 
+data, etc. Depending on the research methods used, some data can be easily reproduced and others are 
+determined by time and place. These qualities help determine the need for archiving the data. 
+1. Purpose 
+The purpose of research data management is to safeguard the accessibility of research data and protect it 
+against theft, misuse, damage or loss. The researcher must ensure that his/her research data is properly 
+documented, archived, retrievable and accessible to researchers at UM and other institutions and/or 
+companies by way of (infrastructural) provisions for a sufficient period of time. This serves to support the 
+underlying research (authentication, validation), to conduct new and innovative research based on existing 
+information and to determine the necessary intellectual property rights involved in the research. 
+2. Storage 
+Research data must be stored and archived in the infrastructure facilities made available by UM at the end of 
+the research project (or earlier depending on the relevant faculty guidelines or other applicable rules). If the 
+research data is part of an external collection managed elsewhere, the UM researcher must adequately refer 
+to this and include when (if applicable) and by whom this data can be consulted in the external collection. 
+3. Retention period 
+To the extent that a long term is not required by a law, rule, contract, subsidy or faculty guideline, all 
+research results must be stored for a period of at least ten years after the final publication of the relevant 
+data. 
+4. Property 
+Research data generated by a researcher on behalf of UM in the context of employment, internship or 
+secondment remain the principle property and the proprietary information of UM, unless otherwise agreed in a 
+separate contract with a third party. The researcher must ensure that the data remains available for 
+inspection and use by UM at all times during the retention period. 
+Please refer to the information security and classification guidelines on the UM website www.maastrichtuniversitv.nl/informatiebeveiliginR. 
+2 
+The researcher must draft a privacy impact analysis (PIA) indicating the risks encountered and the measures employed to mitigate these risks, in 
+accordance with the Dutch Data Protection Act. The PIA covers the entire research process (data acquisition, analysis, storage, retrieval, archiving and 
+destruction). See also: www.maastrichtuniversity.nl/web/mainl/sitewide/sitewidelO/privacv.htm and the Personal Data Protection Act. 5. Retrieval 
+The researcher is responsible for ensuring that all data contains the necessary metadata. In the event of 
+encrypted data, the researcher must store and archive the necessary key(s) separately from the data and in 
+facilities provided by UM or third parties. This must be done at the end of the research project (or earlier 
+depending on the relevant faculty guidelines or other applicable rules). 
+6. Public disclosure 
+Public disclosure of the research data by the researcher requires the written permission of the faculty dean (or 
+a representative thereof), in accordance with Article 7. This consent shall not be unreasonably withheld and 
+does not include scientific publications, such as articles, presentations or books. Should the researcher decide 
+to publish the results, s/he must ensure that UM and/or third parties retain all intellectual property rights. The 
+dean (or a representative thereof) may attach additional conditions to this clause. 
+7. Use of research data by other researchers 
+Should a researcher from UM or another institution and/or company submit a request to use the research data 
+of a specific UM researcher, the latter (or a representative thereof) is authorised to grant or deny access. 
+Additional conditions may apply to this authorisation process (on behalf of the UM researcher or a 
+representative thereof). 
+8. Inspection by a non-mainstream external scientific party 
+Should a non-mainstream external scientific party wish to inspect the research data, the president of the 
+Executive Board is authorised to grant permission. The president will, to the best of his ability, consult with the 
+researcher and the dean of the relevant faculty before granting permission, with the interests of the 
+researcher in mind. The president of the Executive Board may set additional conditions to this request 
+procedure. 
+9. Privacy and confidentiality 
+Without prejudice to Point 5 of this guideline, research data may only be published or made available to third 
+parties insofar as it does not conflict with any applicable statutory provisions (such as the Data Protection Act) 
+or any other (confidentiality) agreements with regard to the research data (e.g. medical ethics committee, 
+clients or partners based on contracts or subsidy agreements) and is not in conflict with the Guidelines 
+Governing the use of Personal Information in Scientific Research. 
+10. Additional faculty guidelines 
+The faculty dean reserves the right to implement additional faculty guidelines governing research data 
+management. 
+11. Compliance and monitoring 
+Compliance with these guidelines and other additional faculty guidelines is the primary responsibility of the 
+researcher. The faculty dean is responsible for monitoring and ensuring this compliance within the faculty. 
+Executive Board, March 2014 

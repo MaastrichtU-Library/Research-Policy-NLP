@@ -1,0 +1,25 @@
+The Open University of the Netherlands is developing a policy framework for research data management. Additionally the university offers centralised support for researchers.
+A distinction is made between three phases in a research project. In the first phase (preparation) the focus is on a Research Data Management Plan (RDMP). In the second phase the focus is on data acquisition, data security and research integrity. The third phase is focusing on publication and data procurement.
+
+Data management plan
+
+Funding agencies formulate their own guidelines for data management that a researcher has to comply to when writing a funding proposal. Therefore it is advised to follow these guidelines while writing a proposal.
+
+Next to agency specific guidelines there is more general information on Data Management available. Also tools to create a RDMP are openly available. The most widely used source is developed by the Digital Curation Centre at the university of Edinburgh.
+
+Data management during research
+
+While executing a research data will be collected and then analyzed. According to the guidelines for research integrity the original data collected need to be stored with care. Additionally there are regulations to be considered regarding the handling of personal data.
+
+The OUNL is working on solutions to support the researcher to comply to the legal issues and rules and regulations. At the moment researchers can request access (at the Service desk) to a protected storage facility on a dedicated server at the university (T-Drive).
+
+Data Management and publication
+
+During the last phase in a research the focus is on publication of the results. At the same time it is essential to archive the data your publication is based on.
+
+The OUNL uses the services provided by the KNAW to archive research data. Any researcher can archive research data in the KNAW data repository EASY. Contact the repository manager at KNAW to inform about the requirements and guidelines.
+
+Research data management matrix
+
+The Open University has developed a research data management matrix to support researchers and students when complying with the current laws and regulations on research. The matrix distinguishes three phases in the research process: preparation, data collection and analysis, and publication and data procurement. For each phase the matrix indicates what aspects should be taken into consideration and proposes how to act upon these aspects. Examples of these aspects are: how to handle personal data, how to store data, how to archive data. For more information about the research data management matrix contact the data steward. 
+

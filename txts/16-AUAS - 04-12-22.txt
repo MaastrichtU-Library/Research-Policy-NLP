@@ -1,0 +1,71 @@
+Before commencing research
+1. Data Management Plan (DMP)
+Write a DMP that, among other things, contains a description of the ways any participant’s personal data are protected, who will be able to access those data, how (long) the data will be retained and how the data will be shared or included in open data-sets. For more information, see here.
+
+Please contact the faculty data steward or RDM Support: rdm-support@uva.nl.
+
+
+2. Processing personal data: Legal basis
+The GDPR only allows processing of personal data if there is a legal basis to do so. The GDPR recognizes six legal bases, of which two are relevant for applied research, i.e. ’consent’ and ‘legitimate interest’.
+In addition, special categories of personal data cannot be used, unless one the circumstances as described in GDPR, art. 9(2) apply. Among special categories of personal data are data on ethnicity, health or sexual preference. The exception most likely to be applicable in the case of research is explicit consent.
+In case personal data is being processed on the legal ground of consent, the data subject must be clearly informed by means of an informed consent letter, such as a flyer or a short movie, and must sign a consent-form. An HvA format has been developed and is made available (appendix 1). Consent can be withdrawn at all times, upon which any collected data must be removed – unless these have been anonymized.
+In case personal data is being processed on the legal basis of a legitimate interest, the following conditions apply:
+Processing is necessary to serve the legitimate interest of the controller (researcher, consortium) or of a third party;
+Necessity of processing for the pursuit of this interest must be demonstrated, based on 2 sub-questions;
+* Whether the purpose of the processing is proportional to the infringement of the rights and freedoms of the data subject, And
+* Whether the goal cannot be attained in a different way, that would constitute a lesser infringement of the data subject’s rights and freedoms, known as ‘subsidiarity’ in the GDPR.
+Necessity is not demonstrated if one or both conditions are not met.
+Balance of interest: The condition that the fundamental rights and freedoms of the data subject outweigh the interest of the controller. Should this legal basis be used for processing personal data, the weighing of the controller interests and the rights and freedoms of the data subject must be documented and filed.
+In case no personal data are being processed (e.g. data that are anonymous at the time they are provided), a general consent for participation in the research would suffice. Allowing the data subject to opt-out of concrete research, after having previously given general consent, shows consideration and care. An opt-out has similar consequences as withdrawal of consent: previously collected data must be removed, unless they have been anonymized.
+3. A student conducts (part of the) research within a research group/consortium. (appendix in dutch)
+In case a student is coöperating in HvA-initiated research (regardless of any third party involvement), under responsibility of the research group or consortium, a model declaration, containing provisions on intellectual property, confidentiality and processing or dealing with personal data, is available for use.
+4. Agreements
+Consortium:
+
+In case research is done in a consortium, those involved in the project establish the conditions for execution of the project and lay them down in an agreement. IXA-HvA  will advise on these agreements, especially including arrangements on matters of intellectual property.
+Processing personal data:
+
+When a party other than the Amsterdam University of Applied Sciences (AUAS) is involved in the processing of personal data, arrangements regarding this cooperation need to be laid down in a data processing agreement and/or a data sharing or data transfer agreement. There are three possibilities and a decision tree is available to aid in choosing the appropriate one.:
+1. HvA responsible:
+
+Processing is (partially) outsourced. For example when using an application for doing online surveys, when you have an external party drawing up transcripts of interviews, or when you are storing (or are planning to store) research data containing personal data on systems outside the AUAS. These are examples of cases that require a data processing agreement.
+2. Joint responsibility:
+
+A research project is performed in cooperation with other organizations or universities and decisions on purpose of processing and the way in which those personal data are collected and otherwise processed are jointly made. This case requires a controller-controller agreement.
+3. Third party is responsible:
+
+If you provide personal data to a third party or university that legitimately processes those data for a different purpose than your own, you can use a data sharing agreement. Mind, however, that the AUAS requires a legal basis for providing the data to the other organization or university.
+Model agreements are available through this privacy lemma.
+
+5. Data Protection Officer Declaration
+In case of a European research grant, the Data Protection Officer (DPO) will need to issue a declaration, stating his approval of the intended processing of personal data with regard to the research project. For advice, contact the DPO of the AUAS: functionarisgegevensbescherming@hva.nl.
+6. Data Protection Impact Assessment (DPIA)
+Determine whether a Data Protection Impact Assessment (DPIA) is required.
+Check here for situations when a DPIA is required. A DPIA is always required when the processing of special categories of personal data is intended.
+During Research
+Dealing with data
+Researchers take appropriate security measures when processing personal data. See here . In general, the more sensitive the data, the stricter the security measures required.
+Do not collect more personal data than necessary for the research. Retain the data only as long as you strictly need them for the research.
+Researchers anonymize personal data wherever possible. Should this not be possible, they are pseudonymized (and can therefore be related back to the data subject).
+For data storage, use AUAS approved systems. Encrypt personal data before transmitting them. Should you need to transmit large files, use SURFfilesender, or share the file using SURFdrive or Figshare.
+After Research
+11. Archive:
+Determine which personal data needs to be archived and for how long. Use a safe data-repository, such as UvA/AUAS Figshare, and ensure the data are no longer present in different locations, such as e-mails and laptops. Store non-digital data in the physical archive available in or for your faculty.
+AUAS policy directs a minimal retention period of 10 years for raw data. For clinical research longer terms apply. At the end of the retention period, personal data must be destroyed.
+
+For advice, contact the faculty data steward or RDM Support: rdm-support@uva.nl
+For questions with regard to archiving non-digital data, you can also contact the Documentaire Informatievoorziening department (DIV): servicedesk-DIV@HvA.nl
+12. Only provide personal data to a third party if you have a legal basis to do so.
+As an example, only provide these data after the data subject (the person that the data is in relation to) has given his explicit consent.
+Making available:
+
+The wish or need to publish certain research data, does not automatically entail including them in an open-data set. Data repositories, such as UvA/HvA Figshare have a number of options:
+Open access:
+Data is accessible to everyone. These data must not contain personal data, unless data subjects have given demonstrable consent for this purpose.
+Restricted access:
+Only metadata (data about the data) are made available for everyone. The research data (containing personal data) themselves are only available upon request. Only supply research data containing personal data to a third party if you have a legal basis to do so and when this third party has a legal basis to process them (see step 2). Draw up a user agreement for this transfer.
+No access:
+both metadata and research data are unavailable to third parties. If, at the end of the project, you decide to publish the data and share them in a data repository, this does not automatically make them suitable as open access data. You can still protect personal data by limiting third party access.
+Data breach
+A data breach is caused by loss of personal data (for example because of a stolen laptop) or if someone is able to gain unauthorized access to them. The question whether this person has actually seen or accessed the data is irrelevant – the mere fact that someone could have accessed the data qualifies as a data breach.
+t is your responsibility to adequately protect research data that contain personal data from data breaches.

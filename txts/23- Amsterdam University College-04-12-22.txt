@@ -1,0 +1,37 @@
+Research Data Management at AIHR
+
+Amsterdam Institute for Humanities Research (AIHR)
+About AIHR
+Research Data Management and UvA Figshare
+Research data is the recorded (digital) information which, regardless of its form, is necessary to support or validate research results. Research data management (RDM) concerns everything you do with your research data. This encompasses, data collection, including ethical issues when working with participants, safe and privacy-conform data storage and processing, efficient data organisation, secure data sharing, data archiving and data publishing.
+
+There are various motivations to improve research data management. This includes external factors, such as institutional policies, (inter)national legislation and requirements from funding bodies or publishers. But improved research data management also leads to better organisation and overview of your datasets, secure storage of data preventing loss and damage and increased research integrity in the sense that other researchers can access the data your results are based on and thus validate the results.
+
+Introductie Research Data Management
+Introductie Research Data Management (for subtitle choice click cc)
+Research Data Management (RDM) policies
+The development of the FAIR-principles, the EU General Data Protection Regulation (GDPR), the Netherlands Code of Conduct for Research Integrity, and stricter requirements by research funding bodies made it necessary to update the UvA Research Data Management Guidelines.
+
+The central UvA Research Data Management Guidelines indicate the minimal requirements for the data management protocols of the faculties.  To justify difference between disciplines additional Faculty protocols are necessary. You can download the FGw Research Data Management Protocol using the link below.
+
+RDM Protocol 
+In both the new UvA guidelines and the Faculty protocol, responsibilities are clearly distributed over four levels: researchers, institute directors, faculty board, and university. Furthermore the responsibilities are divided into three phases: before, during and after the research.
+
+Managing research data - Applied to experimental projects 
+Before the research
+Before starting a new research project, the researcher draws up a data management plan (DMP). In the DMP, the researcher specifies what kind of data will be collected, how it is collected, stored and processed. The ...
+Read more about Data Management Plans and research with Personal Data
+During the research
+In addition to complying with laws and regulations, good research data management has further advantages during your research project.
+Read more about storage options for research data and security measures
+After the research
+When a research project is completed, research data needs to be archived and, if possible, made publicly available. The publication of research data requires anonymisation or, if not possible, pseudonymisation of ...
+Read more about archiving and publishing research data
+Research Data Management for students and PhD candidates
+As stated in the FGw Research Data Management Protocol, supervisors are responsible for managing research data collected by their students and for instructing them on how to handle research data.
+Read more about RDM responsibilities of supervisors, students and PhD candidates
+Projects with external partners
+When collaborating with partners who are not affiliated with the UvA, it is possible that personal data which you collected as an UvA staff member will be processed by external partners. If this is the case, a ...
+Read more about processing agreements with external partners
+Support
+For questions about RDM, access to the systems or advise on practical management of Figshare you can contact the Data Steward of the Faculty of Humanities Hanna Fricke or the RDM team at the UB.

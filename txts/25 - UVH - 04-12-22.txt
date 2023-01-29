@@ -1,0 +1,1258 @@
+/one.ltab/three.ltab/five.ltab/two.ltab/two.ltab/five.ltab/three.ltab/one.ltab/five.ltab/zero.ltab
+/nine.ltab/zero.ltab/one.ltab/eight.ltab/zero.ltab
+/two.ltab/seven.ltab/zero.ltab/four.ltab/five.ltab
+/one.ltab/zero.ltab /two.ltab/zero.ltab/three.ltab/zero.ltab
+/four.ltab/zero.ltab
+/five.ltab/zero.ltab
+/six.ltab/zero.ltab
+/seven.ltab/zero.ltab
+/eight.ltab/zero.ltab/one.ltab/zero.ltab/zero.ltab/one.ltab/one.ltab/zero.ltab/one.ltab/two.ltab/zero.ltab/one.ltab/three.ltab/zero.ltab/one.ltab/four.ltab/zero.ltab/one.ltab/five.ltab/zero.ltab/one.ltab/six.ltab/zero.ltab/one.ltab/seven.ltab/zero.ltab/one.ltab/nine.ltab/zero.ltab /two.ltab/zero.ltab/zero.ltab/two.ltab/one.ltab/zero.ltab/two.ltab/two.ltab/zero.ltab
+/two.ltab/three.ltab/zero.ltab
+/two.ltab/four.ltab/zero.ltab
+/two.ltab/five.ltab/zero.ltab
+/two.ltab/six.ltab/zero.ltab/two.ltab/eight.ltab/zero.ltab/two.ltab/nine.ltab/zero.ltab/three.ltab/zero.ltab/zero.ltab/three.ltab/one.ltab/zero.ltab/three.ltab/two.ltab/zero.ltab/three.ltab/three.ltab/zero.ltab/three.ltab/four.ltab/zero.ltab/three.ltab/five.ltab/zero.ltab2018Netherlands 
+Code of Conduct 
+for Research 
+Integrity2018Netherlands 
+Code of Conduct 
+for Research 
+IntegrityThis work is published with a CC-BY 4.0 license. Cite the source accurately: 
+Netherlands Code of Conduct for Research Integrity (2018).
+This is a translated version of the “Nederlandse Gedragscode 
+Wetenschappelijke Integriteit (2018)”. Every effort has been made to 
+ensure its conformity with the original Dutch document. In case of 
+disputes, the authoritative version is the original Dutch document.
+The following link ensures that this Code will remain discoverable via the 
+Internet in the long term: https://doi.org/10.17026/dans-2cj-nvwu  
+The Dutch version of this code can be found via this link.
+4Contents
+Abbreviations used in this Code of Conduct  6
+Preamble  7
+1.  Scope and transitional provisions 10
+ 1.1  To which activities does this Code apply? 10
+ 1.2  Which institutions are bound by this Code?  10
+ 1.3  To whom does this Code apply?  10
+ 1.4 Relationship with other regulations  11
+ 1.5  Date of entry into force and transitional provisions 11
+2.  Principles  13
+ 1. Honesty  13
+ 2. Scrupulousness  13
+ 3. Transparency  13
+ 4. Independence  13
+ 5. Responsibility  13
+3.   Standards for good research practices   16
+ 3.1 Introduction  16
+ 3.2 Design  16
+ 3.3 Conduct  17
+ 3.4 Reporting results  17
+ 3.5 Assessment and peer review  18
+ 3.6 Communication  18
+ 3.7  Standards that are applicable to all phases of research 18
+4.   Institutions’ duties of care  20
+ 4.1 Introduction  20
+ 4.2 Training and supervision  20
+ 4.3 Research culture 20
+ 4.4 Data management  20
+ 4.5 Publication and dissemination  21
+ 4.6 Ethical norms and procedures  21
+5.  Non-compliance with standards: measures and sanctions  23
+ 5.1 Introduction   23
+ 5.2  Research misconduct, questionable research practices and minor shortcomings 23
+ 5.3 Sanctions and other measures   24
+ 5.4 Complaints and investigations  25
+Appendix  28
+  Examples of statutory regulations and codes of conduct that overlap with or 
+are related to the standards for responsible research practices
+5
+Netherlands Code of Conduct for Research Integrity 2018 
+|Abbreviations used in this 
+Code of Conduct 
+•  ALLEA:  All European Academies  
+http://www.allea.org/
+•  KNAW:  Royal Netherlands Academy of Arts and Sciences  
+https://www.knaw.nl/en  
+•  NFU:  Netherlands Federation of University Medical Centres  
+http://www.nfu.nl/english  
+•  NWO: Netherlands Organisation for Scientific Research  
+https://www.nwo.nl/en  
+•  OECD:  Organisation for Economic Co-operation and Development  
+http://www.oecd.org/
+•  TO2 federation: Associated Applied Research Institutes (Deltares, 
+MARIN, NLR, TNO, WR)  
+https://www.to2-federatie.nl
+•  VSNU: Association of Universities in the Netherlands  
+http://www.vsnu.nl/en_GB  
+6
+| Netherlands Code of Conduct for Research Integrity 2018Preamble
+In the words of the European Code of Conduct for 
+Research Integrity (revised version, 2017, hereafter 
+referred to as ‘the ALLEA Code’), research is ‘the quest 
+for knowledge obtained through systematic study 
+and thinking, observation and experimentation’. 
+Although disciplines may differ in approach and 
+method, they share a motivation to increase and to 
+spread our understanding of ourselves and the world 
+in which we live. In our modern knowledge society, 
+scientific and scholarly research has thereby acquired 
+an indispensable role. In providing knowledge and 
+understanding of all aspects of reality, science and 
+scholarship also provide the building blocks for 
+political decision-making and the stimulus for societal 
+development and economic growth. Increasingly, the 
+sciences and the humanities are subject to more, and 
+better articulated, demands on the part of politics and 
+society. 
+If scientific and scholarly research is to perform this 
+role properly, research integrity is essential. This holds 
+true for all disciplines. Research in the sciences and 
+the humanities derives its status from the fact that it 
+is a process governed by standards. That normativity 
+is partly methodological and partly ethical in nature, 
+and can be expressed in terms of a number of guiding 
+principles: honesty, scrupulousness, transparency, 
+independence and responsibility . Researchers who 
+are not guided by these principles risk harming both 
+the quality and the trustworthiness of research. This 
+can take the form of direct damage, for example to 
+the environment or to patients, and can undermine 
+public trust in scientific and scholarly research as well 
+as mutual trust between individual researchers. It is 
+therefore vital that the principles of research integrity 
+and the ensuing guidelines for good research practices 
+be defined with the greatest possible clarity and be 
+acknowledged and applied as widely as possible. That is 
+the aim of this Code of Conduct, which plays a threefold 
+role.
+I  For researchers, trainee researchers and students, 
+it provides an educational and normative 
+framework (chapters 2 and 3) that they are 
+expected to internalize and be guided by in their 
+research activities.II  For the executive boards of research institutions 
+and for research integrity committees, it provides 
+a frame of reference when assessing alleged 
+research misconduct (chapters 3 and 5).
+III  For institutions, it sets out a number of duties of 
+care (chapter 4).
+Particularly with regard to the first of these roles, the 
+Code provides both (a) methodological standards (as to 
+what a good researcher does) and (b) ethical standards 
+(as to what a researcher with integrity does). These are 
+also important for the assessment of alleged research 
+misconduct; after all, the boundary between (a) and 
+(b) is not always easy to define. Cases of substantial, 
+systematic and deliberate non-compliance with the 
+methodological standards, in particular, are also 
+objectionable from an ethical perspective. When it 
+amounts to gross negligence, a questionable research 
+practice or ‘sloppy science’ is more than a matter of 
+mere error or carelessness but rather something that 
+can undermine the very integrity of research. The 
+assessment framework in 5.2 takes this into account.
+Since 2004, when the first version of the Netherlands 
+Code of Conduct for Academic Practice was published, 
+there has been a great deal of attention devoted, 
+both in the Netherlands and internationally, to the 
+importance of research integrity and to the potential 
+contribution of codes of conduct. Recently, this has 
+been the occasion for minor changes. However, the 
+situation has now evolved to the point where a new text 
+is needed, one that has clearer standards and greater 
+internal coherence, that accords with international 
+developments and that covers applied, fundamental 
+and practice-oriented research alike.1 The decision was 
+therefore made to conduct a full review. 
+Research in the sciences and the humanities will 
+continue to develop in the way it is conducted and 
+organized, as well as in the way it is embedded in 
+society. This, in turn, will lead to evolving views on good 
+research practices. From time to time, the standards 
+for good research practices and the related duties of 
+care must be reviewed and the Code updated. Some 
+areas of research practices are subject to change; for 
+1.  See the Report submitted by the committee reviewing the Code of Conduct for Academic Practice in 2016 to the Association of Universities in 
+the Netherlands (VSNU), the Royal Netherlands Academy of Arts and Sciences (KNAW) and the Netherlands Organisation for Scientific Research 
+(NWO) and the Netherlands Federation of University Medical Centres (NFU): http://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/
+Adviesrapport Commissie Verkenning Herziening Gedragscode Wetenschapsbeoefening 2016.pdf
+7
+Netherlands Code of Conduct for Research Integrity 2018 
+|example, the growing importance of the way data is 
+used and managed and the developments in the area of 
+open science. It is to be expected that these and other 
+advances will require additions and adjustments to the 
+Code in future. 
+This document is a Code of Conduct for researchers 
+and institutions in the Netherlands, but also respects 
+the scope of international framework documents2 
+such as the Singapore Statement on Research Integrity  
+(2010),3 the OECD’s Best Practices for Ensuring Scientific 
+Integrity and Preventing Misconduct  (2007)4 and ALLEA’s 
+recently revised European Code of Conduct for Research 
+Integrity (2017).5 On certain points, the Code presented 
+here offers more specifics and details than the ALLEA 
+code. 
+Chapter 1 of this Code addresses its scope: to what 
+activities does it apply and who is bound by it? Then, in 
+line with the ALLEA code and comparable documents 
+from many other countries, it covers the following areas:
+–  Chapter 2 defines five principles of integrity that 
+underlie good research practices. 
+–  Chapter 3 distils these principles into 61 standards 
+for good practices in the respective phases of 
+the research process. Good research requires 
+adherence to these standards throughout that 
+process.  
+–  Chapter 4 formulates institutions’ duties of care: 
+they must ensure a working environment that 
+promotes and guarantees good research practices. 
+–  Chapter 5 delineates those cases in which non-
+compliance with the standards in chapter 3 may 
+constitute research misconduct and a sanction 
+can be imposed: only in serious cases. But even 
+in less serious ones it may be necessary for the 
+institution to take corrective, and possibly also 
+preventive, measures.
+The parties primarily responsible for good research are 
+the researchers themselves, their supervisors and the 
+institutions where they work. That said, they also have 
+to deal with the way in which scientific and scholarly 
+research is organized and financed in the Netherlands, within the context of the European Union. Other parties 
+within this system – such as the funders of research 
+(including the government), publishers, journal editors 
+and societal partners – can either facilitate or hinder 
+good research that meets standards of research 
+integrity. Although, as a rule, these parties will not 
+commit to this Code, and in some cases have their own 
+codes or regulations,6 they should nevertheless – at the 
+very least – be guided by the principles of this Code. 
+2.  An even broader framework is provided by the recently revised UNESCO Recommendation on Science and Scientific Researchers, available at: 
+http://portal.unesco.org/en/ev.php-URL_ID=49455&URL_DO=DO_TOPIC&URL_SECTION=201.html
+3.  Available at: http://wcrif.org/guidance/singapore-statement .
+4.  Available at: https://www.oecd.org/sti/sci-tech/40188303.pdf  
+5.  Available at: http://www.allea.org/wp-content/uploads/2017/05/ALLEA-European-Code-of-Conduct-for-Research-Integrity-2017.pdf  
+6.  Many journals and publishers have committed to the guidelines of the Committee on Publication Ethics (COPE), available at: https://
+publicationethics.org/resources/guidelines . 
+8
+| Netherlands Code of Conduct for Research Integrity 201811.  Scope and 
+transitional 
+provisions
+9
+Netherlands Code of Conduct for Research Integrity 2018 
+|1.  Scope and  
+transitional provisions
+1.1  To which activities does 
+this Code apply?
+1.  This Code covers scientific and scholarly research 
+in the broadest sense, as conducted at institutions 
+that adopt it. This encompasses both publicly and 
+privately funded research, be that fundamental, 
+applied or practice-oriented. 
+2.  ‘Research’ refers to all activities connected to 
+the practice of research – applying for funding, 
+designing and conducting research, engaging in 
+assessment and peer review, serving as an expert 
+and documenting, reporting and publicizing 
+research. 
+3.  The principles and standards of this Code also 
+apply to popular scientific publications, teaching 
+materials and advice provided by researchers, 
+insofar as this can reasonably be required. 
+4.  There are other forms of integrity besides research 
+integrity. The researcher must treat subordinates, 
+students and colleagues with respect, for 
+example, and must refrain from committing 
+fraud with expense statements. Insofar as these 
+forms of integrity are not directly related to the 
+research practice, they fall outside the scope of 
+this Code.7 The boundary is not always clearly 
+defined, however, so this Code also includes some 
+‘borderline’ cases.8
+1.2  Which institutions are 
+bound by this Code? 
+5.  This Code is binding by virtue of self-regulation, 
+and hence binding on those institutions that 
+adopt it. 
+6.  This Code has been adopted by the Royal 
+Netherlands Academy of Arts and Sciences (KNAW), 
+the Netherlands Federation of University Medical Centres (NFU), the Netherlands Organisation 
+for Scientific Research (NWO), Associated 
+Applied Research Institutes (TO2 federation), the 
+Netherlands Association of Universities of Applied 
+Sciences and the Association of Universities in the 
+Netherlands (VSNU). These organizations ensure 
+that the institutes, university medical centres, 
+universities of applied sciences and research 
+universities they represent or oversee also adopt 
+this Code.  
+7.  Other institutions, including private enterprises, 
+can also adopt this Code. 
+8.  Joint research with other institutions (including 
+private ones) that have not adopted this or a 
+comparable Code should only take place if there 
+is sufficient confidence that your own part of the 
+research can be conducted in compliance with this 
+Code and the joint research results meet generally 
+accepted principles of integrity in research.  
+1.3  To whom does this Code apply? 
+9.  Within the institutions that have adopted this 
+Code, chapters 2 and 3 apply first and foremost to: 
+ •  individual researchers, including PhD 
+students (whether or not they are employed 
+as such by their university) and visiting 
+researchers, part-time researchers or 
+external professionals insofar as they 
+participate in research by or at the 
+institution or disclose their research in its 
+name; 
+ •  supervisors, principal investigators, research 
+directors and managers insofar as they 
+help determine the design and conduct of 
+research. 
+7.  But they do possibly fall under other integrity codes and/or under statutory regulations. 
+8.  For example, and in line with the ALLEA code, standard 61 in chapter 3 and duty of care 5 in chapter 4.
+10
+| Netherlands Code of Conduct for Research Integrity 201810.  Chapters 2 and 3 also apply to work of other 
+parties involved in research, such as support 
+staff, students or participating citizens, although 
+only the researchers, principal investigators or 
+research directors on whose instructions or under 
+whose responsibility they work are personally 
+accountable for non-compliance with the 
+standards in this Code. 
+11.  Within an educational setting, this Code is 
+meaningful as an object of study and in training 
+courses. Scientific and scholarly research by 
+students therefore falls within its normative 
+framework (chapters 2 and 3). As long as that 
+research is conducted only in an educational 
+context and does not result in publications other 
+than a published thesis, however, non-compliance 
+with the standards of this Code cannot result in 
+a complaints procedure as described in section 
+5.4 or in imposing sanctions as described in 
+section 5.3.9
+12.  Chapter 4 focuses mainly upon the institutions 
+themselves and the officers employed there in 
+a managerial or executive capacity. One of the 
+duties of those institutions and officers is ensuring 
+that researchers comply with the standards in 
+chapter 3.
+1.4 Relationship with other regulations 
+13.  This Code contains general standards for all 
+disciplines in the sciences and humanities and for 
+the institutions adopting it. These standards may 
+be specified or supplemented in writing for each 
+discipline or institution, but never weakened. 
+14.  In some areas that overlap with or are related to 
+research integrity, statutory regulations and codes 
+of conduct are in effect that set requirements for 
+researchers. See the Appendix for a brief overview 
+of these. Failure to comply with such a regulation 
+or code of conduct will in some cases mean that 
+the researcher has also failed to comply with a 
+standard from chapter 3 of this Code. If that is the 
+case, it could result not only in a sanction under 
+that statutory regulations or code of conduct but 
+also in a measure or sanction as referred to in 
+section 5.3.
+15.  Where application of this Code conflicts with a 
+statutory regulation, the latter prevails. 1.5  Date of entry into force and 
+transitional provisions
+16.  At those institutions adopting it on or before 1 
+September 2018, this Code enters into force on 1 
+October 2018. 
+17.  At institutions adopting it after 1 September 
+2018, this Code enters into force at a time to be 
+determined by the individual institution.
+18.  Chapters 2, 3 and 5 of this Code apply to: 
+ a.  research started after this Code has entered 
+into force; and, 
+ b.  research activities started after this Code 
+has entered into force, as part of previously 
+initiated research.
+19.  The Netherlands Code of Conduct for Academic 
+Practice (2014 revision) is revoked, except in 
+respect of: 
+ a.  research completed before this Code entered 
+into force; and,
+ b.  research activities initiated before this Code 
+entered into force and not yet completed 
+when it did so. 
+20.  An institution may, in a plan of action established 
+prior to this Code taking effect, determine that 
+one or more of its duties of care as set out in 
+chapter 4 will enter into force at a later date. The 
+plan of action shall mention this date, which may 
+differ per duty. 
+9.  Work by students falls under other regulations, such as the Education and Examination Regulations of their degree programme. 
+11
+Netherlands Code of Conduct for Research Integrity 2018 
+|22.  Principles
+12
+| Netherlands Code of Conduct for Research Integrity 20182.  Principles 
+Principles are the basis of integrity in research. They 
+should guide individual researchers as well as other 
+parties involved in research, such as the institutions 
+where it is conducted, publishers, scientific editors, 
+funding bodies and scientific and scholarly societies – 
+all of which, given their role and interest in responsible 
+research practices, may be expected to foster integrity. 
+This Code is based on the following five, widely 
+supported principles.10 In each case an explanation, 
+with examples, is provided in italics detailing their 
+impact on the practice of research. As such, these 
+explanations link the principles with the standards 
+presented in chapter 3.
+1. Honesty 
+Honesty means, among other things, reporting 
+the research process accurately, taking alternative 
+opinions and counterarguments seriously, being open 
+about margins of uncertainty, refraining from making 
+unfounded claims, refraining from fabricating or 
+falsifying data or sources and refraining from presenting 
+results more favourably or unfavourably than they 
+actually are. 
+2. Scrupulousness 
+Scrupulousness means, among other things, using 
+methods that are scientific or scholarly and exercising 
+the best possible care in designing, undertaking, 
+reporting and disseminating research. 
+3. Transparency 
+Transparency means, among other things, ensuring that 
+it is clear to others what data the research was based 
+on, how the data were obtained, what and how results 
+were achieved and what role was played by external stakeholders. If parts of the research or data are not 
+to be made public, the researcher must provide a good 
+account of why this is not possible. It must be evident, 
+at least to peers, how the research was conducted and 
+what the various phases of the research process were. At 
+the very least, this means that the line of reasoning must 
+be clear and that the steps in the research process must 
+be verifiable. 
+4. Independence 
+Independence means, among other things, not allowing 
+the choice of method, the assessment of data, the 
+weight attributed to alternative statements or the 
+assessment of others’ research or research proposals 
+to be guided by non-scientific or non-scholarly 
+considerations (e.g., those of a commercial or political 
+nature). In this sense, independence also includes 
+impartiality. Independence is required at all times in the 
+design, conduct and reporting of research, although not 
+necessarily in the choice of research topic and research 
+question. 
+5. Responsibility 
+Responsibility means, among other things, 
+acknowledging the fact that a researcher does not 
+operate in isolation and hence taking into consideration 
+– within reasonable limits – the legitimate interests 
+of human and animal test subjects, as well as those 
+of commissioning parties, funding bodies and the 
+environment. Responsibility also means conducting 
+research that is scientifically and/or societally relevant. 
+Principles can be regarded as ‘virtues’ of a good 
+researcher, guiding them towards the right choices in 
+all kinds of circumstances. The most important of these 
+are specified in chapter 3, in the form of standards. By 
+their very nature, however, principles are less subject 
+to change than the standards they give rise to, which 2.  Principles
+10.  For a justification of the choice for these particular five principles, in part against the background of common international practice, see 
+the report submitted by the committee reviewing the Code of Conduct for Academic Practice in 2016 to the Association of Universities in 
+the Netherlands (VSNU), the Royal Netherlands Academy of Arts and Sciences (KNAW) the Netherlands Organisation for Scientific Research 
+(NWO) and the Netherlands Federation of University Medical Centres (NFU): http://www.vsnu.nl/files/documenten/Domeinen/Onderzoek/
+Adviesrapport Commissie Verkenning Herziening Gedragscode Wetenschapsbeoefening 2016.pdf
+13
+Netherlands Code of Conduct for Research Integrity 2018 
+|sometimes need to be adapted or extended as research 
+practices change. All such revisions must remain true to 
+the principles underlying them.
+Principles are also guiding factors in cases not covered 
+by the standards described in chapter 3. In such cases, 
+even if an action is in conflict with a principle, as long as 
+it violates none of the standards itemized in chapter 3 
+nor any additional standard established by a discipline 
+or institution, then sanctions as mentioned in chapter 5 
+will not be imposed. 
+Principles may sometimes clash. On occasion, for 
+example, responsibility towards a commissioning party 
+or the need to safeguard public security restricts the 
+extent to which a researcher can be transparent. In such 
+cases, it will be necessary to determine which principles 
+should be given priority. Where possible and necessary, 
+these considerations have already been taken into 
+account in drafting the standards listed in chapter 3.
+ 
+14
+| Netherlands Code of Conduct for Research Integrity 201833.  Standards 
+for good 
+research 
+practices  
+15
+Netherlands Code of Conduct for Research Integrity 2018 
+|3.   Standards for good 
+research practices  
+3.1 Introduction 
+In this chapter, the principles described above are 
+further elaborated into more specific standards for good 
+research practices. These set out what researchers must 
+take into consideration in their work, individually and as 
+a team. They are for the most part presented separately 
+for each individual phase of the research process: 
+design, conduct, reporting, assessment and peer review 
+and communication. The chapter concludes, in 3.7, with 
+a number of standards applicable to all phases. In their 
+elaboration and application, the differences between 
+fundamental, applied and practice-oriented research 
+may be relevant.
+The standards included in this chapter are general  ones. 
+They may be specified or supplemented in writing, 
+depending upon the discipline or institution, but not 
+weakened. 
+3.2 Design 
+1.  Consider the interests of science and scholarship 
+and/or society when determining the subject and 
+structure of your research. 
+2.  Conduct research that can be of scientific, 
+scholarly and/or societal relevance. 
+3.  Do not make unsubstantiated claims about 
+potential results. 
+4.  Take into account the latest scientific and 
+scholarly insights. 
+5.  Make sure that your research design can answer 
+the research question. 
+6.  Ensure that the methods you employ are well 
+justified. 
+7.  If the research is conducted on commission and/
+or funded by third parties, always specify who the 
+commissioning party and/or funding body is. 
+8.  Be open about the role of external stakeholders 
+and possible conflicts of interest.11 9.  In research with external partners, make clear 
+written agreements about research integrity and 
+related matters such as intellectual property 
+rights.
+10.  As necessary, describe how the collected research 
+data are organized and classified so that they can 
+be verified and reused.
+11.  As far as possible, make research findings and 
+research data public subsequent to completion of 
+the research. If this is not possible, establish valid 
+reasons12 for their non-disclosure
+12. a.  In the event of an investigation into alleged 
+research misconduct, make all relevant 
+research and data available for verification 
+subject to the confidentiality safeguards 
+established by the board of the institution. 
+ b.  In highly exceptional cases, there may 
+be compelling reasons for components 
+of the research, including data, not to be 
+disclosed to an investigation into alleged 
+research misconduct. Such cases must be 
+recorded and the consent of the board of the 
+institution must be obtained prior to using 
+the components and/or data in question 
+in the scientific or scholarly research. They 
+must also be mentioned in any results 
+published.
+13.  Ensure that the required permissions are obtained 
+and that, where necessary, an ethical review is 
+conducted.
+14.  Accept only research assignments that can be 
+undertaken in accordance with the standards in 
+this Code. 
+15.  Enter into joint research with a partner not 
+affiliated with an institution which has adopted 
+this or a comparable Code only if there is sufficient 
+confidence that your own part of the research can 
+be conducted in compliance with this Code and 
+the joint research results meet generally accepted 
+principles of integrity in research. 
+11.  By, for instance, adopting a Declaration of Scientific Independence as recommended in the KNAW report Wetenschap op bestelling  (“Science to 
+Order”, 2005), p. 46. 
+12.  Valid reasons, including confidentiality, can be found in: Council of the European Union, Outcome of Proceedings: The transition towards an 
+Open Science system, paragraph 14 (Brussels, 27/05/2016, 9526/16, via: data.consilium.europa.eu/doc/document/ST-9526-2016-INIT/en/pdf ).
+16
+| Netherlands Code of Conduct for Research Integrity 20183.3 Conduct 
+16.  Conduct your research accurately and with 
+precision.
+17.  Employ research methods that are scientific and/
+or scholarly. 
+18.  Make sure that the choice of research methods, 
+data analysis, assessment of results and 
+consideration of possible explanations is not 
+determined by non-scientific or non-scholarly (e.g. 
+commercial or political) interests, arguments or 
+preferences. 
+19.  Do not fabricate data or research results and do 
+not report fabricated material as if it were fact. 
+20.  Do justice to all research results obtained. 
+21.  Do not remove or change results without explicit 
+and proper justification. Do not add fabricated 
+data during the data analysis. 
+22.  Ensure that sources are verifiable. 
+23.  Describe the data collected for and/or used in 
+your research honestly, scrupulously and as 
+transparently as possible. 
+24.  Manage the collected data carefully and store 
+both the raw and processed versions for a period 
+appropriate for the discipline and methodology at 
+issue. 
+25.  Contribute, where appropriate, towards making 
+data findable, accessible, interoperable and 
+reusable in accordance with the FAIR principles.13 
+26.  Take into consideration the interests of any 
+humans and animals involved, including test 
+subjects, as well as any risks to the researchers 
+and the environment, while always observing 
+the relevant statutory regulations and codes of 
+conduct.14 
+27.  Keep your own level of expertise up to date. 
+28.  Take on only those tasks that fall within your area 
+of expertise. 3.4 Reporting results 
+29.  Do justice to everyone who contributed to the 
+research and to obtaining and/or processing the 
+data. 
+30.  Ensure a fair allocation and ordering of authorship, 
+in line with the standards applicable within the 
+discipline(s) concerned. 
+31.  All authors must have made a genuine 
+intellectual contribution to at least one of the 
+following elements: the design of the research, 
+the acquisition of data, its analysis or the 
+interpretation of findings.
+32.  All authors must have approved the final version of 
+the research product.
+33.  All authors are fully responsible for the content of 
+the research product, unless otherwise stated.
+34.  Present sources, data and arguments in a 
+scrupulous way.
+35.  Be transparent about the method and working 
+procedure followed and record them where 
+relevant in research protocols, logs, lab journals 
+or reports. The line of reasoning must be clear 
+and the steps in the research process must be 
+verifiable. This usually means that the research 
+must be described in sufficient detail for it to be 
+possible to replicate the data collection and its 
+analysis.
+36.  Be explicit about any relevant unreported data 
+that has been collected in accordance with the 
+research design and could support conclusions 
+different from those reported. 
+37.  Be clear about results and conclusions, as well as 
+their scope. 
+38.  Be explicit about uncertainties and 
+contraindications, and do not draw 
+unsubstantiated conclusions. 
+39.  Be explicit about serious alternative insights that 
+could be relevant to the interpretation of the data 
+and the research results. 
+40.  When making use of other people’s ideas, 
+procedures, results and text, do justice to the 
+research involved and cite the source accurately. 
+41.  Avoid unnecessary reuse of previously published 
+texts of which you were the author or co-author. 
+ a.  Be transparent about reuse by citing the 
+original publication. 
+ b.  Such self-citation is not necessary for reuse 
+on a small scale or of introductory passages 
+and descriptions of the method applied.15 
+13.  See the GoFair website: https://www.go-fair.org/fair-principles/  
+14. See the Appendix for an overview of the most relevant statutory regulations in this context.
+15.  See KNAW, Correct Citeren  (“Correct citation practice”, 2014): https://www.knaw.nl/en/news/publications/correct-citation-practice .
+17
+Netherlands Code of Conduct for Research Integrity 2018 
+|42.  Always provide references when reusing research 
+material that can be used for meta-analysis or the 
+analysis of pooled data. 
+43.  Avoid unnecessary references and do not make the 
+bibliography unnecessarily long. 
+44.  Be open and complete about the role of external 
+stakeholders, commissioning parties, funding 
+bodies, possible conflicts of interest and relevant 
+ancillary activities. 
+45.  As far as possible, make research findings and 
+research data public subsequent to completion of 
+the research. If this is not possible, establish the 
+valid reasons16  for this.
+3.5 Assessment and peer review 
+46.  Be honest and scrupulous as an assessor or peer 
+reviewer, and explain your assessment.
+47.  Do not use information acquired in the context of 
+an assessment without explicit consent.
+48.  Do not use the system of peer review to generate 
+additional citations for no apparent reason, with 
+the aim of increasing your own or other people’s 
+citation scores (‘citation pushing’).
+49.  Refrain from making an assessment if any doubts 
+could arise regarding your independence (for 
+example, because of possible commercial or 
+financial interests). 
+50.  Refrain from making an assessment outside your 
+area of expertise, or do so only in general terms.
+51.  Be generous in cooperating with internal and 
+external reviews of your own research. 
+52.  Do not establish a journal that does not apply the 
+required standards of quality to its publications, 
+and do not cooperate with any such journal.
+3.6 Communication 
+53.  Be honest in public communication and clear 
+about the limitations of the research and your own 
+expertise. Only communicate to the general public 
+about the research results if there is sufficient 
+certainty about them. 
+54.  Be open and honest about your role in the public 
+debate and about the nature and status of your 
+participation in it. 
+55.  Be open and honest about potential conflicts of 
+interest. 3.7  Standards that are applicable 
+to all phases of research
+56.  As a supervisor, principal investigator, research 
+director or manager, provide for an open and 
+inclusive culture in all phases of research.
+57.  As a supervisor, principal investigator, research 
+director or manager, refrain from any action which 
+might encourage a researcher to disregard any of 
+the standards in this chapter.
+58.  Do not delay or hinder the work of other 
+researchers in an inappropriate manner.
+59.  Call attention to other researchers’ non-
+compliance with the standards as well as 
+inadequate institutional responses to non-
+compliance, if there is sufficient reason for doing 
+so.
+60.  In addressing research misconduct, make no 
+accusation that you know or should have known to 
+be incorrect.
+61.  Do not make improper use of research funds.
+ 
+16.  Valid reasons, including confidentiality, can be found in: Council of the European Union, Outcome of Proceedings: The transition towards an 
+Open Science system, paragraph 14 (Brussels, 27/05/2016, 9526/16, via: data.consilium.europa.eu/doc/document/ST-9526-2016-INIT/en/pdf ).
+18
+| Netherlands Code of Conduct for Research Integrity 201844.  Institutions’ 
+duties of 
+care
+19
+Netherlands Code of Conduct for Research Integrity 2018 
+|4.   Institutions’  
+duties of care 
+4.1 Introduction 
+Institutions provide a working environment that 
+promotes and safeguards good research practices. They 
+ensure that researchers can work in a safe, inclusive 
+and open environment where they feel responsible 
+and accountable, can share concerns about dilemmas 
+and can discuss errors made without fearing the 
+consequences (‘blame-free reporting’). 
+These obligations on the part of institutions are duties 
+of care. Institutions must fulfil these duties so that 
+researchers can and, in fact, do observe the standards 
+for good research practices. Many of these duties 
+of care apply to distinct levels within an institution, 
+engendering further obligations for personnel working 
+at various levels, particularly supervisors, principal 
+investigators, research directors, managers and 
+executive board members. 
+The regulated right to raise complaints described in 
+chapter 5 does not apply to the institutional duties 
+of care. Naturally, internal regulatory organs such as 
+the Supervisory Board or representative bodies may 
+concern themselves with ensuring compliance.
+4.2 Training and supervision 
+1.  Raise awareness about research integrity within 
+the organization and, where necessary, provide or 
+facilitate training courses for researchers, support 
+staff, research leaders and research managers. 
+2.  Embed a focus on research integrity firmly 
+in educational activities of higher education 
+institutions. 
+3.  Provide a working environment in which 
+responsible research practices are facilitated. 
+4.  Ensure that new researchers and PhD students are 
+supervised by suitably qualified persons.
+5.  Ensure transparent and fair procedures for 
+appointments, promotions and remuneration.4.3 Research culture
+6.  Ensure compliance with all relevant statutory 
+regulations, codes of conduct, instructions and 
+protocols.  
+7.  Encourage a research culture in which the 
+standards in chapter 3 are embedded and take 
+measures if there are signs that they are not being 
+complied with or there is a risk that this will occur.
+8.  Provide clear instructions, protocols and other 
+means to support researchers and to help them 
+understand what constitutes good research 
+practice within their discipline(s) and institution.
+9.  Take appropriate measures to prevent non-
+compliance with the standards. For example, 
+monitor the quality and intensity of the 
+supervision of starting researchers such as 
+PhD students as well as the composition of PhD 
+committees. 
+10.  Provide an open, safe and inclusive research 
+culture in which researchers:
+ a.  discuss the standards for good research 
+practices, 
+ b.  hold each other accountable for compliance 
+with the standards, and
+ c.  are prepared to report any reasonable 
+suspicion of non-compliance to the 
+committee or officer referred to in 21 below 
+or a confidential counsellor as referred to in 
+20 below. 
+4.4 Data management 
+11.  Provide a research infrastructure in which good 
+data management is the rule and is facilitated.
+12.  Ensure that, as far as possible, data, software 
+codes, protocols, research material and 
+corresponding metadata can be stored 
+permanently. 
+13.  Ensure that all data, software codes and research 
+materials, published or unpublished, are managed 
+and securely stored for the period appropriate to 
+the discipline(s) and methodology concerned. 
+20
+| Netherlands Code of Conduct for Research Integrity 201814.  Ensure that, in accordance with the FAIR 
+principles17, data is open and accessible to the 
+extent possible and remains confidential to the 
+extent necessary. 
+15.  Ensure that it is clear how data, software codes 
+and research material can be accessed. 
+4.5 Publication and dissemination 
+16.  Ensure that contracts with commissioning parties 
+and funding bodies include fair agreements about 
+access to and the publication of data and research 
+material. 
+17.  Ensure that the public communication of research 
+results is performed scrupulously.
+4.6 Ethical norms and procedures 
+18.  Undertake ethical reviews where necessary; 
+for example, by setting up one or more ethical 
+committees and providing them with adequate 
+support. These committees can provide 
+researchers with binding or non-binding advice on 
+issues such as the use and treatment of patients, 
+human and animal test subjects, the possible 
+risks of publishing data, the use of human tissue, 
+risks to the environment or cultural heritage and 
+potential conflicts of interest. 
+19.  On the institution’s website, publish information 
+about its policy with regard to the registration and 
+disclosure of relevant ancillary activities, positions 
+and interests, including the measures in place to 
+implement that policy. 
+20.  Appoint and support easily accessible confidential 
+counsellors for research integrity. 
+21.  Appoint a committee or officer to consider 
+complaints as referred to in section 5.4
+ 
+17. See the GoFair website: https://www.go-fair.org/fair-principles/ .
+21
+Netherlands Code of Conduct for Research Integrity 2018 
+|55.  Non-compliance 
+with standards: 
+measures and 
+sanctions 
+22
+| Netherlands Code of Conduct for Research Integrity 20185.  Non-compliance with 
+standards: measures  
+and sanctions 
+5.1 Introduction  
+In this chapter, ‘standard’ refers to the standards for 
+good research practices listed in chapter 3, including 
+the additional standards for a discipline or institution 
+referred to in section 3.1. ‘Assessment criteria’ refers to 
+the factors described in section 5.2C.
+Researchers, supervisors, principal investigators, 
+research directors, managers and the executive board 
+members of the institution must always strive to 
+ensure that the standards are fulfilled scrupulously. 
+Non-compliance with them undermines professional 
+responsibility, which harms the research process and 
+the relationship between individual researchers, and 
+possibly also trust in and the credibility of the research. 
+Section 5.2 provides guidelines for institutional boards 
+and for the committees and officers referred to in 
+section 5.4, under 1, in judging the severity of specific 
+cases of non-compliance with standards, including the 
+assessment criteria to be applied. Section 5.3 deals with 
+measures and sanctions to be imposed, if necessary, and 
+section 5.4 addresses the submission and consideration 
+of complaints about alleged instances of research 
+misconduct.
+5.2  Research misconduct, 
+questionable research practices 
+and minor shortcomings
+A. Research misconduct 
+In serious cases, non-compliance with one or more 
+standards constitutes ‘research misconduct’ on the part 
+of the researcher involved as well as, where applicable, 
+the supervisor, principal investigator, research director 
+or manager who incited that non-compliance.1.  The clearest examples of research misconduct are 
+fabrication, falsification and plagiarism. 
+ •  Fabrication means the invention of data or 
+research results and reporting them as if 
+they are fact (chapter 3, standard 19). 
+ •  Falsification means the manipulation of 
+data or research material, equipment or 
+processes to change, withhold or remove 
+data or research results without justification 
+(standard 21). 
+ •  Plagiarism means the use of another person’s 
+ideas, work methods, results or texts without 
+appropriate acknowledgement (standards 
+34, 40). In some cases, however, plagiarism is 
+of such limited extent and significance that 
+its labelling as ‘research misconduct’ would 
+be excessive.
+2.  In the event that the following standards are not 
+met, the determination of whether the case in 
+question constitutes ‘research misconduct’ or a 
+less serious violation will depend on the outcome 
+of an assessment using the criteria as mentioned 
+in section 5.2C:
+ •  Design: standards 7, 8 and 14. 
+ •  Conduct: standards 18, 22 and 23.
+ •  Reporting: standards 30, 36, 38, 42, 44 and 45.
+ •  Assessment and peer review: standards 47 
+and 49.
+ •  Communication: standards 53 and 55.
+ •  General standards: standards 57, 58 and 60.
+3.  Only in exceptional cases is non-compliance with 
+any of the other standards to be characterized, in 
+the light of the assessment criteria, as ‘research 
+misconduct’.5.  Non-compliance 
+with standards: 
+measures and 
+sanctions 
+23
+Netherlands Code of Conduct for Research Integrity 2018 
+|B. Questionable research practices 
+and minor shortcomings 
+In cases where non-compliance with the standards does 
+not constitute ‘research misconduct’, it may instead be 
+categorized as ‘questionable research practice’ or, in the 
+least serious situations, as a ‘minor shortcoming’. Which 
+of these descriptions is appropriate in any specific 
+case depends upon the outcome of the assessment 
+using the criteria in section 5.2C. In the event of a 
+‘minor shortcoming’, in general there will be no reason 
+to impose measures or sanctions as referred to in 
+section 5.3.
+C. Assessment criteria
+When the executive board of the institution and the 
+committee or officer referred to in section 5.4, under 
+1 are considering the case, the following criteria are 
+particularly important: 
+a.  the extent of the non-compliance; 
+b.  the level to which non-compliance was intentional 
+and whether it was a form of gross negligence or 
+was the result of carelessness or ignorance; 
+c.  the possible consequences for the validity of 
+the research in question and for the prevailing 
+scientific knowledge and scholarship; 
+d.  the potential effects on the trust in scientific and 
+scholarly research and between researchers; 
+e.  the potential impact on individuals, society and 
+the environment; 
+f.  the potential benefits for the researcher or other 
+interested parties; 
+g.  whether the matter concerns a scientific or 
+scholarly publication, as opposed to a popularizing 
+article, teaching materials or an advisory report;
+h.  opinions within the discipline(s) concerning the 
+severity of the non-compliance; 
+i.  the researcher’s position and experience; 
+j.  the extent of any prior violations committed by 
+the researcher; 
+k.  whether the institution itself has failed in its 
+duties of care; 
+l.  how much time elapsed before action was taken 
+against the non-compliance within or outside the 
+institution.
+ 
+5.3 Sanctions and other measures  
+If the executive board of the institution suspects non-
+compliance with one or more standards, it ensures 
+that the case is examined honestly and fairly. If such 
+non-compliance is indeed established after proper 
+investigation, it may be deemed appropriate to impose 
+sanctions or other measures. The nature and extent of these will depend, among other things, upon whether 
+the non-compliance is found to constitute ‘research 
+misconduct’, a ‘questionable research practice’ or a 
+‘minor shortcoming’. If the suspicion of non-compliance 
+proves unfounded, appropriate remedial measures are 
+taken.
+Sanctions 
+Whenever ‘research misconduct’ is established, the 
+board of the institution must consider whether it is 
+possible and desirable to impose sanctions. Naturally, 
+any sanction must always be appropriate and 
+proportionate. In serious cases, the institution has the 
+powers to impose penalties within its legal powers, such 
+as a formal reprimand, transfer, demotion or dismissal. 
+A person’s authorization to supervise degrees may 
+also be suspended. Furthermore, the institution may 
+deem it necessary to report the matter to the relevant 
+regulatory bodies or to authorities empowered to 
+impose other administrative, disciplinary or criminal 
+sanctions.
+Other measures 
+Regardless of whether a sanction ought to be imposed, 
+it is always important to consider whether other 
+appropriate measures are necessary. This is especially 
+so in the event of repeated non-compliance or more-
+than-occasional breaches of the standards.
+Even when there is no reason to impose sanctions, 
+failure to comply with the standards cannot remain 
+undiscussed. Researchers must always hold each 
+other, their subordinates, their supervisors, principal 
+investigators, research directors and managers 
+accountable, to ensure that quality assurance is 
+improved, that recurrence is prevented and that adverse 
+effects are remedied or mitigated (e.g. by rectifying 
+or retracting publications). The institution’s board 
+should take measures itself or ensure that others do so. 
+In this respect, it may make a difference whether the 
+matter is a case of research misconduct, a questionable 
+research practice or a minor shortcoming. It may also 
+prove necessary for the institution to take preventive 
+individual or general measures to ensure that research 
+practices are improved, compliance with all standards 
+is maintained and timely detection will take place (see 
+also the duties of care described in chapter 4).
+24
+| Netherlands Code of Conduct for Research Integrity 20185.4 Complaints and investigations 
+If research misconduct is suspected, a complaint can be 
+submitted to a relevant committee or officer appointed 
+by the institution. The institution ensures that a 
+scrupulous and fair procedure is in place to deal with 
+any such complaint, including any judgement resulting 
+from it. This procedure is also followed if the executive 
+board of the institution itself considers it necessary to 
+investigate possible research misconduct, even without 
+receiving a complaint.
+The following basic principles apply to the consideration 
+and investigation of complaints.
+1.  Following a complaint or a request by the 
+institution’s board, the matter is investigated by 
+the committee or officer appointed to that end. 
+2.  In this section, ‘the respondent’ means the person 
+whose conduct is under investigation. This may 
+also be a person who no longer works at or for the 
+institution.
+3.  A complaint may only be submitted about a 
+suspected case of research misconduct (see 
+section 5.2A). 
+4.  The complaint or request must adequately 
+substantiate why the complainant or petitioner 
+believes that research misconduct has been 
+committed. 
+5.  Complaints related to methodological discussions 
+and standard academic debates are inadmissible.
+6.  An anonymous complaint of alleged research 
+misconduct will be considered only if the executive 
+board of the institution sees good reason to do so 
+because it believes that:
+ a.  compelling public or institutional interests 
+are at stake, or interests of the respondent 
+so require; and,
+ b.  the factual basis for the complaint can 
+be investigated without input from the 
+complainant.
+7.  The investigating committee or officer can refrain 
+from initiating or continuing an investigation as 
+soon as it becomes clear that the complaint or 
+request: 
+ a.  concerns a purely professional difference of 
+opinion; 
+ b.  is attributable solely to a labour dispute; or, 
+ c.  cannot result in a judgement that the 
+respondent’s actions constitute research 
+misconduct. 
+8.  The complainant and the respondent may consult 
+a confidential counsellor.9.  The investigatory procedure regarding the 
+research, as well as any second opinion: 
+ •  shall provide for fair treatment, including 
+hearing both sides and making all 
+relevant information available to both the 
+complainant and the respondent; 
+ •  shall be confidential;
+ •  shall be organized in such a way that neither 
+the complainant nor the respondent is 
+unnecessarily disadvantaged; 
+ •  shall be completed within a reasonable 
+period of time; 
+ •  shall be conducted by experts with no 
+personal interest in the case; or 
+ •  shall be set down by the institution in a clear, 
+easily accessible regulation.
+10.  a.   The procedure described in point 9 shall, if 
+relevant to the institution, include provisions 
+as to when, and under what conditions, 
+the undisclosed components of scientific 
+research or data shall be made available 
+for verification as part of the investigation. 
+Such provisions shall at least state which 
+persons or officers are authorised to carry 
+out verification checks, how they should be 
+carried out and how the findings are to be 
+reported. 
+ b.  Pursuant to section 3.2, point 12b, the 
+procedure may include provisions stating 
+that, in highly exceptional cases, there may 
+be compelling reasons for components 
+of the research, including data, not to be 
+disclosed to an investigation into alleged 
+research misconduct. Such cases must be 
+recorded and the consent of the board of the 
+institution must be obtained prior to using 
+the components and/or data in question 
+in the scientific research. They must also 
+be mentioned in any results that are made 
+public.
+11.  The investigating committee or officer may 
+decide, by way of derogation from point 9, first 
+bullet, to withhold certain information from the 
+complainant and/or the respondent if there are 
+compelling reasons to do so.
+12.  The respondent is presumed innocent until proven 
+otherwise. 
+13.  The investigating committee or official judges 
+whether research misconduct has taken place. 
+14.  After the committee or official has issued its 
+judgement, the executive board of the institution 
+gives its initial judgement on the matter and 
+notifies the complainant and the respondent 
+thereof, in writing and without delay.
+25
+Netherlands Code of Conduct for Research Integrity 2018 
+|15.  The complainant and the respondent may request 
+a second opinion within six weeks, for instance 
+from the Netherlands Board on Research Integrity 
+(LOWI).
+16.  If a second opinion is not requested within six 
+weeks, the executive board of the institution 
+settles on its final judgement. If a second opinion 
+has been requested, the board takes that into 
+consideration in its final judgement.
+17.  At the same time as issuing its final judgement, the 
+executive board of the institution determines any 
+sanctions or measures as referred to in section 5.3.
+18.  At least in all cases where research misconduct is 
+established, the executive board of the institution 
+ensures that the findings of the investigation and 
+its final judgement are made public in anonymized 
+form. 
+19.  The board of the institution ensures that the 
+rights of both the complainant and the respondent 
+are protected, and that neither is unnecessarily 
+disadvantaged in their career prospects or 
+otherwise. 
+20.  The board of the institution is not obliged to 
+arrange legal assistance but may decide to do so. 
+ 
+26
+| Netherlands Code of Conduct for Research Integrity 2018Appendix  
+  
+27
+Netherlands Code of Conduct for Research Integrity 2018 
+|Appendix
+Examples of statutory regulations and codes of conduct that overlap with 
+or are related to the standards for responsible research practices
+1.  General Data Protection Regulation (GDPR)  
+(https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679 )
+2.  Public Records Act (Archiefwet)  
+(http://wetten.overheid.nl/BWBR0007376/2015-07-18 ) 
+3.  Genetically Modified Organisms Decree (Besluit genetisch gemodificeerde organismen)  
+(http://wetten.overheid.nl/BWBR0035090 ) 
+4.  Radiation Protection Decree (Besluit stralingsbescherming)  
+(http://wetten.overheid.nl/BWBR0012702 ) 
+5.  Code of Ethics for research in the Social and Behavioural Sciences involving human subjects  
+(http://www.nethics.nl/Gedragscode-Ethical-Code/ )
+6.  Research Databases Act (Onderzoeksgegevensbankenwet)  
+(http://wetten.overheid.nl/BWBR0010591/2017-09-01 )
+7. Embryos Act (Embryowet)  
+ ( http://wetten.overheid.nl/BWBR0013797 ) 
+8. Code of Conduct for health research 
+ ( https://www.federa.org/codes-conduct ) 
+9. Human tissue and Medical Research: Code of Conduct for Responsible Use 
+ ( https://www.federa.org/codes-conduct ) 
+10. Genetically Modified Organisms Regulations 
+ ( http://wetten.overheid.nl/BWBR0035072 ) 
+11. Standard for the protection of animals used for scientific purposes 
+ ( https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX%3A32010L0063 ) 
+12. Association of Universities in the Netherlands (VSNU) Sectorial regulation regarding ancillary activities 
+  ( http://www.vsnu.nl/files/VSNU%202017/Sector%20regeling%20nevenwerkzaamheden%202017.pdf ) 
+13.  General Data Protection Regulation (Implementation) Act (Uitvoeringswet  
+Algemene verordening gegevensbescherming)
+ ( http://wetten.overheid.nl/BWBR0040940/2018-05-25 )
+14.  UNESCO Recommendation on Science and Scientific Researchers  
+(http://portal.unesco.org/en/ev.php-URL_ID=49455&URL_DO=DO_TOPIC&URL_SECTION=201. html )
+15.  Foetal Tissue Act (Wet foetaal weefsel)  
+(http://wetten.overheid.nl/BWBR0012983 ) 
+28
+| Netherlands Code of Conduct for Research Integrity 201816.  House for Whistleblowers Act (Wet Huis voor de klokkenluiders)  
+(http://wetten.overheid.nl/BWBR0037852/2016-07-01 ) 
+17.  Medical Research (Human Subjects) Act (Wet medisch wetenschappelijk onderzoek met mensen)  
+(http://wetten.overheid.nl/BWBR0009408 ) 
+18.  Environmental Management Act (Wet milieubeheer)  
+(http://wetten.overheid.nl/BWBR0003245 ) 
+19. Experiments on Animals Act (Wet op de dierproeven) 
+ ( http://wetten.overheid.nl/BWBR0003081 ) 
+20. Medical Treatment Contracts Act (Wet op de geneeskundige behandelingsovereenkomst) 
+ ( http://wetten.overheid.nl/BWBR0005290/#Boek7_Titeldeel7_Afdeling5 ) 
+21. Medical Devices Act (Wet op de medische hulpmiddelen) 
+ ( http://wetten.overheid.nl/BWBR0002697 ) 
+22. Population Screening Act (Wet op het bevolkingsonderzoek) 
+ ( http://wetten.overheid.nl/BWBR0005699 ) 
+23.  International, European and national legislation regarding intellectual property, including: 
+ a.  Copyright Act (Auteurswet)  
+(http://wetten.overheid.nl/BWBR0001886/2017-09-01 ) 
+ b.  Patents Act 1995 (Rijksoctrooiwet 1995)  
+(http://wetten.overheid.nl/BWBR0007118/2017-03-0 1) 
+ c.  Neighbouring Rights Act (Wet op de naburige rechten)  
+(http://wetten.overheid.nl/BWBR0005921/2017-09-01 ) 
+ d.  Seeds and Plant Materials Act 2005 ( Zaaizaad- en plantgoedwet 2005 )  
+(http://wetten.overheid.nl/BWBR0018040/2017-09-01 ) 
+24. Legislation and regulations related to public and state security and state secrets, including:
+ a.  General Security Requirements for Ministry of Defence Assignments (ABDO 2006 for ongoing assignments, 
+ABDO 2017 for new assignments) ( Algemene beveiligingseisen voor defensieopdrachten 2006 en 2017 )
+  ( https://www.defensie.nl/downloads/beleidsnota-s/2006/08/13/abdo-2006 )
+  ( https://www.defensie.nl/downloads/beleidsnota-s/2017/06/13/abdo-2017 )
+ b.  Civil Service Information Security (Classified Information) Decree 2013 ( Besluit Voorschrift 
+Informatiebeveiliging Rijksdienst Bijzondere Informatie 2013 ) 
+(http://wetten.overheid.nl/BWBR0033507/2013-06-01 )
+ c.  Judicial Data and Criminal Records Act ( Wet justitiële en strafvorderlijke gegevens ) 
+(http://wetten.overheid.nl/BWBR0014194/2016-01-01 )
+ d.  Police Data Act ( Wet politiegegevens ) 
+(http://wetten.overheid.nl/BWBR0022463/2018-05-01 )
+ e.  Intelligence and Security Services Act 2017 ( Wet op de Inlichtingen- en veiligheidsdiensten 2017 ) 
+(http://wetten.overheid.nl/BWBR0039896/2018-05-01 )
+ f.  Security Screening Act ( Wet veiligheidsonderzoeken ) 
+(http://wetten.overheid.nl/BWBR0008277/2015-09-01 )
+29
+Netherlands Code of Conduct for Research Integrity 2018 
+|Colophon
+Committee for the Revision of the Netherlands Code of Conduct for 
+Research Integrity :
+Drafting committee 
+Prof. Keimpe Algra (Chair) 
+Prof. Lex Bouter 
+Prof. Antoine Hol 
+Dr Jan van Kreveld 
+Additional members 
+Dr Daan Andriessen 
+Prof. Catrien Bijleveld 
+Prof. Roberta D’Alessandro 
+Prof. Jenny Dankelman 
+Prof. Peter Werkhoven
+Adviser to the committee
+Erik van de Linde MSc (KNAW)
+Secretary of the committee
+Kim Huijpen MSc together with Danny Groenenberg LLM MSc and 
+colleagues (VSNU)
+Translation
+Taalcentrum-VU, dr Joel Anderson and drafting committee 
+Lay-out
+Bas van der Horst (BUREAUBAS)
+30
+| Netherlands Code of Conduct for Research Integrity 2018

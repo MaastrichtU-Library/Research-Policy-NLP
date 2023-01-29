@@ -1,0 +1,447 @@
+Avans University of Applied Sciences Privacy Statement
+Avans Foundation, trading under the name of Avans University of Applied Sciences (hereinafter referred to as ’Avans’) considers your privacy important and handles personal data with care. Avans acts with due care and according to the rules of the General Data Protection Regulation (hereinafter referred to as ‘GDPR’).
+
+Avans receives your personal data through various channels. For example, via our website, contact, services, applications or via a job application. This privacy statement explains exactly what we do with your personal data and why. In addition, we are happy to inform you about what you can expect from us and what privacy rights you have.
+
+This privacy statement applies to all activities (including online activities via the website(s))/applications of Avans and provides the most relevant information per target group.
+
+Avans is responsible for your personal data
+Based on the General Data Protection Regulation (GDPR), Avans is responsible for the processing of your personal data.
+
+Contact details Avans:
+– Hogeschoollaan 1, 4818 CR Breda.
+– E-mail: privacy@avans.nl.
+
+Data Protection Officer (‘DPO’)
+Avans has a Data Protection Officer (‘DPO’) to ensure the processing of personal data is done securely and in accordance with the law. If you have any questions regarding your privacy, you can contact our DPO. Our DPO, Frederik Petersen, works for Lumen Group.
+
+The DPO can be reached by telephone on 030 889 65 75 or by e-mail at fg@lumengroup.nl. The DPO can also be reached via this secure website or via:
+
+Lumen Group B.V.
+Reactorweg 301
+3542 AD UTRECHT
+
+This is how Avans secures your personal data
+Avans takes personal data protection very seriously and we, therefore, take appropriate measures to protect your personal data against misuse, loss, unauthorised access, undesirable disclosure, and unauthorised alteration. This is achieved with technical and organisational measures. Also read our policy on responsible disclosure
+
+Risk management and control
+
+Avans has an internal risk management and control system. Part of this is the risk analysis on privacy protection and information security.
+
+All staff of Avans and staff of involved processors who may have access to your data, are bound by confidentiality. The Avans processing register describes which (categories of) staff have access to specific data of, for example, students or staff.
+
+If you feel that your personal data is not adequately protected or there are indications of misuse, please contact Avans’ DPO immediately.
+
+Use of personal data at Avans
+Avans processes personal data of the following seven categories of data subjects:
+
+students (including prospective students and alumni)
+staff (including external staff1, doctoral candidates, former staff and applicants)
+visitors to Avans’ websites
+visitors to Avans venues (campus, buildings)
+study participants (e.g. interviewees and respondents)
+business associates that are involved in the education and research of Avans (e.g. internship and graduation companies or clients from the professional field)
+business associates that provide services to Avans (for example, suppliers).
+Which personal data Avans processes and for what purposes is set out below for each category. The examples for each category are not exhaustive. That means other examples are also possible.
+
+The tables for each category contain as complete an overview as possible of personal data that is processed, stating the purposes and legal grounds. We realise it is impossible give a complete list. For example, because personal data must also be processed for other or unforeseen purposes in the future. In those cases too, Avans will continue to handle the personal data obtained accurately and with due care. If Avans wants to process personal data for a purpose other than that for which the personal data was collected, data subjects will receive information about that purpose, including associated information, prior to that processing, unless this is not necessary under the GDPR.
+
+If you do not want to provide us with personal data, or do not want us to process this personal data, this can make the execution of the agreement or service impossible, or make it more difficult to use the website.
+
+1 In any case, trainees, agency workers, seconded persons and contractors (whether or not on the basis of a commission contract).
+
+Students (including prospective students and alumni)
+Personal data:
+
+Identification data
+Name, address and contact details
+Visual material
+Financial details
+Education data, such as enrolment and progress data
+Communication from, to and with data subjects
+Data on presence, availability, location, Internet behaviour
+Employment details
+Digital data
+
+Learning Analytics2
+Avans may process special and/or sensitive personal data for Learning Analytics. This applies, for example, to study progress, study-influencing personal and/or social factors, such as perceived study pressure and having a functional impairment. Visit this site for the most current processing purposes in learning analytics projects.
+
+Purposes:
+
+– recruitment & selection of new students
+– support with orientation of choice of study programme, information purposes, Student Assessment Office
+– organising and providing education, including testing and examination
+– providing or making available (digital) learning resources, internal and external information
+– recording results
+– issuing certificates, diplomas and degrees
+– preparation and execution of agreements with students
+– implementation or application of statutory obligations, the organisation or provision of study information, including study advice
+– customer involvement
+– promotional activities, relationship management and marketing
+– support with functional limitations
+– offering of help, advice and personal counselling to students, including facilities, for study problems, as well as for problems of a psychological, social and/or emotional nature
+– (research aimed at) quality improvement in education.
+
+– internal and external information provision
+– sending surveys (also for rankings)
+– organising events
+– invitations for advice
+– volunteering or mentoring
+– fundraising
+– registering career developments for alumni for the purposes mentioned here.
+
+– safety and security, organisational analysis, internal control, development and management reporting, justifications for accreditation studies
+– audits
+– financial administration (including calculation and collection of tuition fees, including transferring claims to third parties)
+– management or purchasing and payment systems, implementation and management of IT procedures, legal affairs
+– handling requests and disputes, complaints procedures and appeals and objections
+– (market) research, organisational analysis, development and management reports
+– library matters, physical and digital archiving
+– employee participation and elections.
+
+Learning Analytics3
+
+Avans processes personal data in the context of Learning Analytics with the following processing purposes: (research aimed at) tailor-made advice on the quality and content of education, personal development and counselling of individual students, whereby analysis of the collected data improves the quality and possibilities of this.
+
+2 Learning Analytics. To better understand and optimise individual learning and the learning environment, and to be able to advise individual students better, Avans can use data science to measure, collect, analyse and report various data from students and their environment. The Avans Ethics Committee has carefully considered this processing and issued a positive opinion.
+
+Avans aims to anonymise the data to be processed where possible but this is not always possible, for example, because of the intended feedback and advice to individual students. This privacy statement indicates under which circumstances the traceable personal data is processed.
+
+3 Learning Analytics. To better understand and optimise individual learning and the learning environment, and to be able to advise individual students better, Avans can use data science to measure, collect, analyse and report various data from students and their environment. The Avans Ethics Committee has carefully considered this processing and issued a positive opinion.
+
+Avans aims to anonymise the data to be processed where possible but this is not always possible, for example, because of the intended feedback and advice to individual students. This privacy statement indicates under which circumstances the traceable personal data is processed.
+
+Staff (including external staff, doctoral candidates, former staff and applicants)
+Personal data:
+
+Identification data
+Name, address and contact details
+Background data
+Visual material
+Financial details
+Appointment, performance and appraisal data
+Communication from, to and with data subjects
+Data on attendance, absenteeism, availability, location, Internet behaviour
+Education level and diplomas
+Employment history
+Digital data
+
+Purposes:
+
+– recruitment & selection
+– preparation and execution of the employment agreement (including employment conditions)
+– preparation and execution of the employment agreement (including employment conditions) in the event of a transfer of the data subject to (temporary employment at) another organisational unit of the group to which the Executive Board of the Avans Foundation is connected
+– determining salary entitlements, salary administration
+– settlement of claims, internal control and auditing
+– handling of personnel matters
+
+– directing the activities of the data subject
+– organisation and care of company medical care, company welfare work or the creation of a safe environment for the data subject
+– training/education
+– granting dismissal, executing claims for benefits in connection with the termination of employment and updating pension rights
+– the administration of the association of former staff
+– (the possibility of) granting dismissal
+– placing claims in the hands of third parties.
+
+– financial administration
+– internal control and business security
+– management of purchasing and payment systems, implementation and management of IT procedures, legal affairs, internal and external information provision, organisational analysis, development and management reporting
+– preparation and execution of agreements with customers, consumers, suppliers and business partners
+– relationship management, marketing and market research
+– handling disputes, such as complaints, appeal and objection procedures
+– audit by an accountant or (government) consultant
+– physical access and management systems, management of websites, the Intranet (iAvans) and Microsoft Teams, library matters, physical and digital archiving, participation and elections
+– sending information, newsletters or presents.
+
+Avans may provide information to government and semi-government bodies, on account of the implementation of laws and regulations, and also to organisations whose activities result from a statutory regulation.
+
+Visitors to Avans’ websites
+Personal data:
+
+Digital data (such as Internet browser, device type, location data, data surfing behaviour across multiple websites).
+
+Purposes:
+
+Marketing and market research, handling disputes (complaints, appeal and objection procedures, etc.), web content management, analytical purposes.
+
+Visitors to Avans venues (campus, buildings)
+Personal data:
+
+Visual material
+Contact details
+
+Purposes:
+
+Safety and security, camera surveillance, management of parking facilities and the handling of disputes (for example, complaints, appeal and objection procedures).
+
+Study participants (e.g. interviewees and respondents)
+Personal data:
+Research data*
+
+Identification data
+Contact data
+Visual/sound material
+Financial data
+Employment details
+Digital data
+Possible special personal data such as health, race, genetic or biometric data
+
+* This data is processed in accordance with the GDPR and the Netherlands Code of Conduct for Research Integrity (NGWI). Where necessary, the Avans Ethics Committee reviews prior to the survey.
+
+Purposes:
+
+Conducting and publishing scientific, practice-oriented and statistical research, internal and external information provision, substantiation of integrity investigations, implementation and management of IT procedures, handling disputes (for example, complaints, appeal and objection procedures), physical and digital archiving.
+
+Business associates that are involved in the education and research of Avans (e.g. internship and graduation companies or clients from the professional field)
+Personal data:
+
+Name
+Contact details
+Business information
+Visual/sound material
+Communication from, to and with data subjects
+
+Purposes:
+
+– preparing and executing an agreement
+– business security
+– executing and managing IT procedures, legal affairs, internal and external information provision, organisational analysis and formation and execution of agreements with customers, consumers, suppliers and business partners
+– relationship management, marketing and market research
+– handling of disputes (for example, complaints, appeal and objection procedures)
+– audit by an accountant and/or (government) consultant
+– management of the websites, Intranet (iAvans) and Microsoft Teams.
+
+Business associates that provide services to Avans (for example, suppliers).
+Personal data:
+
+Name
+Contact details
+Business information
+Visual/sound material
+Communication from, to and with data subjects
+
+Purposes:
+
+– preparing and executing an agreement
+– business security
+– executing and managing IT procedures, legal affairs, internal and external information provision, organisational analysis and formation and execution of agreements with customers, consumers, suppliers and business partners
+– relationship management, marketing and market research
+– handling of disputes (for example, complaints, appeal and objection procedures)
+– audit by an accountant and/or (government) consultant
+– management of the websites, Intranet (iAvans) and Microsoft Teams.
+
+Basis for processing your personal data
+Avans may only process your personal data if there is a legitimate legal ground to do so. The personal data processed by Avans is based on one of the following six principles from the GDPR:
+
+1. Consent
+In some cases, we process your personal data because you have given us consent to do so. For this, we only use identifiable data from persons who have given prior, explicit, free will and appropriately informed consent that Avans may process it for the aforementioned purposes.
+
+Consent consists, for example, of ticking a check box, submitting a web form, signing a paper form or verbal acceptance.
+
+You can always withdraw previously given explicit consent. After this, Avans is not allowed to collect additional data from you, because this affects the lawfulness of data processing based on the previously given consent. If you also want previously collected data to be deleted, you can exercise your right to deletion. More information can be found under “Your rights with regard to your personal data”.
+
+Examples of processing after consent:
+
+Sending information about Avans to interested prospective students
+Visual material (videos/photos)
+Research
+Learning Analytics
+2. Necessary for the execution of an agreement
+We process personal data if this is necessary for the execution of an agreement between Avans and other parties. The processing is part of the terms and conditions that are accepted by the other party.
+
+Examples of processing operations for the execution of an agreement are:
+
+in the employment agreement between Avans and its staff
+for the (education) agreement between Avans and its students
+for purchasing processes.
+3. Statutory obligation
+Legislation may be a reason for processing personal data.
+
+Examples of processing by Avans based on statutory obligations:
+
+Conducting a student administration for the granting of degrees, based on the Dutch Higher Education and Research Act (WHW).
+Providing information about the employer’s social or tax obligations for employees to government authorities on account of tax and labour legislation.
+4. Vital interests
+A vital interest is an interest that is essential to a person’s life or health and where the individual cannot be asked for consent to have his or her personal data processed. If a situation gives rise to this, Avans may process personal data.
+
+Examples of processing in the case of a vital interest:
+
+When, for example, a student or staff member is in acute danger and he or she is unconscious or mentally unable to give consent for data processing.
+When an individual has been injured on campus and cannot give consent because of this.
+5. General interest
+In some situations, Avans can process personal data on the basis of public interest, because as a university of applied sciences, it is charged with the public task of offering higher education. These processing operations are derived from specific legislation (for example the Dutch Higher Education and Research Act (WHW)), or, for example, from policy documents of the Ministry of Education, Culture and Science.
+
+6. Legitimate interest
+There is a legitimate interest if three conditions are met:
+
+Avans actually has a legitimate interest: the interests of Avans must qualify as legitimate.
+The processing is necessary to protect this interest.
+Avans carefully weighed up its interests and those of the data subjects.
+On account of a legitimate interest, Avans only processes personal data after weighing the (privacy) interests of the data subjects and the (legitimate) interests of Avans.
+
+Examples of processing based on a legitimate interest are:
+
+monitoring surfing behaviour or activities on the Avans network for reasons of (network) security
+informing existing business associates about activities of Avans
+combating irregularities, such as fraud.
+This is how Avans handles the provision of data to third parties
+Avans can engage third parties for the processing of your personal data, for example, if this is necessary for the execution of an agreement, in connection with its services or to comply with a statutory obligation. When other parties are involved in the execution (for example, when hosting the applications with which personal data is processed or when a researcher has interviews conducted by a third party), Avans always concludes a (processing) agreement with these parties, defining the requirements for secure processing. This also means the third party is obliged to comply with the GDPR.
+
+Avans may also transfer personal data outside the EU. This is only possible if that country has an adequate level of protection in accordance with European legislation. Additional and appropriate agreements are made with parties outside the European Economic Area (EEA), in accordance with the criteria on the European Commission country list.
+
+Avans only provides special personal data to third parties with the explicit consent of the data subject, for example, via a consent form.
+
+Avans may provide personal data to enforcement authorities or anti-fraud organisations, for example, to comply with a statutory obligation.
+
+Avans never sells your personal data to third parties.
+
+Students
+Additional information:
+
+We provide information about, for example, enrolment, exam results, study progress, termination of enrolment to the Education Executive Agency (DUO), Central Register of Higher Education Enrolment (CRIHO), on the basis of a statutory obligation in the WHW.
+Avans is allowed to exchange information about the study progress (data) of its former students with the educational institution.
+In research aimed at quality improvement, consent can be granted to link external information to Avans (e-mail address) files. This also applies to the linking of information from the HBO monitor via the student ID number to Avans files.
+For Studiekeuze 123 and ROA, an annual exchange of e-mail address files of students and alumni is possible and necessary, in order to connect to the Dutch National Student Survey (NSE) and HBO monitor.
+Linking with Avans files is only possible after a written, substantiated request from an (external) data requesting party, for a recognised specific application.
+The following applies to requesting and passing on data to foreign educational institutions, internship companies and the Immigration and Naturalisation Service (IND):
+When students want to follow a study or internship period abroad, Avans can provide relevant personal data and study results of the student concerned to the foreign institutions or companies involved.
+For the exchange of students who are temporarily studying at Avans, Avans has the right to request relevant personal data and study results of the students involved from their home institution.
+On the basis of the Dutch Aliens Act 2000, we ask prospective students who do not have Dutch nationality for documentation in addition to the documents for enrolment and for a valid residence status. At the time of enrolment, the student must be lawfully resident in the Netherlands. According to the WHW and the Dutch Residence Status Act, Avans is obliged to check this.
+By enrolling as a student at Avans and in accordance with the Code of Conduct for International Students in Higher Education, the non-EEA student agrees that Avans will inform the Immigration and Naturalisation Service (IND) when the enrolment is terminated or if the institution has established that the student no longer delivers a reasonable academic performance.
+Staff
+Avans only provides personal data to third parties on account of to a statutory regulation and if this is necessary with a view to:
+an employment condition applicable to the data subject
+the payroll administration
+the administration for benefit entitlements upon termination of employment
+the administration of the association of former staff
+the department
+the company medical organisation
+business security
+the transfer or temporary employment of the data subject to another organisational unit of the Avans Foundation
+(the possibility of) granting dismissal
+transferring claims to third parties
+handling disputes
+audit by an accountant or government consultant
+the performance of employee satisfaction surveys or similar themes that are important for the organisation.
+Avans may also provide information to government and semi-government bodies on account of their assignment to implement of laws and regulations, and also to organisations whose activities result from a statutory regulation.
+Personal data can also be provided to third parties in more detail, if this is in the interest of staff. Data subjects or their legal representatives will be informed in good time of the intention to do so and will be given the opportunity to object to this within a reasonable period of time.
+This is how Avans stores your personal data
+Avans does not store your personal data for longer than is necessary to realise the purposes for which the data was collected, or as long as specific laws or regulations prescribe. This includes the retention periods from the Dutch Public Records Act (detailed in the Selection List for Universities of Applied Sciences) or tax and labour-law acts. The retention period is entered in the processing register for each processing operation.
+
+When you choose to exercise one of your rights (see below ‘Your rights with regard to your personal data’ this may affect the retention period of your personal data.
+
+Learning Analytics
+The personal data from Learning Analytics will be kept for a maximum of six months after the study has ended. After the expiry of this retention period, the data will not be destroyed, but adequately anonymised. As a result, it can never be traced back to an individual person.
+
+Visual material at Avans
+On the Avans campus, in Avans buildings and complexes, but also outside of it (for example, at (Avans) events), Avans can produce or collect visual material (photo or video).
+
+Visual material made by or on behalf of Avans
+Avans makes visual material (photos or videos) on various occasions. We use this material, for example, for teaching materials, recruitment or to show what we as staff and students are working on. Examples include work placements, (practical) lectures and tutorials and meetings. You too may appear in this visual material.
+
+Of course, we handle our visual material with due care. We do not post visual material that could cause damage to students/staff or others.
+
+In portrait situations or related situations, we always ask for explicit, specific written consent.
+
+We do not ask for written consent in situations that are not staged. In cases like that, the visual material is collected on the basis of, for example, the legitimate interest for Avans. Of course, you can tell the photographer or camera crew that you do not want to be in any visual material.
+
+Visual material can be shared with photographers, camera crews or third parties who process the visual material on behalf of Avans in publications or other communications. Visual material can also be shared in partnerships of Avans, or for journalistic use.
+
+Recordings of visual material in teaching/education situations
+In principle, Avans uses the recommendations of the Dutch Data Protection Authority (hereinafter referred to as DPA). The DPA says the following:
+
+“You are not permitted to just make recordings in which pupils or students can be seen. This is only permitted in exceptional situations. In such cases, you must be able to substantiate why this is necessary. You also have to clearly explain this in advance to your pupils or students.”
+
+Avans has translated this basic rule into implementation rules. In the main, they read as follows:
+
+Teaching/education situations in which students do not appear on the screen and cannot be heard may be recorded and made available later to other groups or participants who later want to see this teaching or education situation.
+Teaching/education situations in which students can be seen and/or heard may not be recorded, unless this is necessary.
+Avans has designated the following situations as necessary and therefore as exceptions:
+During and in the relevant lesson, the lecturer uses recordings to provide feedback or assessment of the student. Just like with physical education.
+The teacher must check whether the recording is a necessary part of the feedback/assessment. If the feedback/assessment can be done using a less intrusive method (such as an audio recording or a report), then this method should be used.
+The lecturer makes recordings (and did so before the digital education situation) as evidence for examination for archiving. The lecturer therefore does not use this material as (teaching) material for another (teaching) situation.
+Based on these rules, it is always the lecturer who determines whether a teaching/education situation is recorded. Students are not permitted to record teaching/education situations.
+For staff of Avans, we refer to our implementation rules of 23 April 2021 when it comes to recording visual material in teaching/education situations.
+
+In accordance with the rules & regulations of Avans, Avans students are not permitted to record and/or publish, distribute (for example, via social media) teaching/educations situations in which Avans has a share and/or to otherwise process this.
+
+Footage made by CCTV monitoring
+The Avans campus, buildings and complexes are monitored using CCTV (visible or hidden).
+
+People may be recognisable in this footage. This means Avans processes your personal data with the aim of:
+
+protecting the health and safety of one or more natural persons, such as students and staff
+securing (access to) buildings and sites of Avans
+countering the theft or destruction of goods in the buildings or on the sites of Avans
+recording possible incidents.
+Avans collects this footage for the aforementioned security purposes through camera monitoring, based on its legitimate interest. We delete the recorded footage after four weeks.
+
+Online proctoring
+In 2021, several pilots with online proctoring, a form of location-independent digital testing, were carried out to a very limited extent and based on established guarantees. Apart from these pilots, Avans does not use online proctoring for examinations.
+
+Your rights with regard to your personal data
+As a data subject, you have various rights based on the GDPR.
+
+If you want to invoke one of the rights below, you can submit a request via privacy@avans.nl. We respond to your request as quickly as possible, yet within one month. If we are unable to do so, we will let you know within a month.
+
+To ensure that the request for access, correction or deletion has been made by you, we may contact you and ask for confirmation. In addition, we may ask you to show a secure copy of your passport or identity card to check whether it is indeed your data.
+
+The right to access
+You have the right to know whether Avans processes your personal data. If your data is processed, you have the right to access this data.
+
+The right to oblivion or deletion
+You have the right to ask us to delete your personal details. For example, if the personal data is no longer necessary for the purposes for which we collected or processed it, or if you withdraw your consent to the use of your personal data.
+
+You cannot have your personal data deleted if Avans has a statutory obligation to process your data or to keep it for a certain period of time, or if the data is necessary to establish, exercise or defend a legal claim.
+
+The right to rectification and supplementation
+You have the right to change or rectify incorrect personal data that Avans processes about you. You also have the right to have incomplete data about you completed or supplemented, depending on the purposes of the processing. As a student or staff member, you can also change data yourself in OSIRIS or the HR Selfservice staff portal.
+
+The right to data portability
+You have the right to receive from us the personal data we process about you in a structured, commonly used and machine-readable form, if that personal data has been provided to us by you or on your behalf and has been used by us via automated systems.
+
+The right to withdraw your consent
+If Avans’ data processing is based on the ‘consent’ basis, you have the right to withdraw your consent to the processing of your data at any time. The processing of your data prior to the withdrawal of consent remains lawful.
+
+The right to a restriction of processing
+You have the right to restrict the processing of your personal data if one of the following applies:
+
+the data may be incorrect
+the processing is unlawful
+the data is no longer needed
+the data subject objects.
+The right to object
+If Avans has a legitimate interest in processing your personal data, you have the right to object to its processing on account of your specific situation. We will stop processing your personal data unless we demonstrate a compelling legitimate interest to continue processing it that overrides your interests, rights and freedoms. If we need the data to establish, exercise or defend a legal claim, we may also continue the processing.
+
+If you exercise your right to object, Avans will weigh your interests against the interests of Avans or the interests of relevant third parties, after which we will make a decision on your objection.
+
+Third-party privacy policy via links
+The Avans website and other locations contain links to external websites that do not belong to Avans. After following these links, Avans is not responsible for the way in which these parties handle personal data.
+
+Cookies
+In addition to personal data, Avans uses cookies for its websites, for example, to improve the ease of use of its websites. Cookies do not contain any personal data of the user. They only remember preferences and interests based on the surfing behaviour of the device. Avans uses these cookies to improve user experiences. Read more about our cookie policy here.
+
+Data breach
+In the unlikely event that data nevertheless falls into the hands of third parties who are not permitted to have access to that data, then this constitutes a data breach. You can report a suspected data breach according to the data breach protocol. Call the service desk on 088 525 88 88. Avans will then complete all the required steps.
+
+Complaints
+If you have any questions or comments about the processing of your data by Avans, please first contact our privacy organisation via privacy@avans.nl. We take your privacy and rights very seriously and are happy to assist you.
+
+Naturally, you can also contact our DPO (afterwards). The DPO can be reached by phone at 030 889 65 75 or by e-mail at fg@lumengroup.nl. The DPO can also be reached via this secure website or at
+
+Lumen Group B.V.
+Reactorweg 301
+3542 AD UTRECHT
+
+In addition, in accordance with the GDPR, you always have the right to file a complaint with the Dutch Data Protection Authority. You can do this at https://autoriteitpersoonsgegevens.nl/nl/zelf-doen/gebruik-uw-privacyrechten/klacht-melden-bij-de-ap.
+
+Questions
+If you have any questions or comments about our privacy statement after reading this information, please send an e-mail to our privacy organisation at privacy@avans.nl.
+
+Version control and changes privacy statement
+After the approval of the Joint Consultative Council, this privacy statement was adopted by the Executive Board on March 8, 2022 and it will come into effect on that date.
+
+Avans reserves the right to make changes to this privacy statement. We will announce changes to this text via the Avans website and they take effect from the moment they are published on the website. We therefore advise you to regularly read this statement for possible changes.
+
+This text was last changed on March 8, 2022
+Version 2.
