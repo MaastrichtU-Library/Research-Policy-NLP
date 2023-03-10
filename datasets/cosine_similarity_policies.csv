@@ -1,0 +1,106 @@
+Source,Target,Distance
+avans, TU Eindhoven ,0.9246816475371588
+avans, hogeschool Leiden ,0.8822102026870611
+avans, WUR ,0.875
+artez, TU Eindhoven ,0.945748234483193
+artez, WUR ,0.9093816860004734
+artez,The Hague,0.9079619915156648
+amsterdamuas, TU Eindhoven ,0.9021345201565178
+amsterdamuas, WUR ,0.8978327629330376
+amsterdamuas,The Hague,0.8748197176357894
+The Hague, hogeschool Leiden ,0.9602640292880488
+The Hague,TU Delft,0.9578325494799952
+The Hague, TU Eindhoven ,0.9478802475942956
+TU Delft, TU Eindhoven ,0.9582426154670338
+TU Delft,The Hague,0.9578325494799952
+TU Delft, WUR ,0.9273452257851128
+Saxion, TU Eindhoven ,0.9039015447468952
+Saxion, Royal Conservatoire The Hague,0.8912067971869743
+Saxion, hogeschool Leiden ,0.8860318717311718
+NHL Stendedn, TU Eindhoven ,0.9131337459904928
+NHL Stendedn, hogeschool Leiden ,0.9116978428623304
+NHL Stendedn,TU Delft,0.8791199751759866
+Fontys, TU Eindhoven ,0.9164852309340676
+Fontys, WUR ,0.8982833160991581
+Fontys, Maastricht University ,0.8655674466034258
+BUAS ,The Hague,0.904851866706076
+BUAS , TU Eindhoven ,0.9003412207527738
+BUAS , WUR ,0.8865025137313034
+AUAS , TU Eindhoven ,0.9037214521868832
+AUAS , Royal Conservatoire The Hague,0.8855530598411
+AUAS ,The Hague,0.8794422118721403
+AHK , TU Eindhoven ,0.9178504469765556
+AHK ,The Hague,0.8639517035895816
+AHK , WUR ,0.8627831938760955
+ rug , TU Eindhoven ,0.9088511197817308
+ rug , hogeschool Leiden ,0.9073444246476275
+ rug ,TU Delft,0.901674746606892
+ rotterdam uas , TU Eindhoven ,0.9175311293449496
+ rotterdam uas , hogeschool Leiden ,0.8672658656756428
+ rotterdam uas , WUR ,0.8660762219361583
+ international HU , TU Eindhoven ,0.938893106083011
+ international HU , WUR ,0.9007666040033452
+ international HU ,The Hague,0.8848136447786639
+ hogeschool Leiden ,The Hague,0.9602640292880488
+ hogeschool Leiden , WUR ,0.954356453541236
+ hogeschool Leiden , TU Eindhoven ,0.9344174164216048
+ WUR , hogeschool Leiden ,0.954356453541236
+ WUR , HAS,0.9378164577296136
+ WUR ,TU Delft,0.9273452257851128
+ Vrije Universiteit Amsterdam , hogeschool Leiden ,0.8910101478173869
+ Vrije Universiteit Amsterdam ,TU Delft,0.8810364166968137
+ Vrije Universiteit Amsterdam ,The Hague,0.8700754727731533
+ University of Twente , hogeschool Leiden ,0.9044217547010752
+ University of Twente ,TU Delft,0.8945161652903106
+ University of Twente , TU Eindhoven ,0.8934394395699172
+ Universiteit Utrecht ,The Hague,0.944718654460244
+ Universiteit Utrecht , TU Eindhoven ,0.931570311498076
+ Universiteit Utrecht , WUR ,0.9206249206248808
+ UVH , TU Eindhoven ,0.9119138030002706
+ UVH ,TU Delft,0.9113133248404828
+ UVH , hogeschool Leiden ,0.910457734159015
+ Tilburg University , hogeschool Leiden ,0.8918289545152828
+ Tilburg University , TU Eindhoven ,0.8876761700049888
+ Tilburg University , Royal Conservatoire The Hague,0.8644721072229872
+ TU Eindhoven , Royal Conservatoire The Hague,0.9726104482167612
+ TU Eindhoven , Design academy Eindhoven ,0.9626004857697856
+ TU Eindhoven ,TU Delft,0.9582426154670338
+ TIAS , TU Eindhoven ,0.9350407545106758
+ TIAS , hogeschool Leiden ,0.8979489617180971
+ TIAS , Royal Conservatoire The Hague,0.8796610694646639
+ Royal academy of art The Hague,The Hague,0.9306605028818536
+ Royal academy of art The Hague, TU Eindhoven ,0.9075660890210384
+ Royal academy of art The Hague, WUR ,0.8989079894621015
+ Royal Conservatoire The Hague, TU Eindhoven ,0.9726104482167612
+ Royal Conservatoire The Hague,The Hague,0.9114927272383712
+ Royal Conservatoire The Hague, WUR ,0.904688393542122
+ Open University ,The Hague,0.908420413244477
+ Open University ,artez,0.891056290562491
+ Open University , hogeschool Leiden ,0.8847648803908812
+ Maastricht University ,The Hague,0.9328828519634452
+ Maastricht University , Universiteit Utrecht ,0.8908987399635501
+ Maastricht University ,artez,0.8882197674588349
+ Leiden University , hogeschool Leiden ,0.9202290128539452
+ Leiden University , Royal Conservatoire The Hague,0.9000546426800099
+ Leiden University , TU Eindhoven ,0.897003122439642
+ Hotelschool The Hague, TU Eindhoven ,0.915625708094266
+ Hotelschool The Hague,The Hague,0.8892362760610008
+ Hotelschool The Hague, WUR ,0.8825559560970593
+ HZ , TU Eindhoven ,0.916587640254092
+ HZ ,The Hague,0.8989222167523749
+ HZ ,TU Delft,0.8871164794432888
+ HAS, WUR ,0.9378164577296136
+ HAS, TU Eindhoven ,0.9234160418932515
+ HAS, Open University ,0.8718422586485346
+ HAN ,The Hague,0.9384412988748908
+ HAN , TU Eindhoven ,0.8983998983998476
+ HAN , WUR ,0.8939339828220179
+ EUR ,TU Delft,0.923088046946834
+ EUR , hogeschool Leiden ,0.9114169767372092
+ EUR , TU Eindhoven ,0.8890912963073299
+ Design academy Eindhoven , TU Eindhoven ,0.9626004857697856
+ Design academy Eindhoven , hogeschool Leiden ,0.9049556752479664
+ Design academy Eindhoven ,The Hague,0.901806358878216
+ Amsterdam University College, hogeschool Leiden ,0.8795171006646252
+ Amsterdam University College,artez,0.8759701330494564
+ Amsterdam University College,TU Delft,0.8721446436263081
